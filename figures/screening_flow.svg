@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1810" viewBox="0 0 1200 1810" role="img" aria-labelledby="title desc">
+<title id="title">WoS文献检索与筛选流程：11,637条至9,475篇核心样本</title>
+<desc id="desc">原始记录经初筛保留10,315条，领域筛选保留10,189条，形成初步核心8,247篇；两轮补证后核心9,470篇，本轮20篇续核新增5篇，最终核心9,475篇，12篇按用户决定单列为证据不足未纳入，当前待核验池为0。</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#64798b"/></marker></defs>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#23384a}.title{font-size:29px;font-weight:700}.sub{font-size:16px;fill:#647487}.label{font-size:22px;font-weight:600}.number{font-size:36px;font-weight:700;fill:#285b7e}.sidehead{font-size:19px;font-weight:700}.body{font-size:17px}.step{font-size:17px;fill:#4c6477}</style>
+<rect width="1200" height="1810" fill="white"/>
+<text x="60" y="52" class="title" text-anchor="start">WoS文献检索与筛选流程</text>
+<text x="60" y="85" class="sub" text-anchor="start">原始导出 → 候选筛选 → 内容复核 → 核心样本合并</text>
+<text x="285" y="115" class="sidehead" text-anchor="middle">数据与样本量</text>
+<text x="875" y="115" class="sidehead" text-anchor="middle">处理方法</text>
+<rect x="60" y="130" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="168" class="label" text-anchor="middle">原始WoS候选记录</text>
+<text x="285" y="215" class="number" text-anchor="middle">11,637 条</text>
+<rect x="60" y="340" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="378" class="label" text-anchor="middle">初步筛选后保留</text>
+<text x="285" y="425" class="number" text-anchor="middle">10,315 条</text>
+<rect x="60" y="550" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="588" class="label" text-anchor="middle">领域筛选后保留</text>
+<text x="285" y="635" class="number" text-anchor="middle">10,189 条</text>
+<rect x="60" y="800" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="838" class="label" text-anchor="middle">初步核心样本</text>
+<text x="285" y="885" class="number" text-anchor="middle">8,247 篇</text>
+<rect x="60" y="1030" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="1068" class="label" text-anchor="middle">待定池复核后核心样本</text>
+<text x="285" y="1115" class="number" text-anchor="middle">9,446 篇</text>
+<rect x="60" y="1260" width="450" height="110" rx="8" fill="#f0f5f9" stroke="#9aafbf" stroke-width="1.4"/>
+<text x="285" y="1298" class="label" text-anchor="middle">首轮补证后核心样本</text>
+<text x="285" y="1345" class="number" text-anchor="middle">9,470 篇</text>
+<rect x="60" y="1490" width="450" height="110" rx="8" fill="#e1edf5" stroke="#3f7397" stroke-width="1.4"/>
+<text x="285" y="1528" class="label" text-anchor="middle">本次核心分析样本</text>
+<text x="285" y="1575" class="number" text-anchor="middle">9,475 篇</text>
+<path d="M285,244 L285,335" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,290.0 L604,290.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,454 L285,545" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,500.0 L604,500.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,664 L285,795" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,730.0 L604,730.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,914 L285,1025" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,970.0 L604,970.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,1144 L285,1255" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,1200.0 L604,1200.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,1374 L285,1485" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M285,1430.0 L604,1430.0" fill="none" stroke="#64798b" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="610" y="220" width="530" height="140" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="251" class="sidehead" text-anchor="start">第一轮：题名摘要初筛与撤稿核查</text>
+<text x="630" y="285" class="body" text-anchor="start">未见AI科学任务、纯综述及其他非目标研究：1,318条</text>
+<text x="630" y="312" class="body" text-anchor="start">明确撤稿记录：4条</text>
+<rect x="610" y="410" width="530" height="180" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="441" class="sidehead" text-anchor="start">第二轮：模型辅助初审与领域筛选</text>
+<text x="630" y="475" class="body" text-anchor="start">剔除交通、金融、临床及其他非目标研究</text>
+<text x="630" y="502" class="body" text-anchor="start">专项排除110条＋落实既有建议18条</text>
+<text x="630" y="529" class="body" text-anchor="start">两组重叠2条，按并集移出126条</text>
+<text x="630" y="556" class="body" text-anchor="start">模型初审用于定位疑点，本身未新增删除</text>
+<rect x="610" y="625" width="530" height="210" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="656" class="sidehead" text-anchor="start">第三轮：科学任务、原创性及出版关系核验</text>
+<text x="630" y="690" class="body" text-anchor="start">初步核心：8,247篇；待定：1,412篇</text>
+<text x="630" y="717" class="body" text-anchor="start">拓展参考：513篇</text>
+<text x="630" y="744" class="body" text-anchor="start">非目标或非原创排除：13篇</text>
+<text x="630" y="771" class="body" text-anchor="start">重复合并或撤稿旧版移除：4篇</text>
+<rect x="610" y="885" width="530" height="170" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="916" class="sidehead" text-anchor="start">第四轮：复核1,412篇待定文献</text>
+<text x="630" y="950" class="body" text-anchor="start">核对AI方法、科学任务与原创研究证据</text>
+<text x="630" y="977" class="body" text-anchor="start">纳入1,199篇；排除142篇</text>
+<text x="630" y="1004" class="body" text-anchor="start">转拓展参考20篇；仍待补证51篇</text>
+<rect x="610" y="1115" width="530" height="170" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="1146" class="sidehead" text-anchor="start">第五轮：补充证据核查</text>
+<text x="630" y="1180" class="body" text-anchor="start">补查出版社、作者稿及公开方法资料</text>
+<text x="630" y="1207" class="body" text-anchor="start">纳入24篇；排除6篇；转拓展参考1篇</text>
+<text x="630" y="1234" class="body" text-anchor="start">20篇仍待补证，未计入核心</text>
+<rect x="610" y="1345" width="530" height="170" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="630" y="1376" class="sidehead" text-anchor="start">第六轮：20篇待补证文献续核</text>
+<text x="630" y="1410" class="body" text-anchor="start">补查出版社方法片段、公开全文及作者稿</text>
+<text x="630" y="1437" class="body" text-anchor="start">纳入5篇；排除2篇；转拓展参考1篇</text>
+<text x="630" y="1464" class="body" text-anchor="start">12篇单列为“证据不足未纳入”</text>
+<rect x="60" y="1620" width="1080" height="90" rx="8" fill="#f7f8fa" stroke="#c3cdd5" stroke-width="1.4"/>
+<text x="80" y="1652" class="sidehead" text-anchor="start">当前分区核对（共10,189条）</text>
+<text x="80" y="1686" class="body" text-anchor="start">核心9,475＋拓展535＋证据不足未纳入12＋内容排除163＋质量移除4＝10,189条</text>
+<text x="60" y="1750" class="sub" text-anchor="start">注：8,247篇以后为核心样本量；后续复核将符合要求的待定文献补入。</text>
+<text x="60" y="1778" class="sub" text-anchor="start">本次样本处置已确定；证据不足12篇单列，当前待核验池为0。更新日期：2026-10-23。</text>
+</svg>
