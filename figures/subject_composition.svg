@@ -1,638 +1,401 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="662.4pt" height="417.6pt" viewBox="0 0 662.4 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
- <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-23T11:43:16.004430</dc:date>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
-     </cc:Agent>
-    </dc:creator>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="figure_1">
-  <g id="patch_1">
-   <path d="M 0 417.6 
-L 662.4 417.6 
-L 662.4 0 
-L 0 0 
-z
-" style="fill: #ffffff"/>
-  </g>
-  <g id="axes_1">
-   <g id="patch_2">
-    <path d="M 66.24 296.496 
-L 635.904 296.496 
-L 635.904 87.696 
-L 66.24 87.696 
-z
-" style="fill: #ffffff"/>
-   </g>
-   <g id="FillBetweenPolyCollection_1">
-    <defs>
-     <path id="maedc2e07f7" d="M 66.24 -151.1712 
-L 66.24 -121.104 
-L 101.844 -121.104 
-L 137.448 -121.104 
-L 173.052 -121.104 
-L 208.656 -121.104 
-L 244.26 -121.104 
-L 279.864 -121.104 
-L 315.468 -121.104 
-L 351.072 -121.104 
-L 386.676 -121.104 
-L 422.28 -121.104 
-L 457.884 -121.104 
-L 493.488 -121.104 
-L 529.092 -121.104 
-L 564.696 -121.104 
-L 600.3 -121.104 
-L 635.904 -121.104 
-L 635.904 -133.350128 
-L 635.904 -133.350128 
-L 600.3 -133.367145 
-L 564.696 -134.53353 
-L 529.092 -136.024157 
-L 493.488 -133.270406 
-L 457.884 -137.760699 
-L 422.28 -138.124561 
-L 386.676 -139.075343 
-L 351.072 -132.584412 
-L 315.468 -138.675148 
-L 279.864 -142.194909 
-L 244.26 -133.758545 
-L 208.656 -136.888286 
-L 173.052 -143.249455 
-L 137.448 -132.124 
-L 101.844 -141.486857 
-L 66.24 -151.1712 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#maedc2e07f7" x="0" y="417.6" style="fill: #456b8a; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="FillBetweenPolyCollection_2">
-    <defs>
-     <path id="m0b0d69584e" d="M 66.24 -174.8352 
-L 66.24 -151.1712 
-L 101.844 -141.486857 
-L 137.448 -132.124 
-L 173.052 -143.249455 
-L 208.656 -136.888286 
-L 244.26 -133.758545 
-L 279.864 -142.194909 
-L 315.468 -138.675148 
-L 351.072 -132.584412 
-L 386.676 -139.075343 
-L 422.28 -138.124561 
-L 457.884 -137.760699 
-L 493.488 -133.270406 
-L 529.092 -136.024157 
-L 564.696 -134.53353 
-L 600.3 -133.367145 
-L 635.904 -133.350128 
-L 635.904 -143.40438 
-L 635.904 -143.40438 
-L 600.3 -148.304539 
-L 564.696 -148.374121 
-L 529.092 -149.776323 
-L 493.488 -148.934938 
-L 457.884 -158.606913 
-L 422.28 -163.102505 
-L 386.676 -160.838328 
-L 351.072 -154.899464 
-L 315.468 -173.760393 
-L 279.864 -176.467636 
-L 244.26 -144.304 
-L 208.656 -149.316857 
-L 173.052 -170.140364 
-L 137.448 -140.244 
-L 101.844 -145.215429 
-L 66.24 -174.8352 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#m0b0d69584e" x="0" y="417.6" style="fill: #7195ab; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="FillBetweenPolyCollection_3">
-    <defs>
-     <path id="mde4836e1b3" d="M 66.24 -174.8352 
-L 66.24 -174.8352 
-L 101.844 -145.215429 
-L 137.448 -140.244 
-L 173.052 -170.140364 
-L 208.656 -149.316857 
-L 244.26 -144.304 
-L 279.864 -176.467636 
-L 315.468 -173.760393 
-L 351.072 -154.899464 
-L 386.676 -160.838328 
-L 422.28 -163.102505 
-L 457.884 -158.606913 
-L 493.488 -148.934938 
-L 529.092 -149.776323 
-L 564.696 -148.374121 
-L 600.3 -148.304539 
-L 635.904 -143.40438 
-L 635.904 -154.440912 
-L 635.904 -154.440912 
-L 600.3 -160.548031 
-L 564.696 -159.879141 
-L 529.092 -158.716087 
-L 493.488 -154.100563 
-L 457.884 -162.992388 
-L 422.28 -165.812785 
-L 386.676 -163.781612 
-L 351.072 -154.899464 
-L 315.468 -175.471869 
-L 279.864 -176.467636 
-L 244.26 -146.413091 
-L 208.656 -149.316857 
-L 173.052 -173.304 
-L 137.448 -140.244 
-L 101.844 -145.215429 
-L 66.24 -174.8352 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#mde4836e1b3" x="0" y="417.6" style="fill: #8bb7ae; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="FillBetweenPolyCollection_4">
-    <defs>
-     <path id="mcc3910e43b" d="M 66.24 -179.0112 
-L 66.24 -174.8352 
-L 101.844 -145.215429 
-L 137.448 -140.244 
-L 173.052 -173.304 
-L 208.656 -149.316857 
-L 244.26 -146.413091 
-L 279.864 -176.467636 
-L 315.468 -175.471869 
-L 351.072 -154.899464 
-L 386.676 -163.781612 
-L 422.28 -165.812785 
-L 457.884 -162.992388 
-L 493.488 -154.100563 
-L 529.092 -158.716087 
-L 564.696 -159.879141 
-L 600.3 -160.548031 
-L 635.904 -154.440912 
-L 635.904 -165.134404 
-L 635.904 -165.134404 
-L 600.3 -170.136928 
-L 564.696 -168.887436 
-L 529.092 -168.553252 
-L 493.488 -164.907594 
-L 457.884 -174.513553 
-L 422.28 -176.784 
-L 386.676 -175.381612 
-L 351.072 -167.097402 
-L 315.468 -181.747279 
-L 279.864 -182.794909 
-L 244.26 -146.413091 
-L 208.656 -151.802571 
-L 173.052 -173.304 
-L 137.448 -140.244 
-L 101.844 -145.215429 
-L 66.24 -179.0112 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#mcc3910e43b" x="0" y="417.6" style="fill: #c3aa79; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="FillBetweenPolyCollection_5">
-    <defs>
-     <path id="m72b7022aa0" d="M 66.24 -185.9712 
-L 66.24 -179.0112 
-L 101.844 -145.215429 
-L 137.448 -140.244 
-L 173.052 -173.304 
-L 208.656 -151.802571 
-L 244.26 -146.413091 
-L 279.864 -182.794909 
-L 315.468 -181.747279 
-L 351.072 -167.097402 
-L 386.676 -175.381612 
-L 422.28 -176.784 
-L 457.884 -174.513553 
-L 493.488 -164.907594 
-L 529.092 -168.553252 
-L 564.696 -168.887436 
-L 600.3 -170.136928 
-L 635.904 -165.134404 
-L 635.904 -173.338442 
-L 635.904 -173.338442 
-L 600.3 -178.761341 
-L 564.696 -177.423946 
-L 529.092 -176.807976 
-L 493.488 -172.610719 
-L 457.884 -181.608699 
-L 422.28 -178.952224 
-L 386.676 -177.112955 
-L 351.072 -169.429361 
-L 315.468 -185.740721 
-L 279.864 -185.958545 
-L 244.26 -154.849455 
-L 208.656 -169.202571 
-L 173.052 -174.885818 
-L 137.448 -167.310667 
-L 101.844 -152.672571 
-L 66.24 -185.9712 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#m72b7022aa0" x="0" y="417.6" style="fill: #a09ab6; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="FillBetweenPolyCollection_6">
-    <defs>
-     <path id="m956a9ecfb1" d="M 66.24 -329.904 
-L 66.24 -185.9712 
-L 101.844 -152.672571 
-L 137.448 -167.310667 
-L 173.052 -174.885818 
-L 208.656 -169.202571 
-L 244.26 -154.849455 
-L 279.864 -185.958545 
-L 315.468 -185.740721 
-L 351.072 -169.429361 
-L 386.676 -177.112955 
-L 422.28 -178.952224 
-L 457.884 -181.608699 
-L 493.488 -172.610719 
-L 529.092 -176.807976 
-L 564.696 -177.423946 
-L 600.3 -178.761341 
-L 635.904 -173.338442 
-L 635.904 -329.904 
-L 635.904 -329.904 
-L 600.3 -329.904 
-L 564.696 -329.904 
-L 529.092 -329.904 
-L 493.488 -329.904 
-L 457.884 -329.904 
-L 422.28 -329.904 
-L 386.676 -329.904 
-L 351.072 -329.904 
-L 315.468 -329.904 
-L 279.864 -329.904 
-L 244.26 -329.904 
-L 208.656 -329.904 
-L 173.052 -329.904 
-L 137.448 -329.904 
-L 101.844 -329.904 
-L 66.24 -329.904 
-z
-" style="stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </defs>
-    <g clip-path="url(#pc9df67ac54)">
-     <use xlink:href="#m956a9ecfb1" x="0" y="417.6" style="fill: #d8dee5; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4"/>
-    </g>
-   </g>
-   <g id="patch_3">
-    <path d="M 619.8822 296.496 
-L 650.1456 296.496 
-L 650.1456 87.696 
-L 619.8822 87.696 
-z
-" clip-path="url(#pc9df67ac54)" style="fill: url(#h4a72dd573a)"/>
-   </g>
-   <g id="matplotlib.axis_1">
-    <g id="xtick_1">
-     <g id="line2d_1">
-      <defs>
-       <path id="mcdf085f9d0" d="M 0 0 
-L 0 3.5 
-" style="stroke: #536170; stroke-width: 0.8"/>
-      </defs>
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="66.24" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_1">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="66.24" y="311.616117" transform="rotate(-0 66.24 311.616117)">2010</text>
-     </g>
-    </g>
-    <g id="xtick_2">
-     <g id="line2d_2">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="137.448" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_2">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="137.448" y="311.616117" transform="rotate(-0 137.448 311.616117)">2012</text>
-     </g>
-    </g>
-    <g id="xtick_3">
-     <g id="line2d_3">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="208.656" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_3">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="208.656" y="311.616117" transform="rotate(-0 208.656 311.616117)">2014</text>
-     </g>
-    </g>
-    <g id="xtick_4">
-     <g id="line2d_4">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="279.864" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_4">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="279.864" y="311.616117" transform="rotate(-0 279.864 311.616117)">2016</text>
-     </g>
-    </g>
-    <g id="xtick_5">
-     <g id="line2d_5">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="351.072" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_5">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="351.072" y="311.616117" transform="rotate(-0 351.072 311.616117)">2018</text>
-     </g>
-    </g>
-    <g id="xtick_6">
-     <g id="line2d_6">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="422.28" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_6">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="422.28" y="311.616117" transform="rotate(-0 422.28 311.616117)">2020</text>
-     </g>
-    </g>
-    <g id="xtick_7">
-     <g id="line2d_7">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="493.488" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_7">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="493.488" y="311.616117" transform="rotate(-0 493.488 311.616117)">2022</text>
-     </g>
-    </g>
-    <g id="xtick_8">
-     <g id="line2d_8">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="564.696" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_8">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="564.696" y="311.616117" transform="rotate(-0 564.696 311.616117)">2024</text>
-     </g>
-    </g>
-    <g id="xtick_9">
-     <g id="line2d_9">
-      <g>
-       <use xlink:href="#mcdf085f9d0" x="635.904" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_9">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="635.904" y="311.616117" transform="rotate(-0 635.904 311.616117)">2026</text>
-     </g>
-    </g>
-    <g id="text_10">
-     <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #283444" x="351.072" y="326.544047" transform="rotate(-0 351.072 326.544047)">分析归年</text>
-    </g>
-   </g>
-   <g id="matplotlib.axis_2">
-    <g id="ytick_1">
-     <g id="line2d_10">
-      <defs>
-       <path id="m29a3f340a9" d="M 0 0 
-L -3.5 0 
-" style="stroke: #536170; stroke-width: 0.8"/>
-      </defs>
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="296.496" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_11">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="300.556059" transform="rotate(-0 59.24 300.556059)">0%</text>
-     </g>
-    </g>
-    <g id="ytick_2">
-     <g id="line2d_11">
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="254.736" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_12">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="258.796059" transform="rotate(-0 59.24 258.796059)">20%</text>
-     </g>
-    </g>
-    <g id="ytick_3">
-     <g id="line2d_12">
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="212.976" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_13">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="217.036059" transform="rotate(-0 59.24 217.036059)">40%</text>
-     </g>
-    </g>
-    <g id="ytick_4">
-     <g id="line2d_13">
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="171.216" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_14">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="175.276059" transform="rotate(-0 59.24 175.276059)">60%</text>
-     </g>
-    </g>
-    <g id="ytick_5">
-     <g id="line2d_14">
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="129.456" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_15">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="133.516059" transform="rotate(-0 59.24 133.516059)">80%</text>
-     </g>
-    </g>
-    <g id="ytick_6">
-     <g id="line2d_15">
-      <g>
-       <use xlink:href="#m29a3f340a9" x="66.24" y="87.696" style="fill: #536170; stroke: #536170; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_16">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.24" y="91.756059" transform="rotate(-0 59.24 91.756059)">100%</text>
-     </g>
-    </g>
-    <g id="text_17">
-     <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #283444" x="26.216758" y="192.096" transform="rotate(-90 26.216758 192.096)">学科构成（分数计数）</text>
-    </g>
-   </g>
-   <g id="patch_4">
-    <path d="M 66.24 296.496 
-L 66.24 87.696 
-" style="fill: none; stroke: #b6bec8; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
-   </g>
-   <g id="patch_5">
-    <path d="M 66.24 296.496 
-L 635.904 296.496 
-" style="fill: none; stroke: #b6bec8; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
-   </g>
-   <g id="legend_1">
-    <g id="patch_6">
-     <path d="M 174.07872 360.209531 
-L 184.87872 360.209531 
-L 184.87872 353.909531 
-L 174.07872 353.909531 
-z
-" style="fill: #456b8a; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_18">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="192.07872" y="360.209531" transform="rotate(-0 192.07872 360.209531)">计算机科学：跨学科应用</text>
-    </g>
-    <g id="patch_7">
-     <path d="M 174.07872 374.579824 
-L 184.87872 374.579824 
-L 184.87872 368.279824 
-L 174.07872 368.279824 
-z
-" style="fill: #7195ab; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_19">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="192.07872" y="374.579824" transform="rotate(-0 192.07872 374.579824)">化学：综合</text>
-    </g>
-    <g id="patch_8">
-     <path d="M 303.67872 360.209531 
-L 314.47872 360.209531 
-L 314.47872 353.909531 
-L 303.67872 353.909531 
-z
-" style="fill: #8bb7ae; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_20">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="321.67872" y="360.209531" transform="rotate(-0 321.67872 360.209531)">力学</text>
-    </g>
-    <g id="patch_9">
-     <path d="M 303.67872 374.579824 
-L 314.47872 374.579824 
-L 314.47872 368.279824 
-L 303.67872 368.279824 
-z
-" style="fill: #c3aa79; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_21">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="321.67872" y="374.579824" transform="rotate(-0 321.67872 374.579824)">材料科学：综合</text>
-    </g>
-    <g id="patch_10">
-     <path d="M 397.27872 360.209531 
-L 408.07872 360.209531 
-L 408.07872 353.909531 
-L 397.27872 353.909531 
-z
-" style="fill: #a09ab6; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_22">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="415.27872" y="360.209531" transform="rotate(-0 415.27872 360.209531)">计算机科学：人工智能</text>
-    </g>
-    <g id="patch_11">
-     <path d="M 397.27872 374.517949 
-L 408.07872 374.517949 
-L 408.07872 368.217949 
-L 397.27872 368.217949 
-z
-" style="fill: #d8dee5; fill-opacity: 0.96; stroke: #ffffff; stroke-opacity: 0.96; stroke-width: 0.4; stroke-linejoin: miter"/>
-    </g>
-    <g id="text_23">
-     <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="415.27872" y="374.517949" transform="rotate(-0 415.27872 374.517949)">其他学科</text>
-    </g>
-   </g>
-  </g>
-  <g id="text_24">
-   <text style="font-weight: 700; font-size: 16px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="49.68" y="32.2695" transform="rotate(-0 49.68 32.2695)">AI4S学科构成随时间的变化</text>
-  </g>
-  <g id="text_25">
-   <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #637080" x="49.68" y="52.232375" transform="rotate(-0 49.68 52.232375)">前5个WC类别与其他学科  |  WC已标注 9,470 篇</text>
-  </g>
-  <g id="text_26">
-   <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #637080" x="66.24" y="398.808" transform="rotate(-0 66.24 398.808)">每篇文献权重为1，在其WC类别间均分；斜纹区为不完整的2026年。</text>
-  </g>
- </g>
- <defs>
-  <clipPath id="pc9df67ac54">
-   <rect x="66.24" y="87.696" width="569.664" height="208.8"/>
-  </clipPath>
- </defs>
- <defs>
-  <pattern id="h4a72dd573a" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
-   <rect x="0" y="0" width="73" height="73" fill="none"/>
-   <path d="M -36 36 
-L 36 -36 
-M -33 39 
-L 39 -33 
-M -30 42 
-L 42 -30 
-M -27 45 
-L 45 -27 
-M -24 48 
-L 48 -24 
-M -21 51 
-L 51 -21 
-M -18 54 
-L 54 -18 
-M -15 57 
-L 57 -15 
-M -12 60 
-L 60 -12 
-M -9 63 
-L 63 -9 
-M -6 66 
-L 66 -6 
-M -3 69 
-L 69 -3 
-M 0 72 
-L 72 0 
-M 3 75 
-L 75 3 
-M 6 78 
-L 78 6 
-M 9 81 
-L 81 9 
-M 12 84 
-L 84 12 
-M 15 87 
-L 87 15 
-M 18 90 
-L 90 18 
-M 21 93 
-L 93 21 
-M 24 96 
-L 96 24 
-M 27 99 
-L 99 27 
-M 30 102 
-L 102 30 
-M 33 105 
-L 105 33 
-M 36 108 
-L 108 36 
-" style="fill: #a98a54; stroke: #a98a54; stroke-width: 1.0; stroke-linecap: butt; stroke-linejoin: miter"/>
-  </pattern>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="770" viewBox="0 0 1200 770" role="img" aria-labelledby="title desc">
+  <title id="title">AI4S学科年度分布：按年份展示各学科分数计数的堆叠柱状图</title>
+  <desc id="desc">2010至2026年，每年一根堆叠柱，前五个WC类别及其他学科按文献权重均分。9,470篇有WC标注，5篇缺WC未计入；2026年为不完整年度。</desc>
+  <style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif;fill:#283444} .tick{font-size:15px;fill:#536170} .note{font-size:15px;fill:#637080}</style>
+  <defs>
+    <pattern id="partial-year" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#9b6824" stroke-width="1.5" opacity="0.65" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="770" fill="white" />
+  <text x="65" y="48" font-size="29" text-anchor="start" fill="#283444" font-weight="700">AI4S学科年度分布</text>
+  <text x="65" y="84" font-size="18" text-anchor="start" fill="#637080">前5个WC类别与其他学科  |  WC已标注 9,470 篇</text>
+  <line x1="100" y1="555.0" x2="1150" y2="555.0" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="560.0" font-size="15" text-anchor="end" fill="#536170">0</text>
+  <line x1="100" y1="481.7857142857143" x2="1150" y2="481.7857142857143" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="486.7857142857143" font-size="15" text-anchor="end" fill="#536170">500</text>
+  <line x1="100" y1="408.57142857142856" x2="1150" y2="408.57142857142856" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="413.57142857142856" font-size="15" text-anchor="end" fill="#536170">1,000</text>
+  <line x1="100" y1="335.35714285714283" x2="1150" y2="335.35714285714283" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="340.35714285714283" font-size="15" text-anchor="end" fill="#536170">1,500</text>
+  <line x1="100" y1="262.1428571428571" x2="1150" y2="262.1428571428571" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="267.1428571428571" font-size="15" text-anchor="end" fill="#536170">2,000</text>
+  <line x1="100" y1="188.9285714285714" x2="1150" y2="188.9285714285714" stroke="#E8EDF2" stroke-width="1" />
+  <text x="88" y="193.9285714285714" font-size="15" text-anchor="end" fill="#536170">2,500</text>
+  <line x1="100" y1="555" x2="1150" y2="555" stroke="#B6BEC8" />
+  <line x1="100" y1="145" x2="100" y2="555" stroke="#B6BEC8" />
+  <text x="28" y="350.0" font-size="17" text-anchor="middle" fill="#283444" transform="rotate(-90 28 350.0)">文献量（分数计数）</text>
+  <rect x="109.8824" y="554.4729" width="42.0000" height="0.5271" fill="#456B8A" data-year="2010" data-category="Computer Science, Interdisciplinary Applications" data-value="3.6000000000">
+    <title>2010年 计算机科学：跨学科应用：3.60</title>
+  </rect>
+  <rect x="109.8824" y="554.0580" width="42.0000" height="0.4149" fill="#7195AB" data-year="2010" data-category="Chemistry, Multidisciplinary" data-value="2.8333333333">
+    <title>2010年 化学：综合：2.83</title>
+  </rect>
+  <rect x="109.8824" y="554.0580" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2010" data-category="Mechanics" data-value="0.0000000000">
+    <title>2010年 力学：0.00</title>
+  </rect>
+  <rect x="109.8824" y="553.9848" width="42.0000" height="0.0732" fill="#C3AA79" data-year="2010" data-category="Materials Science, Multidisciplinary" data-value="0.5000000000">
+    <title>2010年 材料科学：综合：0.50</title>
+  </rect>
+  <rect x="109.8824" y="553.8627" width="42.0000" height="0.1220" fill="#A09AB6" data-year="2010" data-category="Computer Science, Artificial Intelligence" data-value="0.8333333333">
+    <title>2010年 计算机科学：人工智能：0.83</title>
+  </rect>
+  <rect x="109.8824" y="551.3393" width="42.0000" height="2.5235" fill="#D8DEE5" data-year="2010" data-category="其他学科" data-value="17.2333333333">
+    <title>2010年 其他学科：17.23</title>
+  </rect>
+  <text x="130.88235294117646" y="541.3392857143003" font-size="14" text-anchor="middle" fill="#536170">25</text>
+  <line x1="130.88235294117646" y1="555" x2="130.88235294117646" y2="560" stroke="#B6BEC8" />
+  <text x="130.88235294117646" y="580" font-size="14" text-anchor="middle" fill="#536170">2010</text>
+  <rect x="171.6471" y="554.7999" width="42.0000" height="0.2001" fill="#456B8A" data-year="2011" data-category="Computer Science, Interdisciplinary Applications" data-value="1.3666666667">
+    <title>2011年 计算机科学：跨学科应用：1.37</title>
+  </rect>
+  <rect x="171.6471" y="554.7633" width="42.0000" height="0.0366" fill="#7195AB" data-year="2011" data-category="Chemistry, Multidisciplinary" data-value="0.2500000000">
+    <title>2011年 化学：综合：0.25</title>
+  </rect>
+  <rect x="171.6471" y="554.7633" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2011" data-category="Mechanics" data-value="0.0000000000">
+    <title>2011年 力学：0.00</title>
+  </rect>
+  <rect x="171.6471" y="554.7633" width="42.0000" height="0.0000" fill="#C3AA79" data-year="2011" data-category="Materials Science, Multidisciplinary" data-value="0.0000000000">
+    <title>2011年 材料科学：综合：0.00</title>
+  </rect>
+  <rect x="171.6471" y="554.6901" width="42.0000" height="0.0732" fill="#A09AB6" data-year="2011" data-category="Computer Science, Artificial Intelligence" data-value="0.5000000000">
+    <title>2011年 计算机科学：人工智能：0.50</title>
+  </rect>
+  <rect x="171.6471" y="552.9500" width="42.0000" height="1.7401" fill="#D8DEE5" data-year="2011" data-category="其他学科" data-value="11.8833333333">
+    <title>2011年 其他学科：11.88</title>
+  </rect>
+  <text x="192.64705882352942" y="542.95" font-size="14" text-anchor="middle" fill="#536170">14</text>
+  <line x1="192.64705882352942" y1="555" x2="192.64705882352942" y2="560" stroke="#B6BEC8" />
+  <text x="192.64705882352942" y="580" font-size="14" text-anchor="middle" fill="#536170">2011</text>
+  <rect x="233.4118" y="554.8609" width="42.0000" height="0.1391" fill="#456B8A" data-year="2012" data-category="Computer Science, Interdisciplinary Applications" data-value="0.9500000000">
+    <title>2012年 计算机科学：跨学科应用：0.95</title>
+  </rect>
+  <rect x="233.4118" y="554.7584" width="42.0000" height="0.1025" fill="#7195AB" data-year="2012" data-category="Chemistry, Multidisciplinary" data-value="0.7000000000">
+    <title>2012年 化学：综合：0.70</title>
+  </rect>
+  <rect x="233.4118" y="554.7584" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2012" data-category="Mechanics" data-value="0.0000000000">
+    <title>2012年 力学：0.00</title>
+  </rect>
+  <rect x="233.4118" y="554.7584" width="42.0000" height="0.0000" fill="#C3AA79" data-year="2012" data-category="Materials Science, Multidisciplinary" data-value="0.0000000000">
+    <title>2012年 材料科学：综合：0.00</title>
+  </rect>
+  <rect x="233.4118" y="554.4167" width="42.0000" height="0.3417" fill="#A09AB6" data-year="2012" data-category="Computer Science, Artificial Intelligence" data-value="2.3333333333">
+    <title>2012年 计算机科学：人工智能：2.33</title>
+  </rect>
+  <rect x="233.4118" y="552.3643" width="42.0000" height="2.0524" fill="#D8DEE5" data-year="2012" data-category="其他学科" data-value="14.0166666667">
+    <title>2012年 其他学科：14.02</title>
+  </rect>
+  <text x="254.41176470588235" y="542.3642857142858" font-size="14" text-anchor="middle" fill="#536170">18</text>
+  <line x1="254.41176470588235" y1="555" x2="254.41176470588235" y2="560" stroke="#B6BEC8" />
+  <text x="254.41176470588235" y="580" font-size="14" text-anchor="middle" fill="#536170">2012</text>
+  <rect x="295.1765" y="554.6583" width="42.0000" height="0.3417" fill="#456B8A" data-year="2013" data-category="Computer Science, Interdisciplinary Applications" data-value="2.3333333333">
+    <title>2013年 计算机科学：跨学科应用：2.33</title>
+  </rect>
+  <rect x="295.1765" y="554.2435" width="42.0000" height="0.4149" fill="#7195AB" data-year="2013" data-category="Chemistry, Multidisciplinary" data-value="2.8333333333">
+    <title>2013年 化学：综合：2.83</title>
+  </rect>
+  <rect x="295.1765" y="554.1946" width="42.0000" height="0.0488" fill="#8BB7AE" data-year="2013" data-category="Mechanics" data-value="0.3333333333">
+    <title>2013年 力学：0.33</title>
+  </rect>
+  <rect x="295.1765" y="554.1946" width="42.0000" height="0.0000" fill="#C3AA79" data-year="2013" data-category="Materials Science, Multidisciplinary" data-value="0.0000000000">
+    <title>2013年 材料科学：综合：0.00</title>
+  </rect>
+  <rect x="295.1765" y="554.1702" width="42.0000" height="0.0244" fill="#A09AB6" data-year="2013" data-category="Computer Science, Artificial Intelligence" data-value="0.1666666667">
+    <title>2013年 计算机科学：人工智能：0.17</title>
+  </rect>
+  <rect x="295.1765" y="551.7786" width="42.0000" height="2.3917" fill="#D8DEE5" data-year="2013" data-category="其他学科" data-value="16.3333333333">
+    <title>2013年 其他学科：16.33</title>
+  </rect>
+  <text x="316.1764705882353" y="541.778571428586" font-size="14" text-anchor="middle" fill="#536170">22</text>
+  <line x1="316.1764705882353" y1="555" x2="316.1764705882353" y2="560" stroke="#B6BEC8" />
+  <text x="316.1764705882353" y="580" font-size="14" text-anchor="middle" fill="#536170">2013</text>
+  <rect x="356.9412" y="554.6901" width="42.0000" height="0.3099" fill="#456B8A" data-year="2014" data-category="Computer Science, Interdisciplinary Applications" data-value="2.1166666667">
+    <title>2014年 计算机科学：跨学科应用：2.12</title>
+  </rect>
+  <rect x="356.9412" y="554.4460" width="42.0000" height="0.2440" fill="#7195AB" data-year="2014" data-category="Chemistry, Multidisciplinary" data-value="1.6666666667">
+    <title>2014年 化学：综合：1.67</title>
+  </rect>
+  <rect x="356.9412" y="554.4460" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2014" data-category="Mechanics" data-value="0.0000000000">
+    <title>2014年 力学：0.00</title>
+  </rect>
+  <rect x="356.9412" y="554.3972" width="42.0000" height="0.0488" fill="#C3AA79" data-year="2014" data-category="Materials Science, Multidisciplinary" data-value="0.3333333333">
+    <title>2014年 材料科学：综合：0.33</title>
+  </rect>
+  <rect x="356.9412" y="554.0555" width="42.0000" height="0.3417" fill="#A09AB6" data-year="2014" data-category="Computer Science, Artificial Intelligence" data-value="2.3333333333">
+    <title>2014年 计算机科学：人工智能：2.33</title>
+  </rect>
+  <rect x="356.9412" y="550.9000" width="42.0000" height="3.1555" fill="#D8DEE5" data-year="2014" data-category="其他学科" data-value="21.5500000000">
+    <title>2014年 其他学科：21.55</title>
+  </rect>
+  <text x="377.94117647058823" y="540.9" font-size="14" text-anchor="middle" fill="#536170">28</text>
+  <line x1="377.94117647058823" y1="555" x2="377.94117647058823" y2="560" stroke="#B6BEC8" />
+  <text x="377.94117647058823" y="580" font-size="14" text-anchor="middle" fill="#536170">2014</text>
+  <rect x="418.7059" y="554.7071" width="42.0000" height="0.2929" fill="#456B8A" data-year="2015" data-category="Computer Science, Interdisciplinary Applications" data-value="2.0000000000">
+    <title>2015年 计算机科学：跨学科应用：2.00</title>
+  </rect>
+  <rect x="418.7059" y="554.4631" width="42.0000" height="0.2440" fill="#7195AB" data-year="2015" data-category="Chemistry, Multidisciplinary" data-value="1.6666666667">
+    <title>2015年 化学：综合：1.67</title>
+  </rect>
+  <rect x="418.7059" y="554.4143" width="42.0000" height="0.0488" fill="#8BB7AE" data-year="2015" data-category="Mechanics" data-value="0.3333333333">
+    <title>2015年 力学：0.33</title>
+  </rect>
+  <rect x="418.7059" y="554.4143" width="42.0000" height="0.0000" fill="#C3AA79" data-year="2015" data-category="Materials Science, Multidisciplinary" data-value="0.0000000000">
+    <title>2015年 材料科学：综合：0.00</title>
+  </rect>
+  <rect x="418.7059" y="554.2190" width="42.0000" height="0.1952" fill="#A09AB6" data-year="2015" data-category="Computer Science, Artificial Intelligence" data-value="1.3333333333">
+    <title>2015年 计算机科学：人工智能：1.33</title>
+  </rect>
+  <rect x="418.7059" y="550.1679" width="42.0000" height="4.0512" fill="#D8DEE5" data-year="2015" data-category="其他学科" data-value="27.6666666667">
+    <title>2015年 其他学科：27.67</title>
+  </rect>
+  <text x="439.70588235294116" y="540.1678571428571" font-size="14" text-anchor="middle" fill="#536170">33</text>
+  <line x1="439.70588235294116" y1="555" x2="439.70588235294116" y2="560" stroke="#B6BEC8" />
+  <text x="439.70588235294116" y="580" font-size="14" text-anchor="middle" fill="#536170">2015</text>
+  <rect x="480.4706" y="554.5119" width="42.0000" height="0.4881" fill="#456B8A" data-year="2016" data-category="Computer Science, Interdisciplinary Applications" data-value="3.3333333333">
+    <title>2016年 计算机科学：跨学科应用：3.33</title>
+  </rect>
+  <rect x="480.4706" y="553.7188" width="42.0000" height="0.7932" fill="#7195AB" data-year="2016" data-category="Chemistry, Multidisciplinary" data-value="5.4166666667">
+    <title>2016年 化学：综合：5.42</title>
+  </rect>
+  <rect x="480.4706" y="553.7188" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2016" data-category="Mechanics" data-value="0.0000000000">
+    <title>2016年 力学：0.00</title>
+  </rect>
+  <rect x="480.4706" y="553.5723" width="42.0000" height="0.1464" fill="#C3AA79" data-year="2016" data-category="Materials Science, Multidisciplinary" data-value="1.0000000000">
+    <title>2016年 材料科学：综合：1.00</title>
+  </rect>
+  <rect x="480.4706" y="553.4991" width="42.0000" height="0.0732" fill="#A09AB6" data-year="2016" data-category="Computer Science, Artificial Intelligence" data-value="0.5000000000">
+    <title>2016年 计算机科学：人工智能：0.50</title>
+  </rect>
+  <rect x="480.4706" y="550.1679" width="42.0000" height="3.3313" fill="#D8DEE5" data-year="2016" data-category="其他学科" data-value="22.7500000000">
+    <title>2016年 其他学科：22.75</title>
+  </rect>
+  <text x="501.47058823529414" y="540.1678571428571" font-size="14" text-anchor="middle" fill="#536170">33</text>
+  <line x1="501.47058823529414" y1="555" x2="501.47058823529414" y2="560" stroke="#B6BEC8" />
+  <text x="501.47058823529414" y="580" font-size="14" text-anchor="middle" fill="#536170">2016</text>
+  <rect x="542.2353" y="554.2483" width="42.0000" height="0.7517" fill="#456B8A" data-year="2017" data-category="Computer Science, Interdisciplinary Applications" data-value="5.1333333333">
+    <title>2017年 计算机科学：跨学科应用：5.13</title>
+  </rect>
+  <rect x="542.2353" y="552.7474" width="42.0000" height="1.5009" fill="#7195AB" data-year="2017" data-category="Chemistry, Multidisciplinary" data-value="10.2500000000">
+    <title>2017年 化学：综合：10.25</title>
+  </rect>
+  <rect x="542.2353" y="552.6742" width="42.0000" height="0.0732" fill="#8BB7AE" data-year="2017" data-category="Mechanics" data-value="0.5000000000">
+    <title>2017年 力学：0.50</title>
+  </rect>
+  <rect x="542.2353" y="552.4058" width="42.0000" height="0.2685" fill="#C3AA79" data-year="2017" data-category="Materials Science, Multidisciplinary" data-value="1.8333333333">
+    <title>2017年 材料科学：综合：1.83</title>
+  </rect>
+  <rect x="542.2353" y="552.2349" width="42.0000" height="0.1708" fill="#A09AB6" data-year="2017" data-category="Computer Science, Artificial Intelligence" data-value="1.1666666667">
+    <title>2017年 计算机科学：人工智能：1.17</title>
+  </rect>
+  <rect x="542.2353" y="546.0679" width="42.0000" height="6.1671" fill="#D8DEE5" data-year="2017" data-category="其他学科" data-value="42.1166666667">
+    <title>2017年 其他学科：42.12</title>
+  </rect>
+  <text x="563.2352941176471" y="536.0678571428572" font-size="14" text-anchor="middle" fill="#536170">61</text>
+  <line x1="563.2352941176471" y1="555" x2="563.2352941176471" y2="560" stroke="#B6BEC8" />
+  <text x="563.2352941176471" y="580" font-size="14" text-anchor="middle" fill="#536170">2017</text>
+  <rect x="604.0000" y="554.2190" width="42.0000" height="0.7810" fill="#456B8A" data-year="2018" data-category="Computer Science, Interdisciplinary Applications" data-value="5.3333333333">
+    <title>2018年 计算机科学：跨学科应用：5.33</title>
+  </rect>
+  <rect x="604.0000" y="552.7011" width="42.0000" height="1.5180" fill="#7195AB" data-year="2018" data-category="Chemistry, Multidisciplinary" data-value="10.3666666667">
+    <title>2018年 化学：综合：10.37</title>
+  </rect>
+  <rect x="604.0000" y="552.7011" width="42.0000" height="0.0000" fill="#8BB7AE" data-year="2018" data-category="Mechanics" data-value="0.0000000000">
+    <title>2018年 力学：0.00</title>
+  </rect>
+  <rect x="604.0000" y="551.8713" width="42.0000" height="0.8298" fill="#C3AA79" data-year="2018" data-category="Materials Science, Multidisciplinary" data-value="5.6666666667">
+    <title>2018年 材料科学：综合：5.67</title>
+  </rect>
+  <rect x="604.0000" y="551.7127" width="42.0000" height="0.1586" fill="#A09AB6" data-year="2018" data-category="Computer Science, Artificial Intelligence" data-value="1.0833333333">
+    <title>2018年 计算机科学：人工智能：1.08</title>
+  </rect>
+  <rect x="604.0000" y="540.7964" width="42.0000" height="10.9162" fill="#D8DEE5" data-year="2018" data-category="其他学科" data-value="74.5500000000">
+    <title>2018年 其他学科：74.55</title>
+  </rect>
+  <text x="625.0" y="530.7964285714286" font-size="14" text-anchor="middle" fill="#536170">97</text>
+  <line x1="625.0" y1="555" x2="625.0" y2="560" stroke="#B6BEC8" />
+  <text x="625.0" y="580" font-size="14" text-anchor="middle" fill="#536170">2018</text>
+  <rect x="665.7647" y="552.4668" width="42.0000" height="2.5332" fill="#456B8A" data-year="2019" data-category="Computer Science, Interdisciplinary Applications" data-value="17.3000000000">
+    <title>2019年 计算机科学：跨学科应用：17.30</title>
+  </rect>
+  <rect x="665.7647" y="549.3991" width="42.0000" height="3.0677" fill="#7195AB" data-year="2019" data-category="Chemistry, Multidisciplinary" data-value="20.9500000000">
+    <title>2019年 化学：综合：20.95</title>
+  </rect>
+  <rect x="665.7647" y="548.9842" width="42.0000" height="0.4149" fill="#8BB7AE" data-year="2019" data-category="Mechanics" data-value="2.8333333333">
+    <title>2019年 力学：2.83</title>
+  </rect>
+  <rect x="665.7647" y="547.3491" width="42.0000" height="1.6351" fill="#C3AA79" data-year="2019" data-category="Materials Science, Multidisciplinary" data-value="11.1666666667">
+    <title>2019年 材料科学：综合：11.17</title>
+  </rect>
+  <rect x="665.7647" y="547.1051" width="42.0000" height="0.2440" fill="#A09AB6" data-year="2019" data-category="Computer Science, Artificial Intelligence" data-value="1.6666666667">
+    <title>2019年 计算机科学：人工智能：1.67</title>
+  </rect>
+  <rect x="665.7647" y="525.5679" width="42.0000" height="21.5372" fill="#D8DEE5" data-year="2019" data-category="其他学科" data-value="147.0833333333">
+    <title>2019年 其他学科：147.08</title>
+  </rect>
+  <text x="686.7647058823529" y="515.5678571428572" font-size="14" text-anchor="middle" fill="#536170">201</text>
+  <line x1="686.7647058823529" y1="555" x2="686.7647058823529" y2="560" stroke="#B6BEC8" />
+  <text x="686.7647058823529" y="580" font-size="14" text-anchor="middle" fill="#536170">2019</text>
+  <rect x="727.5294" y="551.1685" width="42.0000" height="3.8315" fill="#456B8A" data-year="2020" data-category="Computer Science, Interdisciplinary Applications" data-value="26.1666666667">
+    <title>2020年 计算机科学：跨学科应用：26.17</title>
+  </rect>
+  <rect x="727.5294" y="545.5456" width="42.0000" height="5.6229" fill="#7195AB" data-year="2020" data-category="Chemistry, Multidisciplinary" data-value="38.4000000000">
+    <title>2020年 化学：综合：38.40</title>
+  </rect>
+  <rect x="727.5294" y="544.9355" width="42.0000" height="0.6101" fill="#8BB7AE" data-year="2020" data-category="Mechanics" data-value="4.1666666667">
+    <title>2020年 力学：4.17</title>
+  </rect>
+  <rect x="727.5294" y="542.4657" width="42.0000" height="2.4698" fill="#C3AA79" data-year="2020" data-category="Materials Science, Multidisciplinary" data-value="16.8666666667">
+    <title>2020年 材料科学：综合：16.87</title>
+  </rect>
+  <rect x="727.5294" y="541.9776" width="42.0000" height="0.4881" fill="#A09AB6" data-year="2020" data-category="Computer Science, Artificial Intelligence" data-value="3.3333333333">
+    <title>2020年 计算机科学：人工智能：3.33</title>
+  </rect>
+  <rect x="727.5294" y="507.9964" width="42.0000" height="33.9812" fill="#D8DEE5" data-year="2020" data-category="其他学科" data-value="232.0666666667">
+    <title>2020年 其他学科：232.07</title>
+  </rect>
+  <text x="748.5294117647059" y="497.99642857141396" font-size="14" text-anchor="middle" fill="#536170">321</text>
+  <line x1="748.5294117647059" y1="555" x2="748.5294117647059" y2="560" stroke="#B6BEC8" />
+  <text x="748.5294117647059" y="580" font-size="14" text-anchor="middle" fill="#536170">2020</text>
+  <rect x="789.2941" y="548.9842" width="42.0000" height="6.0158" fill="#456B8A" data-year="2021" data-category="Computer Science, Interdisciplinary Applications" data-value="41.0833333333">
+    <title>2021年 计算机科学：跨学科应用：41.08</title>
+  </rect>
+  <rect x="789.2941" y="541.4554" width="42.0000" height="7.5289" fill="#7195AB" data-year="2021" data-category="Chemistry, Multidisciplinary" data-value="51.4166666667">
+    <title>2021年 化学：综合：51.42</title>
+  </rect>
+  <rect x="789.2941" y="539.8715" width="42.0000" height="1.5839" fill="#8BB7AE" data-year="2021" data-category="Mechanics" data-value="10.8166666667">
+    <title>2021年 力学：10.82</title>
+  </rect>
+  <rect x="789.2941" y="535.7105" width="42.0000" height="4.1610" fill="#C3AA79" data-year="2021" data-category="Materials Science, Multidisciplinary" data-value="28.4166666667">
+    <title>2021年 材料科学：综合：28.42</title>
+  </rect>
+  <rect x="789.2941" y="533.1480" width="42.0000" height="2.5625" fill="#A09AB6" data-year="2021" data-category="Computer Science, Artificial Intelligence" data-value="17.5000000000">
+    <title>2021年 计算机科学：人工智能：17.50</title>
+  </rect>
+  <rect x="789.2941" y="479.5893" width="42.0000" height="53.5587" fill="#D8DEE5" data-year="2021" data-category="其他学科" data-value="365.7666666667">
+    <title>2021年 其他学科：365.77</title>
+  </rect>
+  <text x="810.2941176470588" y="469.58928571427106" font-size="14" text-anchor="middle" fill="#536170">515</text>
+  <line x1="810.2941176470588" y1="555" x2="810.2941176470588" y2="560" stroke="#B6BEC8" />
+  <text x="810.2941176470588" y="580" font-size="14" text-anchor="middle" fill="#536170">2021</text>
+  <rect x="851.0588" y="548.4473" width="42.0000" height="6.5527" fill="#456B8A" data-year="2022" data-category="Computer Science, Interdisciplinary Applications" data-value="44.7500000000">
+    <title>2022年 计算机科学：跨学科应用：44.75</title>
+  </rect>
+  <rect x="851.0588" y="540.0106" width="42.0000" height="8.4367" fill="#7195AB" data-year="2022" data-category="Chemistry, Multidisciplinary" data-value="57.6166666667">
+    <title>2022年 化学：综合：57.62</title>
+  </rect>
+  <rect x="851.0588" y="537.2285" width="42.0000" height="2.7821" fill="#8BB7AE" data-year="2022" data-category="Mechanics" data-value="19.0000000000">
+    <title>2022年 力学：19.00</title>
+  </rect>
+  <rect x="851.0588" y="531.4079" width="42.0000" height="5.8205" fill="#C3AA79" data-year="2022" data-category="Materials Science, Multidisciplinary" data-value="39.7500000000">
+    <title>2022年 材料科学：综合：39.75</title>
+  </rect>
+  <rect x="851.0588" y="527.2591" width="42.0000" height="4.1488" fill="#A09AB6" data-year="2022" data-category="Computer Science, Artificial Intelligence" data-value="28.3333333333">
+    <title>2022年 计算机科学：人工智能：28.33</title>
+  </rect>
+  <rect x="851.0588" y="442.5429" width="42.0000" height="84.7163" fill="#D8DEE5" data-year="2022" data-category="其他学科" data-value="578.5500000000">
+    <title>2022年 其他学科：578.55</title>
+  </rect>
+  <text x="872.0588235294118" y="432.54285714285714" font-size="14" text-anchor="middle" fill="#536170">768</text>
+  <line x1="872.0588235294118" y1="555" x2="872.0588235294118" y2="560" stroke="#B6BEC8" />
+  <text x="872.0588235294118" y="580" font-size="14" text-anchor="middle" fill="#536170">2022</text>
+  <rect x="912.8235" y="544.3693" width="42.0000" height="10.6307" fill="#456B8A" data-year="2023" data-category="Computer Science, Interdisciplinary Applications" data-value="72.6000000000">
+    <title>2023年 计算机科学：跨学科应用：72.60</title>
+  </rect>
+  <rect x="912.8235" y="534.5708" width="42.0000" height="9.7985" fill="#7195AB" data-year="2023" data-category="Chemistry, Multidisciplinary" data-value="66.9166666667">
+    <title>2023年 化学：综合：66.92</title>
+  </rect>
+  <rect x="912.8235" y="528.2011" width="42.0000" height="6.3696" fill="#8BB7AE" data-year="2023" data-category="Mechanics" data-value="43.5000000000">
+    <title>2023年 力学：43.50</title>
+  </rect>
+  <rect x="912.8235" y="521.1921" width="42.0000" height="7.0090" fill="#C3AA79" data-year="2023" data-category="Materials Science, Multidisciplinary" data-value="47.8666666667">
+    <title>2023年 材料科学：综合：47.87</title>
+  </rect>
+  <rect x="912.8235" y="515.3105" width="42.0000" height="5.8815" fill="#A09AB6" data-year="2023" data-category="Computer Science, Artificial Intelligence" data-value="40.1666666667">
+    <title>2023年 计算机科学：人工智能：40.17</title>
+  </rect>
+  <rect x="912.8235" y="406.2286" width="42.0000" height="109.0820" fill="#D8DEE5" data-year="2023" data-category="其他学科" data-value="744.9500000000">
+    <title>2023年 其他学科：744.95</title>
+  </rect>
+  <text x="933.8235294117648" y="396.2285714285568" font-size="14" text-anchor="middle" fill="#536170">1,016</text>
+  <line x1="933.8235294117648" y1="555" x2="933.8235294117648" y2="560" stroke="#B6BEC8" />
+  <text x="933.8235294117648" y="580" font-size="14" text-anchor="middle" fill="#536170">2023</text>
+  <rect x="974.5882" y="540.9673" width="42.0000" height="14.0327" fill="#456B8A" data-year="2024" data-category="Computer Science, Interdisciplinary Applications" data-value="95.8333333333">
+    <title>2024年 计算机科学：跨学科应用：95.83</title>
+  </rect>
+  <rect x="974.5882" y="526.5050" width="42.0000" height="14.4623" fill="#7195AB" data-year="2024" data-category="Chemistry, Multidisciplinary" data-value="98.7666666667">
+    <title>2024年 化学：综合：98.77</title>
+  </rect>
+  <rect x="974.5882" y="514.4832" width="42.0000" height="12.0218" fill="#8BB7AE" data-year="2024" data-category="Mechanics" data-value="82.1000000000">
+    <title>2024年 力学：82.10</title>
+  </rect>
+  <rect x="974.5882" y="505.0703" width="42.0000" height="9.4129" fill="#C3AA79" data-year="2024" data-category="Materials Science, Multidisciplinary" data-value="64.2833333333">
+    <title>2024年 材料科学：综合：64.28</title>
+  </rect>
+  <rect x="974.5882" y="496.1504" width="42.0000" height="8.9199" fill="#A09AB6" data-year="2024" data-category="Computer Science, Artificial Intelligence" data-value="60.9166666667">
+    <title>2024年 计算机科学：人工智能：60.92</title>
+  </rect>
+  <rect x="974.5882" y="336.8214" width="42.0000" height="159.3289" fill="#D8DEE5" data-year="2024" data-category="其他学科" data-value="1088.1000000000">
+    <title>2024年 其他学科：1088.10</title>
+  </rect>
+  <text x="995.5882352941177" y="326.82142857142856" font-size="14" text-anchor="middle" fill="#536170">1,490</text>
+  <line x1="995.5882352941177" y1="555" x2="995.5882352941177" y2="560" stroke="#B6BEC8" />
+  <text x="995.5882352941177" y="580" font-size="14" text-anchor="middle" fill="#536170">2024</text>
+  <rect x="1036.3529" y="535.2029" width="42.0000" height="19.7971" fill="#456B8A" data-year="2025" data-category="Computer Science, Interdisciplinary Applications" data-value="135.2000000000">
+    <title>2025年 计算机科学：跨学科应用：135.20</title>
+  </rect>
+  <rect x="1036.3529" y="511.0885" width="42.0000" height="24.1143" fill="#7195AB" data-year="2025" data-category="Chemistry, Multidisciplinary" data-value="164.6833333333">
+    <title>2025年 化学：综合：164.68</title>
+  </rect>
+  <rect x="1036.3529" y="491.3231" width="42.0000" height="19.7654" fill="#8BB7AE" data-year="2025" data-category="Mechanics" data-value="134.9833333333">
+    <title>2025年 力学：134.98</title>
+  </rect>
+  <rect x="1036.3529" y="475.8432" width="42.0000" height="15.4799" fill="#C3AA79" data-year="2025" data-category="Materials Science, Multidisciplinary" data-value="105.7166666667">
+    <title>2025年 材料科学：综合：105.72</title>
+  </rect>
+  <rect x="1036.3529" y="461.9202" width="42.0000" height="13.9229" fill="#A09AB6" data-year="2025" data-category="Computer Science, Artificial Intelligence" data-value="95.0833333333">
+    <title>2025年 计算机科学：人工智能：95.08</title>
+  </rect>
+  <rect x="1036.3529" y="217.9214" width="42.0000" height="243.9988" fill="#D8DEE5" data-year="2025" data-category="其他学科" data-value="1666.3333333333">
+    <title>2025年 其他学科：1666.33</title>
+  </rect>
+  <text x="1057.3529411764707" y="207.9214285714432" font-size="14" text-anchor="middle" fill="#536170">2,302</text>
+  <line x1="1057.3529411764707" y1="555" x2="1057.3529411764707" y2="560" stroke="#B6BEC8" />
+  <text x="1057.3529411764707" y="580" font-size="14" text-anchor="middle" fill="#536170">2025</text>
+  <rect x="1098.1176" y="533.3066" width="42.0000" height="21.6934" fill="#456B8A" data-year="2026" data-category="Computer Science, Interdisciplinary Applications" data-value="148.1500000000">
+    <title>2026年 计算机科学：跨学科应用：148.15</title>
+  </rect>
+  <rect x="1098.1176" y="515.4960" width="42.0000" height="17.8106" fill="#7195AB" data-year="2026" data-category="Chemistry, Multidisciplinary" data-value="121.6333333333">
+    <title>2026年 化学：综合：121.63</title>
+  </rect>
+  <rect x="1098.1176" y="495.9454" width="42.0000" height="19.5507" fill="#8BB7AE" data-year="2026" data-category="Mechanics" data-value="133.5166666667">
+    <title>2026年 力学：133.52</title>
+  </rect>
+  <rect x="1098.1176" y="477.0024" width="42.0000" height="18.9430" fill="#C3AA79" data-year="2026" data-category="Materials Science, Multidisciplinary" data-value="129.3666666667">
+    <title>2026年 材料科学：综合：129.37</title>
+  </rect>
+  <rect x="1098.1176" y="462.4693" width="42.0000" height="14.5330" fill="#A09AB6" data-year="2026" data-category="Computer Science, Artificial Intelligence" data-value="99.2500000000">
+    <title>2026年 计算机科学：人工智能：99.25</title>
+  </rect>
+  <rect x="1098.1176" y="185.1214" width="42.0000" height="277.3479" fill="#D8DEE5" data-year="2026" data-category="其他学科" data-value="1894.0833333333">
+    <title>2026年 其他学科：1894.08</title>
+  </rect>
+  <rect x="1098.1176" y="185.1214" width="42.0000" height="369.8786" fill="url(#partial-year)" />
+  <text x="1119.1176470588234" y="175.1214285714285" font-size="14" text-anchor="middle" fill="#9b6824">2,526</text>
+  <line x1="1119.1176470588234" y1="555" x2="1119.1176470588234" y2="560" stroke="#B6BEC8" />
+  <text x="1119.1176470588234" y="580" font-size="14" text-anchor="middle" fill="#536170">2026</text>
+  <text x="625.0" y="613" font-size="17" text-anchor="middle" fill="#283444">分析归年</text>
+  <rect x="100" y="639" width="18" height="14" fill="#456B8A" />
+  <text x="128" y="652" font-size="16" text-anchor="start" fill="#283444">计算机科学：跨学科应用</text>
+  <rect x="455" y="639" width="18" height="14" fill="#7195AB" />
+  <text x="483" y="652" font-size="16" text-anchor="start" fill="#283444">化学：综合</text>
+  <rect x="810" y="639" width="18" height="14" fill="#8BB7AE" />
+  <text x="838" y="652" font-size="16" text-anchor="start" fill="#283444">力学</text>
+  <rect x="100" y="671" width="18" height="14" fill="#C3AA79" />
+  <text x="128" y="684" font-size="16" text-anchor="start" fill="#283444">材料科学：综合</text>
+  <rect x="455" y="671" width="18" height="14" fill="#A09AB6" />
+  <text x="483" y="684" font-size="16" text-anchor="start" fill="#283444">计算机科学：人工智能</text>
+  <rect x="810" y="671" width="18" height="14" fill="#D8DEE5" />
+  <text x="838" y="684" font-size="16" text-anchor="start" fill="#283444">其他学科</text>
+  <text x="65" y="728" font-size="15" text-anchor="start" fill="#637080">每篇文献权重为1，在其所属WC类别间均分；5篇缺少WC字段，未计入此图。</text>
+  <text x="65" y="754" font-size="15" text-anchor="start" fill="#637080">柱高为当年已标注WC的文献量；2026年为不完整年度，以斜线标记。</text>
 </svg>
