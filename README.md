@@ -23,7 +23,9 @@ AI4Sdatabase 是一项 AI4S 文献计量研究的配套数据集，整理人工�
 
 当前核心分析样本为 **9,475篇**。另有12篇因证据不足未纳入本次分析。
 
-[下载配套数据集](https://github.com/lingfyou-code/AI4Sdatabase/releases/download/data-v4-20261023/AI4S_core_9475_v4_20261023.zip) · [查看筛选流程与统计图](检索结果.md)
+下载包仅包含19个WoS TXT文件，共9,475条文献记录，保留来源出版年，可直接导入文献计量软件。
+
+[下载配套数据集（TXT）](https://github.com/lingfyou-code/AI4Sdatabase/releases/download/data-v4-20261023/AI4S_9475_WoS_TXT.zip) · [查看筛选流程与统计图](检索结果.md)
 
 ## 文档说明
 
