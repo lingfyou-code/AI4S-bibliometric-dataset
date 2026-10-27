@@ -5,6 +5,9 @@ on:
     paths:
       - '.github/dataset-update/**'
       - '.github/workflows/publish-dataset.yml'
+      - 'data/current_manifest.json'
+      - 'reviews/2026-10-27_early/excluded_8.json'
+      - 'reviews/2026-10-27_early/out_of_range_PY2027_104.json'
   workflow_dispatch:
 permissions:
   contents: write
@@ -20,5 +23,4 @@ jobs:
       - name: Verify and publish TXT-only dataset
         env:
           GH_TOKEN: ${{ github.token }}
-          PUBLISH_DATASET: '1'
         run: python .github/dataset-update/rebuild.py

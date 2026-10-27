@@ -1,0 +1,13 @@
+{
+  "input_unique_ut": 9475,
+  "output_unique_ut": 9363,
+  "content_excluded": 8,
+  "publication_year_out_of_range": 104,
+  "exclusion_overlap": 0,
+  "retained_records_unchanged": true,
+  "year_field": "PY",
+  "missing_PY": 0,
+  "txt_files": 19,
+  "output_sha256": "792085538c18ee6617eaa34468641a7d3f22f8b2b82a25bf153fe016a617097d",
+  "figures_modified": false
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "序号": "E017",
+    "归年": 2010,
+    "PY": "2010",
+    "题名": "Neural network metamodeling for cycle time-throughput profiles in manufacturing",
+    "DOI": "10.1016/j.ejor.2009.12.026",
+    "UT": "WOS:000275363700016",
+    "理由": "研究制造系统周期—吞吐量与生产绩效，属于生产运营建模，未呈现本文界定的科学问题求解。"
+  },
+  {
+    "序号": "E045",
+    "归年": 2012,
+    "PY": "2012",
+    "题名": "Directed differentiation of human pluripotent stem cells to cerebral cortex neurons and neural networks",
+    "DOI": "10.1038/nprot.2012.116",
+    "UT": "WOS:000309508200008",
+    "理由": "neural networks指生物神经网络；摘要描述干细胞分化及神经回路形成，无人工智能方法。"
+  },
+  {
+    "序号": "E080",
+    "归年": 2014,
+    "PY": "2014",
+    "题名": "A document classifier for medicinal chemistry publications trained on the ChEMBL corpus",
+    "DOI": "10.1186/s13321-014-0040-8",
+    "UT": "WOS:000341389300001",
+    "理由": "机器学习用于识别和分流药物化学文献，属于文献管理/科研辅助，而非科学对象的实质求解。"
+  },
+  {
+    "序号": "E097",
+    "归年": 2014,
+    "PY": "2014",
+    "题名": "Model selection and fault detection approach based on Bayes decision theory: Application to changes detection problem in a distillation column",
+    "DOI": "10.1016/j.psep.2013.02.004",
+    "UT": "WOS:000336881300004",
+    "理由": "主要任务为蒸馏装置运行故障检测与安全监测，属于工业运维；不因涉及化工装置就纳入AI4S。"
+  },
+  {
+    "序号": "E121",
+    "归年": 2015,
+    "PY": "2015",
+    "题名": "Comparing a knowledge-driven approach to a supervised machine learning approach in large-scale extraction of drug-side effect relationships from free-text biomedical literature",
+    "DOI": "10.1186/1471-2105-16-S5-S6",
+    "UT": "WOS:000353976000006",
+    "理由": "主要任务为从既有文献抽取药物—副作用关系；按当前排除一般科研辅助的口径建议剔除。若以后纳入文献驱动知识发现，须统一重审全库。"
+  },
+  {
+    "序号": "E128",
+    "归年": 2015,
+    "PY": "2015",
+    "题名": "Machine learning in computational docking",
+    "DOI": "10.1016/j.artmed.2015.02.002",
+    "UT": "WOS:000355029400001",
+    "理由": "摘要以介绍现有研究、领域进展与未来方向为主，符合综述性质；与只纳入原创研究的口径不一致。WoS标为Article不能代替内容判定。"
+  },
+  {
+    "序号": "E139",
+    "归年": 2015,
+    "PY": "2015",
+    "题名": "Tracking control of a planar five-link bipedal walking system with point contact, considering self-impact joint constraint by adaptive neural network method",
+    "DOI": "10.1590/1679-78251563",
+    "UT": "WOS:000359494600005",
+    "理由": "主要贡献为双足机器人轨迹跟踪控制器，属于机器人运动控制；未明确呈现本文关注的科学发现/科学建模任务。"
+  },
+  {
+    "序号": "E158",
+    "归年": 2016,
+    "PY": "2016",
+    "题名": "Empirical Scoring Functions for Affinity Prediction of Protein-ligand Complexes",
+    "DOI": "10.1002/minf.201600048",
+    "UT": "WOS:000387792400002",
+    "理由": "摘要综述经验评分函数的方法、进展与局限，未报告本项原创模型/实验；按原创研究口径建议剔除，文献类型可再查出版页面。"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "UT": "WOS:001895436900001",
+    "DOI": "10.1016/j.commatsci.2026.115073",
+    "title": "Modelling magnetic material properties with uncertainty-aware neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001824009200001",
+    "DOI": "10.1016/j.epsr.2026.113755",
+    "title": "Neural operators for power systems: A physics-informed framework for modeling power system components",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001648293800001",
+    "DOI": "10.1142/S0129183127500288",
+    "title": "An improved physics-informed neural network for solving shallow water equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001894029100001",
+    "DOI": "10.1016/j.cpc.2026.110424",
+    "title": "Coupling physics informed neural networks with external solvers",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001870334100001",
+    "DOI": "10.1016/j.triboint.2026.112660",
+    "title": "Synergizing interfacial electronic structure and topological optimization for enhanced tribological performance",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001886370300001",
+    "DOI": "10.1016/j.ndteint.2026.103894",
+    "title": "Frequency-domain physics-informed neural network for wavefield modeling and defect-parameterized inversion using shearography measurements",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001824886500001",
+    "DOI": "10.1016/j.epsr.2026.113848",
+    "title": "Polar graph mixture density network for probabilistic power system state estimation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001887360400001",
+    "DOI": "10.1016/j.cpc.2026.110419",
+    "title": "Feature tracking in physics-informed neural networks via joint optimization of analytical nonlinear manifolds: Application to boundary layers",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001894389300001",
+    "DOI": "10.1016/j.ast.2026.113811",
+    "title": "Physics-informed neural networks for the prediction of flow fields with topology beyond the training set",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001898236100001",
+    "DOI": "10.1016/j.compgeo.2026.108712",
+    "title": "A noise-aware physics-informed neural network method for nonlinear consolidation with non-Darcian flow and continuous drainage boundary",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001863358700001",
+    "DOI": "10.1016/j.ascom.2026.101183",
+    "title": "A DNA-inspired physics-informed machine learning framework for singular Lane-Emden type equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001813416900001",
+    "DOI": "10.1016/j.jtice.2026.106888",
+    "title": "Physics-Informed Neural Networks to Solve the Equilibrium Dispersive Model: Digital-Twin Application",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001847429400001",
+    "DOI": "10.1016/j.ces.2026.124819",
+    "title": "Physics-informed neural network modeling of antipyrine reaction kinetics in chemical synthesis pathways with applications in reaction mechanism analysis and process modeling",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884533500001",
+    "DOI": "10.1016/j.compgeo.2026.108624",
+    "title": "An improved differentiable finite element method for saturated-unsaturated seepage with time-stepping, parallel, and inverse strategies",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001885964000001",
+    "DOI": "10.1016/j.cma.2026.119430",
+    "title": "A holomorphic neural network framework for 3D boundary value problems governed by harmonic potentials",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001893896400001",
+    "DOI": "10.1016/j.enconman.2026.122187",
+    "title": "Reconstructing transient states in hydropower plants during small-disturbance events using physics-informed neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001885937100001",
+    "DOI": "10.1016/j.ces.2026.125169",
+    "title": "Physics-informed co-driven multi-timescale scheduling for LNG terminals under dual-side uncertainties: A Wasserstein DRO framework with asset health management",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001857415100001",
+    "DOI": "10.1016/j.ijthermalsci.2026.111272",
+    "title": "Simulation and inversion of temperature fields in concrete gravity dams based on region-indicating material discontinuity capturing physics-informed neural network",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001888051800001",
+    "DOI": "10.1016/j.micron.2026.104121",
+    "title": "AI-driven artifact removal and image restoration in Atomic Force Microscopy via structured mask-guided inpainting",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001890333500001",
+    "DOI": "10.1016/j.pnucene.2026.106609",
+    "title": "High-fidelity prediction of LBE mixed convection heat transfer via gradient-balanced physics-informed neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001879128100001",
+    "DOI": "10.1016/j.euromechflu.2026.204633",
+    "title": "A Physics-Informed Neural Networks framework for simulating natural convection of Cu-water micropolar nanofluid in a porous enclosure with internal heat generation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001896229600001",
+    "DOI": "10.1016/j.ijsolstr.2026.114351",
+    "title": "Physics-informed neural networks for collapse analysis of thin-plates",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001869418700001",
+    "DOI": "10.1016/j.euromechsol.2026.106353",
+    "title": "Energy-based physics-informed neural networks for size-dependent analysis of functionally graded microbeams using the modified couple stress theory",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001874544500001",
+    "DOI": "10.1016/j.matcom.2026.08.032",
+    "title": "Hierarchical multi-objective optimization physics-informed neural network for certain stiff nonlinear partial differential equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884327100001",
+    "DOI": "10.1016/j.ast.2026.113792",
+    "title": "A Novel Non-Inertial Frame of Physics-Informed Neural Networks for Reconstructing Flapping Wing Rotor Flows",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001861039500001",
+    "DOI": "10.1016/j.watres.2026.126716",
+    "title": "Process-aware physics-guided neural network framework for harmful algal bloom forecasting in lentic freshwater systems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001898657100001",
+    "DOI": "10.1016/j.jcp.2026.115455",
+    "title": "Physics-informed Perceiver IO: Scalable mesh-free solving of partial differential equations without supervision",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001871082300001",
+    "DOI": "10.1016/j.cma.2026.119329",
+    "title": "Latent dynamics learning with physics-informed correction for hyperbolic conservation laws",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001838225100001",
+    "DOI": "10.1016/j.jmaa.2026.130977",
+    "title": "Residual minimization and variational recovery of entropy solutions for scalar conservation laws with boundary conditions",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001879832100001",
+    "DOI": "10.1016/j.compgeo.2026.108643",
+    "title": "A multi-output constitutive physics-informed neural network (MOC-PINN) for seepage problems with free surface",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001883612700001",
+    "DOI": "10.1016/j.aei.2026.105217",
+    "title": "A three-stage multi-fidelity physics-informed neural network for control-oriented electromagnetic force surrogate modeling in PM-EDW systems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001818668900001",
+    "DOI": "10.1016/j.jmst.2026.06.015",
+    "title": "Machine learning-guided atomic-scale design of binary rare-earth niobates with ultra-low thermal conductivity",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001885080200001",
+    "DOI": "10.1016/j.pnucene.2026.106623",
+    "title": "Expanding the capabilities of physics-informed neural networks through parametrisation for the neutron diffusion equation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001859683500001",
+    "DOI": "10.1016/j.amc.2026.130277",
+    "title": "Order statistical adaptive residual loss for physics-informed neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001897784500001",
+    "DOI": "10.1016/j.tws.2026.115738",
+    "title": "A spectral physics-informed neural network for elastic global shear buckling of corrugated steel plates with elastically restrained boundaries",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001896360700001",
+    "DOI": "10.1016/j.jcp.2026.115431",
+    "title": "An adaptive error correction method for training physics-informed neural networks to solve inverse problems with noisy observational data",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001894247500001",
+    "DOI": "10.1016/j.commatsci.2026.114993",
+    "title": "Impact of descriptor engineering and model selection on regression-based prediction of impurity formation energies in 2D materials",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001831905400001",
+    "DOI": "10.1016/j.cam.2026.117964",
+    "title": "TI-PINN: Topological-identifier physics-informed neural networks for forward and inverse problems of discontinuous coefficient differential equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001897513000001",
+    "DOI": "10.1016/j.sse.2026.109419",
+    "title": "Design of LDMOS devices via embedded analytical models PINNs for multi-objective optimization",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001810331200001",
+    "DOI": "10.1016/j.ress.2026.113021",
+    "title": "Physics-informed domain adaptation for health state assessment of industrial components",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001828472300001",
+    "DOI": "10.1016/j.triboint.2026.112494",
+    "title": "Real-time simulation of dynamic fluid film in the friction pair of axial piston pumps using physics-informed neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001836104100001",
+    "DOI": "10.1016/j.neunet.2026.109415",
+    "title": "Physics-informed neural networks with relaxed alternating learning for image inpainting",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001823159800001",
+    "DOI": "10.1016/j.neunet.2026.109335",
+    "title": "Convergence of stochastic gradient methods for wide two-layer physics-informed neural networks for the Poisson equation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001852781600001",
+    "DOI": "10.1016/j.neunet.2026.109459",
+    "title": "Spectral analysis of hard-constraint PINNs: The spatial modulation mechanism of boundary functions",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001887972400001",
+    "DOI": "10.1016/j.apcatb.2026.127556",
+    "title": "Machine learning guided high-throughput screening of multi-element-doped perovskites for efficient photothermal CO2 reduction to methanol",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001896302200001",
+    "DOI": "10.1016/j.ijthermalsci.2026.111389",
+    "title": "A multi-domain physics-informed neural network for rapid prediction of wellbore temperature during drilling",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001897998500001",
+    "DOI": "10.1016/j.asoc.2026.116571",
+    "title": "Physics-informed neural operator surrogate with uncertainty quantification for spatial prediction of coastal wave fields",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001887113600001",
+    "DOI": "10.1016/j.ress.2026.113502",
+    "title": "Active learning structural reliability analysis using Separable PINNs",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001892525200001",
+    "DOI": "10.1016/j.patcog.2026.114957",
+    "title": "Enhancing graph link prediction with sequential latent variable diffusion models",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001865235800001",
+    "DOI": "10.1016/j.apsusc.2026.168245",
+    "title": "Deciphering bimetallic HER/OER electrocatalyst design in PEM-based energy systems using rough set machine learning for green hydrogen production",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001886527800001",
+    "DOI": "10.1016/j.apenergy.2026.128920",
+    "title": "A dynamic parallelized hybrid optimization method for 22 MW large-scale floating offshore wind turbines",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001821110900001",
+    "DOI": "10.1016/j.inffus.2026.104584",
+    "title": "QMF-MAP: A quantum multimodal fusion model for molecular activity prediction",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884404800001",
+    "DOI": "10.1016/j.neucom.2026.135041",
+    "title": "Data-integrated neural networks for solving partial differential equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001885010500001",
+    "DOI": "10.1016/j.neunet.2026.109647",
+    "title": "Context-aware diffusion models for solving partial differential equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001846322000001",
+    "DOI": "10.1016/j.neunet.2026.109460",
+    "title": "CBS-PINN: Coordinated training to address nonlocality and spectral stiffness in the Calogero-Bogoyavlenskii-Schiff-type equation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001864174400001",
+    "DOI": "10.1016/j.still.2026.107452",
+    "title": "Mapping spatiotemporal soil temperature using physics-informed neural networks with the heat transfer equation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884563900001",
+    "DOI": "10.1016/j.cma.2026.119413",
+    "title": "Adaptive anisotropic composite quadratures for residual minimisation in neural PDE approximations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001868163500001",
+    "DOI": "10.1016/j.cma.2026.119350",
+    "title": "A solver framework for three-dimensional hyperelastic problems based on PINN and the virtual element method",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884211600001",
+    "DOI": "10.1016/j.cma.2026.119437",
+    "title": "Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001882445900001",
+    "DOI": "10.1016/j.ces.2026.125168",
+    "title": "Shattering material discovery bottlenecks with constraint-driven emerging materials molecular designer",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001897263000001",
+    "DOI": "10.1016/j.ress.2026.113583",
+    "title": "A positivity-constrained physics-informed Kolmogorov-Arnold network for stability-oriented source-intensity inversion in nuclear contaminant transport",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001871080300001",
+    "DOI": "10.1016/j.cma.2026.119351",
+    "title": "Physics-conforming Latent Twins",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001874759800001",
+    "DOI": "10.1016/j.powtec.2026.123181",
+    "title": "Dynamic moisture transport in an agglomerated sulphide ore particle bed: A non-local diffusion model coupled with neural-network reconstruction for industrial heap-leach piles",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001886655600001",
+    "DOI": "10.1016/j.cma.2026.119431",
+    "title": "Finite operator learning for the static analysis of functionally graded microbeams with material heterogeneity",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001889265800001",
+    "DOI": "10.1016/j.aei.2026.105322",
+    "title": "Predicting stress-strain behaviors of additively manufactured materials via loss-based and activation-based physics-informed machine learning architectures",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001882824000001",
+    "DOI": "10.1016/j.ast.2026.113770",
+    "title": "Compositional embedding architecture for physical field prediction in componentized aerospace systems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001877824000001",
+    "DOI": "10.1016/j.cma.2026.119356",
+    "title": "WINO: A weak-form physics informed neural operator for hyperelasticity on variable domains",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001884505800001",
+    "DOI": "10.1016/j.compchemeng.2026.109908",
+    "title": "Data-driven catalytic depolymerization of lignin: Sobol-Bayesian optimization framework for high-yield guaiacols production",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001855360100001",
+    "DOI": "10.1016/j.apsusc.2026.168118",
+    "title": "Small-data machine learning uncovers decoupled control mechanisms of crystallinity and surface morphology in β-Ga2O3 epitaxy",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001853872000001",
+    "DOI": "10.1016/j.fuel.2026.140963",
+    "title": "Physics-informed framework for predictive modeling of product distributions in steam cracking of heterogeneous polymeric waste",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001875905100001",
+    "DOI": "10.1016/j.cma.2026.119365",
+    "title": "A non-overlapping Schwarz hybrid finite element-neural operator framework for solid mechanics on irregular domains",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001824905000001",
+    "DOI": "10.1016/j.eswa.2026.133499",
+    "title": "Adaptive Hermite Kolmogorov-Arnold Networks (AHKAN): Stable geometric neural operators for multi-level connectivity and derivative-informed learning",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001885553800001",
+    "DOI": "10.1016/j.eswa.2026.134464",
+    "title": "GADTI: A geometry-aware dual-tower framework for drug-target interaction prediction",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001863433400001",
+    "DOI": "10.1016/j.precisioneng.2026.08.018",
+    "title": "Physics-informed deep operator network for intelligent contour error prediction and compensation of ultra-precision machining",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001872432700001",
+    "DOI": "10.1016/j.eswa.2026.134160",
+    "title": "DEX: Debiasing GNN explanations on imbalanced graphs",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001851995600001",
+    "DOI": "10.1016/j.molstruc.2026.147320",
+    "title": "AI-assisted pharmacophore modeling of lead molecules targeting soluble epoxide hydrolase for anti-inflammatory drug discovery",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001895044500001",
+    "DOI": "10.1016/j.jcp.2026.115421",
+    "title": "Starter-iterator neural operator: A unified architecture for high-fidelity forward and inverse PDE problems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001877842400001",
+    "DOI": "10.1016/j.cma.2026.119388",
+    "title": "Learning mesh-free discrete differential operators with self-supervised graph neural networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001897304900001",
+    "DOI": "10.1016/j.cma.2026.119459",
+    "title": "Physics-informed Kolmogorov-Arnold networks (PIKANs) for noise-robust reconstruction of boiling heat flux from infrared measurements",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001879743600001",
+    "DOI": "10.1016/j.cma.2026.119374",
+    "title": "Time-attentional neural operator for solving time-dependent partial differential equations",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001896412900001",
+    "DOI": "10.1016/j.compbiolchem.2026.109466",
+    "title": "Machine learning-guided discovery of a novel natural CDK7 inhibitor for triple-negative breast cancer",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001870410200001",
+    "DOI": "10.1016/j.cam.2026.118101",
+    "title": "Physics-Informed neural operator hybrids for Multi-Scale inverse problems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001865604900001",
+    "DOI": "10.1016/j.compbiolchem.2026.109340",
+    "title": "Hyperbolic graph contrastive learning for drug repositioning over heterogeneous biological networks",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001898647700001",
+    "DOI": "10.1016/j.jcp.2026.115457",
+    "title": "Injective attention neural operators for partial differential equations on large-scale problems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001855412300001",
+    "DOI": "10.1016/j.apsusc.2026.168152",
+    "title": "Feature-center-based quantification of second-coordination-shell effects in carbene-coordinated single-atom catalysts for NRR",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001899439700001",
+    "DOI": "10.1016/j.apsusc.2026.168544",
+    "title": "Data-driven discovery of bifunctional V/g-CN single-atom catalysts for integrated ammonia oxidation and hydrogen evolution",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001886920800001",
+    "DOI": "10.1016/j.cam.2026.118185",
+    "title": "A geometry-aware operator learning framework for interface problems on varying domains",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001874855500001",
+    "DOI": "10.1016/j.jcp.2026.115358",
+    "title": "DyMixOp: A neural operator designed from a complex dynamics perspective with local for PDEs",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001840196600001",
+    "DOI": "10.1016/j.jmst.2026.07.035",
+    "title": "Machine learning-driven design of dual-atom catalysts with interpretable descriptors for lithium-sulfur batteries",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001819001500001",
+    "DOI": "10.1016/j.euromechflu.2026.204596",
+    "title": "Data-driven modeling and decomposition for nanoscale liquid-film dynamics: Application to superspreading nanofluid droplets",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001864651900001",
+    "DOI": "10.1016/j.compgeo.2026.108599",
+    "title": "A deep learning framework for probabilistic stability analysis of slopes considering soil spatial variability and unsaturated steady seepage",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001839958400001",
+    "DOI": "10.1016/j.powtec.2026.123009",
+    "title": "Normalized sparse identification of nonlinear dynamics system for discovering the governing equation of rough granular flow in the homogeneous cooling state",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001896804600001",
+    "DOI": "10.1016/j.molstruc.2026.147730",
+    "title": "Multi-scale computational-experimental strategy for anti-hepatocellular carcinoma natural product discovery and candidate target exploration",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001887748200001",
+    "DOI": "10.1016/j.compbiolchem.2026.109431",
+    "title": "xLSTM-based deep learning model for predicting anticancer Activity of pyrano[3,2-a]phenazine hybrid derivatives: Proof of concept",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001831756300001",
+    "DOI": "10.4208/eajam.2026-016.240226",
+    "title": "Solving Partial Differential Equations with Analytic Random Feature Method",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001876925500001",
+    "DOI": "10.1016/j.acha.2026.101925",
+    "title": "A deep learning framework for multi-operator learning: Architectures and approximation theory",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001856693400004",
+    "DOI": "10.1016/j.eswa.2026.134054",
+    "title": "Geometry-aware digital twin framework for multiphysics transport in drying of porous materials with data assimilation",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001889503400001",
+    "DOI": "10.1016/j.cam.2026.118199",
+    "title": "A neural network approach to the boundary observer and control design for rotary drilling PDEs in oilwell systems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001887782100001",
+    "DOI": "10.1016/j.neunet.2026.109668",
+    "title": "Physics-informed adjoint neural network for parametric PDE-constrained optimal control problems",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001758307900001",
+    "DOI": "10.1016/j.fuel.2026.139624",
+    "title": "Modeling catalytic hydrodeoxygenation of lignin-derived phenolic compounds: A machine learning approach",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001834887500001",
+    "DOI": "10.1016/j.fuel.2026.140760",
+    "title": "A hybrid machine learning-group contribution framework for accurate prediction of non-polar gas solubility in ionic liquids",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001883314200001",
+    "DOI": "10.1016/j.tws.2026.115667",
+    "title": "Data-driven multi-objective inverse design of programmable Vorochiral metamaterials for customized orthotic midsoles",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001870171500001",
+    "DOI": "10.1016/j.fuel.2026.141222",
+    "title": "Temperature-dependent mechanistic switching in Mn-based bimetallic catalysts for NH3-SCR revealed by data-driven analysis",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  },
+  {
+    "UT": "WOS:001856354300001",
+    "DOI": "10.1016/j.inffus.2026.104709",
+    "title": "Functional guidance for whole-protein virtual screening under pocket-unknown and structural ambiguity conditions",
+    "PY": "2027",
+    "reason": "主分析统一PY且限2010—2026年；范围外移出，不认定为内容不相关"
+  }
+]
