@@ -1,0 +1,333 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="900" viewBox="0 0 1580 900" role="img" aria-labelledby="title desc">
+<title id="title">主要WoS学科类别的年度分布</title><desc id="desc">9363篇样本，统一PY；前15类别重叠计数，柱高不是独立文献量；2026年不完整。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1580" height="900" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">主要WoS学科类别的年度分布</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">核心样本 9,363 篇｜前15个WC类别｜按WoS出版年PY统计</text>
+<defs><pattern id="incomplete" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 9 L9 0 M7 11 L11 7" stroke="#243448" stroke-width="1" opacity="0.45"/></pattern></defs>
+<line x1="100.00" y1="715.00" x2="1105.00" y2="715.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="720.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">0</text>
+<line x1="100.00" y1="635.00" x2="1105.00" y2="635.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="640.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">500</text>
+<line x1="100.00" y1="555.00" x2="1105.00" y2="555.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="560.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,000</text>
+<line x1="100.00" y1="475.00" x2="1105.00" y2="475.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="480.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,500</text>
+<line x1="100.00" y1="395.00" x2="1105.00" y2="395.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="400.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,000</text>
+<line x1="100.00" y1="315.00" x2="1105.00" y2="315.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="320.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,500</text>
+<line x1="100.00" y1="235.00" x2="1105.00" y2="235.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="240.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,000</text>
+<line x1="100.00" y1="155.00" x2="1105.00" y2="155.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="160.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,500</text>
+<line x1="100.00" y1="155.00" x2="100.00" y2="715.00" stroke="#B9C4CF" stroke-width="1"/>
+<line x1="100.00" y1="715.00" x2="1105.00" y2="715.00" stroke="#B9C4CF" stroke-width="1"/>
+<text x="100.00" y="131.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">学科归属次数</text>
+<rect x="111.00" y="713.40" width="42.00" height="1.60" fill="#2F6E94" rx="0" data-year="2010" data-category="Computer Science, Interdisciplinary Applications" data-count="10"/>
+<rect x="111.00" y="712.60" width="42.00" height="0.80" fill="#C49745" rx="0" data-year="2010" data-category="Chemistry, Multidisciplinary" data-count="5"/>
+<rect x="111.00" y="712.60" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2010" data-category="Mechanics" data-count="0"/>
+<rect x="111.00" y="712.44" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2010" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="111.00" y="712.12" width="42.00" height="0.32" fill="#D27D42" rx="0" data-year="2010" data-category="Computer Science, Artificial Intelligence" data-count="2"/>
+<rect x="111.00" y="711.32" width="42.00" height="0.80" fill="#78A3BD" rx="0" data-year="2010" data-category="Biochemistry &amp; Molecular Biology" data-count="5"/>
+<rect x="111.00" y="711.32" width="42.00" height="0.00" fill="#D9B97F" rx="0" data-year="2010" data-category="Multidisciplinary Sciences" data-count="0"/>
+<rect x="111.00" y="711.16" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2010" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="111.00" y="711.16" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2010" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="111.00" y="710.68" width="42.00" height="0.48" fill="#E1A57D" rx="0" data-year="2010" data-category="Computer Science, Information Systems" data-count="3"/>
+<rect x="111.00" y="710.04" width="42.00" height="0.64" fill="#1C4B68" rx="0" data-year="2010" data-category="Chemistry, Medicinal" data-count="4"/>
+<rect x="111.00" y="710.04" width="42.00" height="0.00" fill="#8D6D31" rx="0" data-year="2010" data-category="Mathematics, Interdisciplinary Applications" data-count="0"/>
+<rect x="111.00" y="708.60" width="42.00" height="1.44" fill="#526333" rx="0" data-year="2010" data-category="Mathematical &amp; Computational Biology" data-count="9"/>
+<rect x="111.00" y="707.48" width="42.00" height="1.12" fill="#864F65" rx="0" data-year="2010" data-category="Biochemical Research Methods" data-count="7"/>
+<rect x="111.00" y="707.32" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2010" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="132.00" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2010</text>
+<rect x="169.81" y="714.20" width="42.00" height="0.80" fill="#2F6E94" rx="0" data-year="2011" data-category="Computer Science, Interdisciplinary Applications" data-count="5"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.16" fill="#C49745" rx="0" data-year="2011" data-category="Chemistry, Multidisciplinary" data-count="1"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2011" data-category="Mechanics" data-count="0"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2011" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="169.81" y="713.72" width="42.00" height="0.32" fill="#D27D42" rx="0" data-year="2011" data-category="Computer Science, Artificial Intelligence" data-count="2"/>
+<rect x="169.81" y="713.56" width="42.00" height="0.16" fill="#78A3BD" rx="0" data-year="2011" data-category="Biochemistry &amp; Molecular Biology" data-count="1"/>
+<rect x="169.81" y="713.56" width="42.00" height="0.00" fill="#D9B97F" rx="0" data-year="2011" data-category="Multidisciplinary Sciences" data-count="0"/>
+<rect x="169.81" y="713.40" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2011" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="169.81" y="713.40" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2011" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="169.81" y="713.24" width="42.00" height="0.16" fill="#E1A57D" rx="0" data-year="2011" data-category="Computer Science, Information Systems" data-count="1"/>
+<rect x="169.81" y="712.92" width="42.00" height="0.32" fill="#1C4B68" rx="0" data-year="2011" data-category="Chemistry, Medicinal" data-count="2"/>
+<rect x="169.81" y="712.60" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2011" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="169.81" y="712.12" width="42.00" height="0.48" fill="#526333" rx="0" data-year="2011" data-category="Mathematical &amp; Computational Biology" data-count="3"/>
+<rect x="169.81" y="711.64" width="42.00" height="0.48" fill="#864F65" rx="0" data-year="2011" data-category="Biochemical Research Methods" data-count="3"/>
+<rect x="169.81" y="711.48" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2011" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="190.81" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2011</text>
+<rect x="228.62" y="714.36" width="42.00" height="0.64" fill="#2F6E94" rx="0" data-year="2012" data-category="Computer Science, Interdisciplinary Applications" data-count="4"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.48" fill="#C49745" rx="0" data-year="2012" data-category="Chemistry, Multidisciplinary" data-count="3"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2012" data-category="Mechanics" data-count="0"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2012" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="228.62" y="713.40" width="42.00" height="0.48" fill="#D27D42" rx="0" data-year="2012" data-category="Computer Science, Artificial Intelligence" data-count="3"/>
+<rect x="228.62" y="713.08" width="42.00" height="0.32" fill="#78A3BD" rx="0" data-year="2012" data-category="Biochemistry &amp; Molecular Biology" data-count="2"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2012" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2012" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2012" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="228.62" y="712.28" width="42.00" height="0.32" fill="#E1A57D" rx="0" data-year="2012" data-category="Computer Science, Information Systems" data-count="2"/>
+<rect x="228.62" y="711.80" width="42.00" height="0.48" fill="#1C4B68" rx="0" data-year="2012" data-category="Chemistry, Medicinal" data-count="3"/>
+<rect x="228.62" y="711.64" width="42.00" height="0.16" fill="#8D6D31" rx="0" data-year="2012" data-category="Mathematics, Interdisciplinary Applications" data-count="1"/>
+<rect x="228.62" y="711.48" width="42.00" height="0.16" fill="#526333" rx="0" data-year="2012" data-category="Mathematical &amp; Computational Biology" data-count="1"/>
+<rect x="228.62" y="711.32" width="42.00" height="0.16" fill="#864F65" rx="0" data-year="2012" data-category="Biochemical Research Methods" data-count="1"/>
+<rect x="228.62" y="711.16" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2012" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="249.62" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2012</text>
+<rect x="287.44" y="713.72" width="42.00" height="1.28" fill="#2F6E94" rx="0" data-year="2013" data-category="Computer Science, Interdisciplinary Applications" data-count="8"/>
+<rect x="287.44" y="712.28" width="42.00" height="1.44" fill="#C49745" rx="0" data-year="2013" data-category="Chemistry, Multidisciplinary" data-count="9"/>
+<rect x="287.44" y="712.12" width="42.00" height="0.16" fill="#7B8F50" rx="0" data-year="2013" data-category="Mechanics" data-count="1"/>
+<rect x="287.44" y="712.12" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2013" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="287.44" y="711.96" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2013" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="287.44" y="711.64" width="42.00" height="0.32" fill="#78A3BD" rx="0" data-year="2013" data-category="Biochemistry &amp; Molecular Biology" data-count="2"/>
+<rect x="287.44" y="711.16" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2013" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="287.44" y="711.16" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2013" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="287.44" y="710.84" width="42.00" height="0.32" fill="#CE9EAE" rx="0" data-year="2013" data-category="Engineering, Multidisciplinary" data-count="2"/>
+<rect x="287.44" y="710.04" width="42.00" height="0.80" fill="#E1A57D" rx="0" data-year="2013" data-category="Computer Science, Information Systems" data-count="5"/>
+<rect x="287.44" y="708.92" width="42.00" height="1.12" fill="#1C4B68" rx="0" data-year="2013" data-category="Chemistry, Medicinal" data-count="7"/>
+<rect x="287.44" y="708.28" width="42.00" height="0.64" fill="#8D6D31" rx="0" data-year="2013" data-category="Mathematics, Interdisciplinary Applications" data-count="4"/>
+<rect x="287.44" y="708.12" width="42.00" height="0.16" fill="#526333" rx="0" data-year="2013" data-category="Mathematical &amp; Computational Biology" data-count="1"/>
+<rect x="287.44" y="707.80" width="42.00" height="0.32" fill="#864F65" rx="0" data-year="2013" data-category="Biochemical Research Methods" data-count="2"/>
+<rect x="287.44" y="707.48" width="42.00" height="0.32" fill="#96552B" rx="0" data-year="2013" data-category="Engineering, Electrical &amp; Electronic" data-count="2"/>
+<text x="308.44" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2013</text>
+<rect x="346.25" y="714.20" width="42.00" height="0.80" fill="#2F6E94" rx="0" data-year="2014" data-category="Computer Science, Interdisciplinary Applications" data-count="5"/>
+<rect x="346.25" y="713.88" width="42.00" height="0.32" fill="#C49745" rx="0" data-year="2014" data-category="Chemistry, Multidisciplinary" data-count="2"/>
+<rect x="346.25" y="713.88" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2014" data-category="Mechanics" data-count="0"/>
+<rect x="346.25" y="713.72" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2014" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="346.25" y="712.92" width="42.00" height="0.80" fill="#D27D42" rx="0" data-year="2014" data-category="Computer Science, Artificial Intelligence" data-count="5"/>
+<rect x="346.25" y="712.44" width="42.00" height="0.48" fill="#78A3BD" rx="0" data-year="2014" data-category="Biochemistry &amp; Molecular Biology" data-count="3"/>
+<rect x="346.25" y="712.12" width="42.00" height="0.32" fill="#D9B97F" rx="0" data-year="2014" data-category="Multidisciplinary Sciences" data-count="2"/>
+<rect x="346.25" y="711.96" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2014" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="346.25" y="711.96" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2014" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="346.25" y="711.80" width="42.00" height="0.16" fill="#E1A57D" rx="0" data-year="2014" data-category="Computer Science, Information Systems" data-count="1"/>
+<rect x="346.25" y="711.64" width="42.00" height="0.16" fill="#1C4B68" rx="0" data-year="2014" data-category="Chemistry, Medicinal" data-count="1"/>
+<rect x="346.25" y="711.32" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2014" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="346.25" y="710.52" width="42.00" height="0.80" fill="#526333" rx="0" data-year="2014" data-category="Mathematical &amp; Computational Biology" data-count="5"/>
+<rect x="346.25" y="709.72" width="42.00" height="0.80" fill="#864F65" rx="0" data-year="2014" data-category="Biochemical Research Methods" data-count="5"/>
+<rect x="346.25" y="709.56" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2014" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="367.25" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2014</text>
+<rect x="405.06" y="713.88" width="42.00" height="1.12" fill="#2F6E94" rx="0" data-year="2015" data-category="Computer Science, Interdisciplinary Applications" data-count="7"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.96" fill="#C49745" rx="0" data-year="2015" data-category="Chemistry, Multidisciplinary" data-count="6"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2015" data-category="Mechanics" data-count="0"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2015" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="405.06" y="712.76" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2015" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="405.06" y="711.80" width="42.00" height="0.96" fill="#78A3BD" rx="0" data-year="2015" data-category="Biochemistry &amp; Molecular Biology" data-count="6"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.80" fill="#D9B97F" rx="0" data-year="2015" data-category="Multidisciplinary Sciences" data-count="5"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2015" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2015" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="405.06" y="710.36" width="42.00" height="0.64" fill="#E1A57D" rx="0" data-year="2015" data-category="Computer Science, Information Systems" data-count="4"/>
+<rect x="405.06" y="709.40" width="42.00" height="0.96" fill="#1C4B68" rx="0" data-year="2015" data-category="Chemistry, Medicinal" data-count="6"/>
+<rect x="405.06" y="709.24" width="42.00" height="0.16" fill="#8D6D31" rx="0" data-year="2015" data-category="Mathematics, Interdisciplinary Applications" data-count="1"/>
+<rect x="405.06" y="708.28" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2015" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="405.06" y="707.32" width="42.00" height="0.96" fill="#864F65" rx="0" data-year="2015" data-category="Biochemical Research Methods" data-count="6"/>
+<rect x="405.06" y="707.32" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2015" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="426.06" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2015</text>
+<rect x="463.88" y="713.56" width="42.00" height="1.44" fill="#2F6E94" rx="0" data-year="2016" data-category="Computer Science, Interdisciplinary Applications" data-count="9"/>
+<rect x="463.88" y="712.12" width="42.00" height="1.44" fill="#C49745" rx="0" data-year="2016" data-category="Chemistry, Multidisciplinary" data-count="9"/>
+<rect x="463.88" y="712.12" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2016" data-category="Mechanics" data-count="0"/>
+<rect x="463.88" y="711.96" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2016" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="463.88" y="711.80" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2016" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="463.88" y="710.52" width="42.00" height="1.28" fill="#78A3BD" rx="0" data-year="2016" data-category="Biochemistry &amp; Molecular Biology" data-count="8"/>
+<rect x="463.88" y="710.04" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2016" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="463.88" y="710.04" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2016" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="463.88" y="709.72" width="42.00" height="0.32" fill="#CE9EAE" rx="0" data-year="2016" data-category="Engineering, Multidisciplinary" data-count="2"/>
+<rect x="463.88" y="709.24" width="42.00" height="0.48" fill="#E1A57D" rx="0" data-year="2016" data-category="Computer Science, Information Systems" data-count="3"/>
+<rect x="463.88" y="708.60" width="42.00" height="0.64" fill="#1C4B68" rx="0" data-year="2016" data-category="Chemistry, Medicinal" data-count="4"/>
+<rect x="463.88" y="708.60" width="42.00" height="0.00" fill="#8D6D31" rx="0" data-year="2016" data-category="Mathematics, Interdisciplinary Applications" data-count="0"/>
+<rect x="463.88" y="707.64" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2016" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="463.88" y="707.00" width="42.00" height="0.64" fill="#864F65" rx="0" data-year="2016" data-category="Biochemical Research Methods" data-count="4"/>
+<rect x="463.88" y="707.00" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2016" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="484.88" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2016</text>
+<rect x="522.69" y="712.28" width="42.00" height="2.72" fill="#2F6E94" rx="0" data-year="2017" data-category="Computer Science, Interdisciplinary Applications" data-count="17"/>
+<rect x="522.69" y="709.56" width="42.00" height="2.72" fill="#C49745" rx="0" data-year="2017" data-category="Chemistry, Multidisciplinary" data-count="17"/>
+<rect x="522.69" y="709.24" width="42.00" height="0.32" fill="#7B8F50" rx="0" data-year="2017" data-category="Mechanics" data-count="2"/>
+<rect x="522.69" y="708.60" width="42.00" height="0.64" fill="#B7778E" rx="0" data-year="2017" data-category="Materials Science, Multidisciplinary" data-count="4"/>
+<rect x="522.69" y="707.96" width="42.00" height="0.64" fill="#D27D42" rx="0" data-year="2017" data-category="Computer Science, Artificial Intelligence" data-count="4"/>
+<rect x="522.69" y="707.32" width="42.00" height="0.64" fill="#78A3BD" rx="0" data-year="2017" data-category="Biochemistry &amp; Molecular Biology" data-count="4"/>
+<rect x="522.69" y="706.04" width="42.00" height="1.28" fill="#D9B97F" rx="0" data-year="2017" data-category="Multidisciplinary Sciences" data-count="8"/>
+<rect x="522.69" y="705.40" width="42.00" height="0.64" fill="#9FAD7B" rx="0" data-year="2017" data-category="Chemistry, Physical" data-count="4"/>
+<rect x="522.69" y="705.40" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2017" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="522.69" y="704.28" width="42.00" height="1.12" fill="#E1A57D" rx="0" data-year="2017" data-category="Computer Science, Information Systems" data-count="7"/>
+<rect x="522.69" y="702.68" width="42.00" height="1.60" fill="#1C4B68" rx="0" data-year="2017" data-category="Chemistry, Medicinal" data-count="10"/>
+<rect x="522.69" y="702.36" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2017" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="522.69" y="701.40" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2017" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="522.69" y="700.44" width="42.00" height="0.96" fill="#864F65" rx="0" data-year="2017" data-category="Biochemical Research Methods" data-count="6"/>
+<rect x="522.69" y="700.44" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2017" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="543.69" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2017</text>
+<rect x="581.50" y="711.80" width="42.00" height="3.20" fill="#2F6E94" rx="0" data-year="2018" data-category="Computer Science, Interdisciplinary Applications" data-count="20"/>
+<rect x="581.50" y="708.44" width="42.00" height="3.36" fill="#C49745" rx="0" data-year="2018" data-category="Chemistry, Multidisciplinary" data-count="21"/>
+<rect x="581.50" y="708.44" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2018" data-category="Mechanics" data-count="0"/>
+<rect x="581.50" y="706.52" width="42.00" height="1.92" fill="#B7778E" rx="0" data-year="2018" data-category="Materials Science, Multidisciplinary" data-count="12"/>
+<rect x="581.50" y="705.88" width="42.00" height="0.64" fill="#D27D42" rx="0" data-year="2018" data-category="Computer Science, Artificial Intelligence" data-count="4"/>
+<rect x="581.50" y="703.80" width="42.00" height="2.08" fill="#78A3BD" rx="0" data-year="2018" data-category="Biochemistry &amp; Molecular Biology" data-count="13"/>
+<rect x="581.50" y="702.20" width="42.00" height="1.60" fill="#D9B97F" rx="0" data-year="2018" data-category="Multidisciplinary Sciences" data-count="10"/>
+<rect x="581.50" y="700.28" width="42.00" height="1.92" fill="#9FAD7B" rx="0" data-year="2018" data-category="Chemistry, Physical" data-count="12"/>
+<rect x="581.50" y="700.12" width="42.00" height="0.16" fill="#CE9EAE" rx="0" data-year="2018" data-category="Engineering, Multidisciplinary" data-count="1"/>
+<rect x="581.50" y="698.68" width="42.00" height="1.44" fill="#E1A57D" rx="0" data-year="2018" data-category="Computer Science, Information Systems" data-count="9"/>
+<rect x="581.50" y="696.44" width="42.00" height="2.24" fill="#1C4B68" rx="0" data-year="2018" data-category="Chemistry, Medicinal" data-count="14"/>
+<rect x="581.50" y="695.64" width="42.00" height="0.80" fill="#8D6D31" rx="0" data-year="2018" data-category="Mathematics, Interdisciplinary Applications" data-count="5"/>
+<rect x="581.50" y="693.40" width="42.00" height="2.24" fill="#526333" rx="0" data-year="2018" data-category="Mathematical &amp; Computational Biology" data-count="14"/>
+<rect x="581.50" y="691.48" width="42.00" height="1.92" fill="#864F65" rx="0" data-year="2018" data-category="Biochemical Research Methods" data-count="12"/>
+<rect x="581.50" y="691.16" width="42.00" height="0.32" fill="#96552B" rx="0" data-year="2018" data-category="Engineering, Electrical &amp; Electronic" data-count="2"/>
+<text x="602.50" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2018</text>
+<rect x="640.31" y="706.52" width="42.00" height="8.48" fill="#2F6E94" rx="0" data-year="2019" data-category="Computer Science, Interdisciplinary Applications" data-count="53"/>
+<rect x="640.31" y="699.00" width="42.00" height="7.52" fill="#C49745" rx="0" data-year="2019" data-category="Chemistry, Multidisciplinary" data-count="47"/>
+<rect x="640.31" y="698.20" width="42.00" height="0.80" fill="#7B8F50" rx="0" data-year="2019" data-category="Mechanics" data-count="5"/>
+<rect x="640.31" y="694.36" width="42.00" height="3.84" fill="#B7778E" rx="0" data-year="2019" data-category="Materials Science, Multidisciplinary" data-count="24"/>
+<rect x="640.31" y="693.56" width="42.00" height="0.80" fill="#D27D42" rx="0" data-year="2019" data-category="Computer Science, Artificial Intelligence" data-count="5"/>
+<rect x="640.31" y="689.88" width="42.00" height="3.68" fill="#78A3BD" rx="0" data-year="2019" data-category="Biochemistry &amp; Molecular Biology" data-count="23"/>
+<rect x="640.31" y="687.16" width="42.00" height="2.72" fill="#D9B97F" rx="0" data-year="2019" data-category="Multidisciplinary Sciences" data-count="17"/>
+<rect x="640.31" y="684.76" width="42.00" height="2.40" fill="#9FAD7B" rx="0" data-year="2019" data-category="Chemistry, Physical" data-count="15"/>
+<rect x="640.31" y="684.60" width="42.00" height="0.16" fill="#CE9EAE" rx="0" data-year="2019" data-category="Engineering, Multidisciplinary" data-count="1"/>
+<rect x="640.31" y="680.44" width="42.00" height="4.16" fill="#E1A57D" rx="0" data-year="2019" data-category="Computer Science, Information Systems" data-count="26"/>
+<rect x="640.31" y="675.96" width="42.00" height="4.48" fill="#1C4B68" rx="0" data-year="2019" data-category="Chemistry, Medicinal" data-count="28"/>
+<rect x="640.31" y="674.68" width="42.00" height="1.28" fill="#8D6D31" rx="0" data-year="2019" data-category="Mathematics, Interdisciplinary Applications" data-count="8"/>
+<rect x="640.31" y="670.04" width="42.00" height="4.64" fill="#526333" rx="0" data-year="2019" data-category="Mathematical &amp; Computational Biology" data-count="29"/>
+<rect x="640.31" y="665.56" width="42.00" height="4.48" fill="#864F65" rx="0" data-year="2019" data-category="Biochemical Research Methods" data-count="28"/>
+<rect x="640.31" y="665.08" width="42.00" height="0.48" fill="#96552B" rx="0" data-year="2019" data-category="Engineering, Electrical &amp; Electronic" data-count="3"/>
+<text x="661.31" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2019</text>
+<rect x="699.12" y="701.40" width="42.00" height="13.60" fill="#2F6E94" rx="0" data-year="2020" data-category="Computer Science, Interdisciplinary Applications" data-count="85"/>
+<rect x="699.12" y="688.44" width="42.00" height="12.96" fill="#C49745" rx="0" data-year="2020" data-category="Chemistry, Multidisciplinary" data-count="81"/>
+<rect x="699.12" y="686.68" width="42.00" height="1.76" fill="#7B8F50" rx="0" data-year="2020" data-category="Mechanics" data-count="11"/>
+<rect x="699.12" y="680.76" width="42.00" height="5.92" fill="#B7778E" rx="0" data-year="2020" data-category="Materials Science, Multidisciplinary" data-count="37"/>
+<rect x="699.12" y="679.32" width="42.00" height="1.44" fill="#D27D42" rx="0" data-year="2020" data-category="Computer Science, Artificial Intelligence" data-count="9"/>
+<rect x="699.12" y="674.04" width="42.00" height="5.28" fill="#78A3BD" rx="0" data-year="2020" data-category="Biochemistry &amp; Molecular Biology" data-count="33"/>
+<rect x="699.12" y="669.88" width="42.00" height="4.16" fill="#D9B97F" rx="0" data-year="2020" data-category="Multidisciplinary Sciences" data-count="26"/>
+<rect x="699.12" y="665.40" width="42.00" height="4.48" fill="#9FAD7B" rx="0" data-year="2020" data-category="Chemistry, Physical" data-count="28"/>
+<rect x="699.12" y="663.48" width="42.00" height="1.92" fill="#CE9EAE" rx="0" data-year="2020" data-category="Engineering, Multidisciplinary" data-count="12"/>
+<rect x="699.12" y="655.80" width="42.00" height="7.68" fill="#E1A57D" rx="0" data-year="2020" data-category="Computer Science, Information Systems" data-count="48"/>
+<rect x="699.12" y="646.68" width="42.00" height="9.12" fill="#1C4B68" rx="0" data-year="2020" data-category="Chemistry, Medicinal" data-count="57"/>
+<rect x="699.12" y="645.08" width="42.00" height="1.60" fill="#8D6D31" rx="0" data-year="2020" data-category="Mathematics, Interdisciplinary Applications" data-count="10"/>
+<rect x="699.12" y="639.64" width="42.00" height="5.44" fill="#526333" rx="0" data-year="2020" data-category="Mathematical &amp; Computational Biology" data-count="34"/>
+<rect x="699.12" y="634.52" width="42.00" height="5.12" fill="#864F65" rx="0" data-year="2020" data-category="Biochemical Research Methods" data-count="32"/>
+<rect x="699.12" y="632.92" width="42.00" height="1.60" fill="#96552B" rx="0" data-year="2020" data-category="Engineering, Electrical &amp; Electronic" data-count="10"/>
+<text x="720.12" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2020</text>
+<rect x="757.94" y="697.40" width="42.00" height="17.60" fill="#2F6E94" rx="0" data-year="2021" data-category="Computer Science, Interdisciplinary Applications" data-count="110"/>
+<rect x="757.94" y="682.04" width="42.00" height="15.36" fill="#C49745" rx="0" data-year="2021" data-category="Chemistry, Multidisciplinary" data-count="96"/>
+<rect x="757.94" y="678.68" width="42.00" height="3.36" fill="#7B8F50" rx="0" data-year="2021" data-category="Mechanics" data-count="21"/>
+<rect x="757.94" y="670.20" width="42.00" height="8.48" fill="#B7778E" rx="0" data-year="2021" data-category="Materials Science, Multidisciplinary" data-count="53"/>
+<rect x="757.94" y="665.24" width="42.00" height="4.96" fill="#D27D42" rx="0" data-year="2021" data-category="Computer Science, Artificial Intelligence" data-count="31"/>
+<rect x="757.94" y="655.16" width="42.00" height="10.08" fill="#78A3BD" rx="0" data-year="2021" data-category="Biochemistry &amp; Molecular Biology" data-count="63"/>
+<rect x="757.94" y="647.00" width="42.00" height="8.16" fill="#D9B97F" rx="0" data-year="2021" data-category="Multidisciplinary Sciences" data-count="51"/>
+<rect x="757.94" y="640.92" width="42.00" height="6.08" fill="#9FAD7B" rx="0" data-year="2021" data-category="Chemistry, Physical" data-count="38"/>
+<rect x="757.94" y="638.68" width="42.00" height="2.24" fill="#CE9EAE" rx="0" data-year="2021" data-category="Engineering, Multidisciplinary" data-count="14"/>
+<rect x="757.94" y="632.60" width="42.00" height="6.08" fill="#E1A57D" rx="0" data-year="2021" data-category="Computer Science, Information Systems" data-count="38"/>
+<rect x="757.94" y="625.24" width="42.00" height="7.36" fill="#1C4B68" rx="0" data-year="2021" data-category="Chemistry, Medicinal" data-count="46"/>
+<rect x="757.94" y="620.60" width="42.00" height="4.64" fill="#8D6D31" rx="0" data-year="2021" data-category="Mathematics, Interdisciplinary Applications" data-count="29"/>
+<rect x="757.94" y="612.76" width="42.00" height="7.84" fill="#526333" rx="0" data-year="2021" data-category="Mathematical &amp; Computational Biology" data-count="49"/>
+<rect x="757.94" y="603.80" width="42.00" height="8.96" fill="#864F65" rx="0" data-year="2021" data-category="Biochemical Research Methods" data-count="56"/>
+<rect x="757.94" y="602.20" width="42.00" height="1.60" fill="#96552B" rx="0" data-year="2021" data-category="Engineering, Electrical &amp; Electronic" data-count="10"/>
+<text x="778.94" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2021</text>
+<rect x="816.75" y="693.08" width="42.00" height="21.92" fill="#2F6E94" rx="0" data-year="2022" data-category="Computer Science, Interdisciplinary Applications" data-count="137"/>
+<rect x="816.75" y="676.12" width="42.00" height="16.96" fill="#C49745" rx="0" data-year="2022" data-category="Chemistry, Multidisciplinary" data-count="106"/>
+<rect x="816.75" y="668.76" width="42.00" height="7.36" fill="#7B8F50" rx="0" data-year="2022" data-category="Mechanics" data-count="46"/>
+<rect x="816.75" y="658.36" width="42.00" height="10.40" fill="#B7778E" rx="0" data-year="2022" data-category="Materials Science, Multidisciplinary" data-count="65"/>
+<rect x="816.75" y="652.12" width="42.00" height="6.24" fill="#D27D42" rx="0" data-year="2022" data-category="Computer Science, Artificial Intelligence" data-count="39"/>
+<rect x="816.75" y="639.16" width="42.00" height="12.96" fill="#78A3BD" rx="0" data-year="2022" data-category="Biochemistry &amp; Molecular Biology" data-count="81"/>
+<rect x="816.75" y="632.28" width="42.00" height="6.88" fill="#D9B97F" rx="0" data-year="2022" data-category="Multidisciplinary Sciences" data-count="43"/>
+<rect x="816.75" y="625.72" width="42.00" height="6.56" fill="#9FAD7B" rx="0" data-year="2022" data-category="Chemistry, Physical" data-count="41"/>
+<rect x="816.75" y="620.28" width="42.00" height="5.44" fill="#CE9EAE" rx="0" data-year="2022" data-category="Engineering, Multidisciplinary" data-count="34"/>
+<rect x="816.75" y="612.12" width="42.00" height="8.16" fill="#E1A57D" rx="0" data-year="2022" data-category="Computer Science, Information Systems" data-count="51"/>
+<rect x="816.75" y="605.24" width="42.00" height="6.88" fill="#1C4B68" rx="0" data-year="2022" data-category="Chemistry, Medicinal" data-count="43"/>
+<rect x="816.75" y="598.04" width="42.00" height="7.20" fill="#8D6D31" rx="0" data-year="2022" data-category="Mathematics, Interdisciplinary Applications" data-count="45"/>
+<rect x="816.75" y="583.16" width="42.00" height="14.88" fill="#526333" rx="0" data-year="2022" data-category="Mathematical &amp; Computational Biology" data-count="93"/>
+<rect x="816.75" y="567.48" width="42.00" height="15.68" fill="#864F65" rx="0" data-year="2022" data-category="Biochemical Research Methods" data-count="98"/>
+<rect x="816.75" y="562.84" width="42.00" height="4.64" fill="#96552B" rx="0" data-year="2022" data-category="Engineering, Electrical &amp; Electronic" data-count="29"/>
+<text x="837.75" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2022</text>
+<rect x="875.56" y="684.76" width="42.00" height="30.24" fill="#2F6E94" rx="0" data-year="2023" data-category="Computer Science, Interdisciplinary Applications" data-count="189"/>
+<rect x="875.56" y="663.32" width="42.00" height="21.44" fill="#C49745" rx="0" data-year="2023" data-category="Chemistry, Multidisciplinary" data-count="134"/>
+<rect x="875.56" y="650.20" width="42.00" height="13.12" fill="#7B8F50" rx="0" data-year="2023" data-category="Mechanics" data-count="82"/>
+<rect x="875.56" y="634.52" width="42.00" height="15.68" fill="#B7778E" rx="0" data-year="2023" data-category="Materials Science, Multidisciplinary" data-count="98"/>
+<rect x="875.56" y="623.32" width="42.00" height="11.20" fill="#D27D42" rx="0" data-year="2023" data-category="Computer Science, Artificial Intelligence" data-count="70"/>
+<rect x="875.56" y="609.08" width="42.00" height="14.24" fill="#78A3BD" rx="0" data-year="2023" data-category="Biochemistry &amp; Molecular Biology" data-count="89"/>
+<rect x="875.56" y="597.88" width="42.00" height="11.20" fill="#D9B97F" rx="0" data-year="2023" data-category="Multidisciplinary Sciences" data-count="70"/>
+<rect x="875.56" y="587.96" width="42.00" height="9.92" fill="#9FAD7B" rx="0" data-year="2023" data-category="Chemistry, Physical" data-count="62"/>
+<rect x="875.56" y="579.80" width="42.00" height="8.16" fill="#CE9EAE" rx="0" data-year="2023" data-category="Engineering, Multidisciplinary" data-count="51"/>
+<rect x="875.56" y="568.92" width="42.00" height="10.88" fill="#E1A57D" rx="0" data-year="2023" data-category="Computer Science, Information Systems" data-count="68"/>
+<rect x="875.56" y="559.16" width="42.00" height="9.76" fill="#1C4B68" rx="0" data-year="2023" data-category="Chemistry, Medicinal" data-count="61"/>
+<rect x="875.56" y="549.40" width="42.00" height="9.76" fill="#8D6D31" rx="0" data-year="2023" data-category="Mathematics, Interdisciplinary Applications" data-count="61"/>
+<rect x="875.56" y="535.96" width="42.00" height="13.44" fill="#526333" rx="0" data-year="2023" data-category="Mathematical &amp; Computational Biology" data-count="84"/>
+<rect x="875.56" y="523.00" width="42.00" height="12.96" fill="#864F65" rx="0" data-year="2023" data-category="Biochemical Research Methods" data-count="81"/>
+<rect x="875.56" y="515.64" width="42.00" height="7.36" fill="#96552B" rx="0" data-year="2023" data-category="Engineering, Electrical &amp; Electronic" data-count="46"/>
+<text x="896.56" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2023</text>
+<rect x="934.38" y="673.40" width="42.00" height="41.60" fill="#2F6E94" rx="0" data-year="2024" data-category="Computer Science, Interdisciplinary Applications" data-count="260"/>
+<rect x="934.38" y="641.88" width="42.00" height="31.52" fill="#C49745" rx="0" data-year="2024" data-category="Chemistry, Multidisciplinary" data-count="197"/>
+<rect x="934.38" y="615.64" width="42.00" height="26.24" fill="#7B8F50" rx="0" data-year="2024" data-category="Mechanics" data-count="164"/>
+<rect x="934.38" y="591.80" width="42.00" height="23.84" fill="#B7778E" rx="0" data-year="2024" data-category="Materials Science, Multidisciplinary" data-count="149"/>
+<rect x="934.38" y="572.28" width="42.00" height="19.52" fill="#D27D42" rx="0" data-year="2024" data-category="Computer Science, Artificial Intelligence" data-count="122"/>
+<rect x="934.38" y="557.72" width="42.00" height="14.56" fill="#78A3BD" rx="0" data-year="2024" data-category="Biochemistry &amp; Molecular Biology" data-count="91"/>
+<rect x="934.38" y="538.20" width="42.00" height="19.52" fill="#D9B97F" rx="0" data-year="2024" data-category="Multidisciplinary Sciences" data-count="122"/>
+<rect x="934.38" y="522.36" width="42.00" height="15.84" fill="#9FAD7B" rx="0" data-year="2024" data-category="Chemistry, Physical" data-count="99"/>
+<rect x="934.38" y="506.20" width="42.00" height="16.16" fill="#CE9EAE" rx="0" data-year="2024" data-category="Engineering, Multidisciplinary" data-count="101"/>
+<rect x="934.38" y="489.24" width="42.00" height="16.96" fill="#E1A57D" rx="0" data-year="2024" data-category="Computer Science, Information Systems" data-count="106"/>
+<rect x="934.38" y="474.04" width="42.00" height="15.20" fill="#1C4B68" rx="0" data-year="2024" data-category="Chemistry, Medicinal" data-count="95"/>
+<rect x="934.38" y="458.36" width="42.00" height="15.68" fill="#8D6D31" rx="0" data-year="2024" data-category="Mathematics, Interdisciplinary Applications" data-count="98"/>
+<rect x="934.38" y="445.72" width="42.00" height="12.64" fill="#526333" rx="0" data-year="2024" data-category="Mathematical &amp; Computational Biology" data-count="79"/>
+<rect x="934.38" y="433.24" width="42.00" height="12.48" fill="#864F65" rx="0" data-year="2024" data-category="Biochemical Research Methods" data-count="78"/>
+<rect x="934.38" y="419.96" width="42.00" height="13.28" fill="#96552B" rx="0" data-year="2024" data-category="Engineering, Electrical &amp; Electronic" data-count="83"/>
+<text x="955.38" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2024</text>
+<rect x="993.19" y="660.28" width="42.00" height="54.72" fill="#2F6E94" rx="0" data-year="2025" data-category="Computer Science, Interdisciplinary Applications" data-count="342"/>
+<rect x="993.19" y="616.44" width="42.00" height="43.84" fill="#C49745" rx="0" data-year="2025" data-category="Chemistry, Multidisciplinary" data-count="274"/>
+<rect x="993.19" y="570.20" width="42.00" height="46.24" fill="#7B8F50" rx="0" data-year="2025" data-category="Mechanics" data-count="289"/>
+<rect x="993.19" y="536.92" width="42.00" height="33.28" fill="#B7778E" rx="0" data-year="2025" data-category="Materials Science, Multidisciplinary" data-count="208"/>
+<rect x="993.19" y="508.76" width="42.00" height="28.16" fill="#D27D42" rx="0" data-year="2025" data-category="Computer Science, Artificial Intelligence" data-count="176"/>
+<rect x="993.19" y="491.64" width="42.00" height="17.12" fill="#78A3BD" rx="0" data-year="2025" data-category="Biochemistry &amp; Molecular Biology" data-count="107"/>
+<rect x="993.19" y="465.56" width="42.00" height="26.08" fill="#D9B97F" rx="0" data-year="2025" data-category="Multidisciplinary Sciences" data-count="163"/>
+<rect x="993.19" y="441.56" width="42.00" height="24.00" fill="#9FAD7B" rx="0" data-year="2025" data-category="Chemistry, Physical" data-count="150"/>
+<rect x="993.19" y="414.52" width="42.00" height="27.04" fill="#CE9EAE" rx="0" data-year="2025" data-category="Engineering, Multidisciplinary" data-count="169"/>
+<rect x="993.19" y="392.60" width="42.00" height="21.92" fill="#E1A57D" rx="0" data-year="2025" data-category="Computer Science, Information Systems" data-count="137"/>
+<rect x="993.19" y="375.80" width="42.00" height="16.80" fill="#1C4B68" rx="0" data-year="2025" data-category="Chemistry, Medicinal" data-count="105"/>
+<rect x="993.19" y="354.20" width="42.00" height="21.60" fill="#8D6D31" rx="0" data-year="2025" data-category="Mathematics, Interdisciplinary Applications" data-count="135"/>
+<rect x="993.19" y="339.96" width="42.00" height="14.24" fill="#526333" rx="0" data-year="2025" data-category="Mathematical &amp; Computational Biology" data-count="89"/>
+<rect x="993.19" y="325.88" width="42.00" height="14.08" fill="#864F65" rx="0" data-year="2025" data-category="Biochemical Research Methods" data-count="88"/>
+<rect x="993.19" y="301.24" width="42.00" height="24.64" fill="#96552B" rx="0" data-year="2025" data-category="Engineering, Electrical &amp; Electronic" data-count="154"/>
+<text x="1014.19" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2025</text>
+<rect x="1052.00" y="647.48" width="42.00" height="67.52" fill="#2F6E94" rx="0" data-year="2026" data-category="Computer Science, Interdisciplinary Applications" data-count="422"/>
+<rect x="1052.00" y="598.52" width="42.00" height="48.96" fill="#C49745" rx="0" data-year="2026" data-category="Chemistry, Multidisciplinary" data-count="306"/>
+<rect x="1052.00" y="543.80" width="42.00" height="54.72" fill="#7B8F50" rx="0" data-year="2026" data-category="Mechanics" data-count="342"/>
+<rect x="1052.00" y="494.36" width="42.00" height="49.44" fill="#B7778E" rx="0" data-year="2026" data-category="Materials Science, Multidisciplinary" data-count="309"/>
+<rect x="1052.00" y="458.20" width="42.00" height="36.16" fill="#D27D42" rx="0" data-year="2026" data-category="Computer Science, Artificial Intelligence" data-count="226"/>
+<rect x="1052.00" y="432.44" width="42.00" height="25.76" fill="#78A3BD" rx="0" data-year="2026" data-category="Biochemistry &amp; Molecular Biology" data-count="161"/>
+<rect x="1052.00" y="407.00" width="42.00" height="25.44" fill="#D9B97F" rx="0" data-year="2026" data-category="Multidisciplinary Sciences" data-count="159"/>
+<rect x="1052.00" y="375.96" width="42.00" height="31.04" fill="#9FAD7B" rx="0" data-year="2026" data-category="Chemistry, Physical" data-count="194"/>
+<rect x="1052.00" y="335.64" width="42.00" height="40.32" fill="#CE9EAE" rx="0" data-year="2026" data-category="Engineering, Multidisciplinary" data-count="252"/>
+<rect x="1052.00" y="315.64" width="42.00" height="20.00" fill="#E1A57D" rx="0" data-year="2026" data-category="Computer Science, Information Systems" data-count="125"/>
+<rect x="1052.00" y="294.36" width="42.00" height="21.28" fill="#1C4B68" rx="0" data-year="2026" data-category="Chemistry, Medicinal" data-count="133"/>
+<rect x="1052.00" y="260.76" width="42.00" height="33.60" fill="#8D6D31" rx="0" data-year="2026" data-category="Mathematics, Interdisciplinary Applications" data-count="210"/>
+<rect x="1052.00" y="244.44" width="42.00" height="16.32" fill="#526333" rx="0" data-year="2026" data-category="Mathematical &amp; Computational Biology" data-count="102"/>
+<rect x="1052.00" y="231.00" width="42.00" height="13.44" fill="#864F65" rx="0" data-year="2026" data-category="Biochemical Research Methods" data-count="84"/>
+<rect x="1052.00" y="198.68" width="42.00" height="32.32" fill="#96552B" rx="0" data-year="2026" data-category="Engineering, Electrical &amp; Electronic" data-count="202"/>
+<rect x="1052.00" y="198.68" width="42.00" height="516.32" fill="url(#incomplete)" rx="0" />
+<text x="1073.00" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2026</text>
+<rect x="1150.00" y="158.00" width="19.00" height="19.00" fill="#2F6E94" rx="0" />
+<text x="1180.00" y="173.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：跨学科应用</text>
+<rect x="1150.00" y="192.00" width="19.00" height="19.00" fill="#C49745" rx="0" />
+<text x="1180.00" y="207.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">化学：综合</text>
+<rect x="1150.00" y="226.00" width="19.00" height="19.00" fill="#7B8F50" rx="0" />
+<text x="1180.00" y="241.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">力学</text>
+<rect x="1150.00" y="260.00" width="19.00" height="19.00" fill="#B7778E" rx="0" />
+<text x="1180.00" y="275.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">材料科学：综合</text>
+<rect x="1150.00" y="294.00" width="19.00" height="19.00" fill="#D27D42" rx="0" />
+<text x="1180.00" y="309.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：人工智能</text>
+<rect x="1150.00" y="328.00" width="19.00" height="19.00" fill="#78A3BD" rx="0" />
+<text x="1180.00" y="343.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">生物化学与分子生物学</text>
+<rect x="1150.00" y="362.00" width="19.00" height="19.00" fill="#D9B97F" rx="0" />
+<text x="1180.00" y="377.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">综合性科学</text>
+<rect x="1150.00" y="396.00" width="19.00" height="19.00" fill="#9FAD7B" rx="0" />
+<text x="1180.00" y="411.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">物理化学</text>
+<rect x="1150.00" y="430.00" width="19.00" height="19.00" fill="#CE9EAE" rx="0" />
+<text x="1180.00" y="445.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">工程：综合</text>
+<rect x="1150.00" y="464.00" width="19.00" height="19.00" fill="#E1A57D" rx="0" />
+<text x="1180.00" y="479.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：信息系统</text>
+<rect x="1150.00" y="498.00" width="19.00" height="19.00" fill="#1C4B68" rx="0" />
+<text x="1180.00" y="513.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">药物化学</text>
+<rect x="1150.00" y="532.00" width="19.00" height="19.00" fill="#8D6D31" rx="0" />
+<text x="1180.00" y="547.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">数学：跨学科应用</text>
+<rect x="1150.00" y="566.00" width="19.00" height="19.00" fill="#526333" rx="0" />
+<text x="1180.00" y="581.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">数理与计算生物学</text>
+<rect x="1150.00" y="600.00" width="19.00" height="19.00" fill="#864F65" rx="0" />
+<text x="1180.00" y="615.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">生物化学研究方法</text>
+<rect x="1150.00" y="634.00" width="19.00" height="19.00" fill="#96552B" rx="0" />
+<text x="1180.00" y="649.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">电气与电子工程</text>
+<text x="605.00" y="784.00" font-size="18" fill="#243448" text-anchor="middle" font-weight="400">出版年（PY）</text>
+<text x="60.00" y="837.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">注：只展示累计文献数前15个WC类别，不合并“其他”；同篇跨类别可重复计数，柱高不是独立文献总量。</text>
+<text x="60.00" y="870.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">2026年为不完整年度，以斜线标记；完整153类及其各年数据见配套CSV。</text>
+</svg>

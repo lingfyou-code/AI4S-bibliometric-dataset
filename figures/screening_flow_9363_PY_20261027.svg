@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1440" viewBox="0 0 1320 1440" role="img" aria-labelledby="title desc">
+<title id="title">WoS文献检索与筛选流程</title><desc id="desc">11637→10315→10189→9467→9363；依次移出1322、126、722、104；右侧为剔除或转出。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1320" height="1440" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">WoS文献检索与筛选流程</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">逐轮筛选｜早期复核并入内容核验｜最终按出版年PY限定2010—2026年</text>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#6B7E90"/></marker></defs>
+<text x="365.00" y="128.00" font-size="19" fill="#2F6E94" text-anchor="middle" font-weight="700">保留文献</text>
+<text x="1000.00" y="128.00" font-size="19" fill="#A56B2A" text-anchor="middle" font-weight="700">剔除 / 转出主分析样本</text>
+<rect x="90.00" y="155.00" width="550.00" height="106.00" fill="#F4F8FB" rx="8" stroke="#BBCBD8" />
+<text x="365.00" y="190.00" font-size="21" fill="#243448" text-anchor="middle" font-weight="700">原始WoS候选记录</text>
+<text x="365.00" y="235.00" font-size="33" fill="#2F6E94" text-anchor="middle" font-weight="700">11,637篇</text>
+<line x1="365.00" y1="261.00" x2="365.00" y2="395.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<line x1="365.00" y1="332.00" x2="727.00" y2="332.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<rect x="90.00" y="405.00" width="550.00" height="106.00" fill="#F4F8FB" rx="8" stroke="#BBCBD8" />
+<text x="365.00" y="440.00" font-size="21" fill="#243448" text-anchor="middle" font-weight="700">初步筛查后保留</text>
+<text x="365.00" y="485.00" font-size="33" fill="#2F6E94" text-anchor="middle" font-weight="700">10,315篇</text>
+<line x1="365.00" y1="511.00" x2="365.00" y2="645.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<line x1="365.00" y1="582.00" x2="727.00" y2="582.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<rect x="90.00" y="655.00" width="550.00" height="106.00" fill="#F4F8FB" rx="8" stroke="#BBCBD8" />
+<text x="365.00" y="690.00" font-size="21" fill="#243448" text-anchor="middle" font-weight="700">领域筛选后保留</text>
+<text x="365.00" y="735.00" font-size="33" fill="#2F6E94" text-anchor="middle" font-weight="700">10,189篇</text>
+<line x1="365.00" y1="761.00" x2="365.00" y2="895.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<line x1="365.00" y1="832.00" x2="727.00" y2="832.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<rect x="90.00" y="905.00" width="550.00" height="106.00" fill="#F4F8FB" rx="8" stroke="#BBCBD8" />
+<text x="365.00" y="940.00" font-size="21" fill="#243448" text-anchor="middle" font-weight="700">内容核验后保留</text>
+<text x="365.00" y="985.00" font-size="33" fill="#2F6E94" text-anchor="middle" font-weight="700">9,467篇</text>
+<line x1="365.00" y1="1011.00" x2="365.00" y2="1145.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<line x1="365.00" y1="1082.00" x2="727.00" y2="1082.00" stroke="#6B7E90" stroke-width="2.3" marker-end="url(#arrow)"/>
+<rect x="90.00" y="1155.00" width="550.00" height="106.00" fill="#E9F2F7" rx="8" stroke="#2F6E94" />
+<text x="365.00" y="1190.00" font-size="21" fill="#243448" text-anchor="middle" font-weight="700">最终核心分析样本</text>
+<text x="365.00" y="1235.00" font-size="33" fill="#2F6E94" text-anchor="middle" font-weight="700">9,363篇</text>
+<rect x="745.00" y="274.00" width="505.00" height="142.00" fill="#FCF7EF" rx="7" stroke="#D7BC94" />
+<text x="766.00" y="303.00" font-size="19" fill="#243448" text-anchor="start" font-weight="700">第一轮：初步筛查与撤稿处理</text>
+<text x="766.00" y="333.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">非目标、纯综述等：1,318篇</text>
+<text x="766.00" y="360.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">明确撤稿记录：4篇</text>
+<text x="766.00" y="395.00" font-size="19" fill="#A56B2A" text-anchor="start" font-weight="700">本轮剔除：1,322篇</text>
+<rect x="745.00" y="524.00" width="505.00" height="142.00" fill="#FCF7EF" rx="7" stroke="#D7BC94" />
+<text x="766.00" y="553.00" font-size="19" fill="#243448" text-anchor="start" font-weight="700">第二轮：模型辅助初审与领域筛选</text>
+<text x="766.00" y="583.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">交通、金融、临床诊疗等</text>
+<text x="766.00" y="610.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">不符合研究范围的文献</text>
+<text x="766.00" y="645.00" font-size="19" fill="#A56B2A" text-anchor="start" font-weight="700">本轮剔除：126篇</text>
+<rect x="745.00" y="774.00" width="505.00" height="142.00" fill="#FCF7EF" rx="7" stroke="#D7BC94" />
+<text x="766.00" y="803.00" font-size="19" fill="#243448" text-anchor="start" font-weight="700">第三轮：内容、原创性与出版关系核验</text>
+<text x="766.00" y="833.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">内容排除、转拓展及资格证据不足</text>
+<text x="766.00" y="860.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">重复 / 撤稿旧版；含早期复核8篇</text>
+<text x="766.00" y="895.00" font-size="19" fill="#A56B2A" text-anchor="start" font-weight="700">本轮剔除或转出：722篇</text>
+<rect x="745.00" y="1024.00" width="505.00" height="142.00" fill="#FCF7EF" rx="7" stroke="#D7BC94" />
+<text x="766.00" y="1053.00" font-size="19" fill="#243448" text-anchor="start" font-weight="700">第四轮：出版年份范围核对</text>
+<text x="766.00" y="1083.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">全样本统一采用出版年PY</text>
+<text x="766.00" y="1110.00" font-size="17" fill="#68594A" text-anchor="start" font-weight="400">移出PY为2027的范围外记录</text>
+<text x="766.00" y="1145.00" font-size="19" fill="#A56B2A" text-anchor="start" font-weight="700">本轮移出：104篇</text>
+<text x="60.00" y="1328.00" font-size="20" fill="#2F6E94" text-anchor="start" font-weight="700">数量核对：11,637－1,322－126－722－104＝9,363篇。</text>
+<text x="60.00" y="1367.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">注：按最终处置汇总筛选步骤；疑点文献在候选池内核验，符合标准者保留在主线。</text>
+<text x="60.00" y="1401.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">第三轮包括早期复核；转拓展参考不计主分析，资格证据不足与内容不相关分别记录。</text>
+</svg>

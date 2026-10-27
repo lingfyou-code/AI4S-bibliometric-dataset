@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="580" viewBox="0 0 1040 580" role="img" aria-labelledby="title desc">
+<title id="title">AI4S年度发文量</title><desc id="desc">9363篇；2010—2026年；全样本按WoS出版年PY统计，2026为不完整年度。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1040" height="580" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">AI4S年度发文量</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">核心样本 9,363 篇｜2010—2026年｜按WoS出版年PY统计</text>
+<rect x="958.00" y="135.00" width="44.00" height="320.00" fill="#FAF0DE" rx="0" />
+<line x1="92.00" y1="455.00" x2="994.00" y2="455.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="460.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">0</text>
+<line x1="92.00" y1="401.67" x2="994.00" y2="401.67" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="406.67" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">500</text>
+<line x1="92.00" y1="348.33" x2="994.00" y2="348.33" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="353.33" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,000</text>
+<line x1="92.00" y1="295.00" x2="994.00" y2="295.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="300.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,500</text>
+<line x1="92.00" y1="241.67" x2="994.00" y2="241.67" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="246.67" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,000</text>
+<line x1="92.00" y1="188.33" x2="994.00" y2="188.33" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="193.33" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,500</text>
+<line x1="92.00" y1="135.00" x2="994.00" y2="135.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="140.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,000</text>
+<line x1="92.00" y1="135.00" x2="92.00" y2="455.00" stroke="#B9C4CF" stroke-width="1"/>
+<line x1="92.00" y1="455.00" x2="994.00" y2="455.00" stroke="#B9C4CF" stroke-width="1"/>
+<text x="92.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2010</text>
+<circle cx="92.00" cy="452.44" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="92.00" y="436.44" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">24</text>
+<text x="147.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2011</text>
+<line x1="92.00" y1="452.44" x2="147.50" y2="453.51" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="147.50" cy="453.51" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="147.50" y="437.51" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">14</text>
+<text x="203.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2012</text>
+<line x1="147.50" y1="453.51" x2="203.00" y2="453.19" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="203.00" cy="453.19" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="203.00" y="437.19" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">17</text>
+<text x="258.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2013</text>
+<line x1="203.00" y1="453.19" x2="258.50" y2="452.65" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="258.50" cy="452.65" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="258.50" y="436.65" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">22</text>
+<text x="314.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2014</text>
+<line x1="258.50" y1="452.65" x2="314.00" y2="452.23" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="314.00" cy="452.23" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="314.00" y="436.23" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">26</text>
+<text x="369.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2015</text>
+<line x1="314.00" y1="452.23" x2="369.50" y2="451.80" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="369.50" cy="451.80" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="369.50" y="435.80" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">30</text>
+<text x="425.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2016</text>
+<line x1="369.50" y1="451.80" x2="425.00" y2="451.59" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="425.00" cy="451.59" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="425.00" y="435.59" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">32</text>
+<text x="480.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2017</text>
+<line x1="425.00" y1="451.59" x2="480.50" y2="448.49" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="480.50" cy="448.49" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="480.50" y="432.49" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">61</text>
+<text x="536.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2018</text>
+<line x1="480.50" y1="448.49" x2="536.00" y2="444.65" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="536.00" cy="444.65" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="536.00" y="428.65" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">97</text>
+<text x="591.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2019</text>
+<line x1="536.00" y1="444.65" x2="591.50" y2="434.63" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="591.50" cy="434.63" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="591.50" y="418.63" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">191</text>
+<text x="647.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2020</text>
+<line x1="591.50" y1="434.63" x2="647.00" y2="420.97" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="647.00" cy="420.97" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="647.00" y="404.97" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">319</text>
+<text x="702.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2021</text>
+<line x1="647.00" y1="420.97" x2="702.50" y2="403.59" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="702.50" cy="403.59" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="702.50" y="387.59" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">482</text>
+<text x="758.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2022</text>
+<line x1="702.50" y1="403.59" x2="758.00" y2="378.09" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="758.00" cy="378.09" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="758.00" y="362.09" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">721</text>
+<text x="813.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2023</text>
+<line x1="758.00" y1="378.09" x2="813.50" y2="353.03" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="813.50" cy="353.03" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="813.50" y="337.03" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">956</text>
+<text x="869.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2024</text>
+<line x1="813.50" y1="353.03" x2="869.00" y2="302.79" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="869.00" cy="302.79" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="869.00" y="286.79" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">1,427</text>
+<text x="924.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2025</text>
+<line x1="869.00" y1="302.79" x2="924.50" y2="225.45" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="924.50" cy="225.45" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="924.50" y="209.45" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">2,152</text>
+<text x="980.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2026</text>
+<line x1="924.50" y1="225.45" x2="980.00" y2="157.19" stroke="#CF8A25" stroke-width="3" stroke-dasharray="8 5"/>
+<circle cx="980.00" cy="157.19" r="4" fill="white" stroke="#CF8A25" stroke-width="2"/>
+<text x="980.00" y="141.19" font-size="14" fill="#CF8A25" text-anchor="middle" font-weight="400">2,792</text>
+<text x="535.00" y="516.00" font-size="17" fill="#243448" text-anchor="middle" font-weight="400">出版年（PY）</text>
+<text x="30.00" y="122.00" font-size="15" fill="#63758A" text-anchor="start" font-weight="400">篇数</text>
+<text x="92.00" y="554.00" font-size="15" fill="#63758A" text-anchor="start" font-weight="400">注：2026年为不完整年度，以虚线、空心点及浅色背景标记。</text>
+</svg>
