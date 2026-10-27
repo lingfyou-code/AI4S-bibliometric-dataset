@@ -61,9 +61,10 @@ with zipfile.ZipFile(io.BytesIO(sourcebytes)) as z:files={Path(n).name:z.read(n)
 data=package(files)
 releases=request(f'/repos/{repo}/releases?per_page=100')
 release=next((r for r in releases if r['tag_name']==TAG),None)
-body='当前主分析9,363篇，19个WoS TXT；全样本统一按WoS原始PY统计年度发文量。9,475−8篇内容剔除−104篇PY2027范围外移出＝9,363。原始出版年PY不改写。2026为不完整年度。旧图尚未重算，不能用旧图解释本版。详见仓库检索结果.md和reviews/2026-10-27_early/。附件为文献元数据而非论文全文。'
+body='当前主分析9,363篇，19个WoS TXT；全样本统一按WoS原始PY统计年度发文量。9,475−8篇内容剔除−104篇PY2027范围外移出＝9,363。原始出版年PY不改写。2026为不完整年度。五幅图及配套CSV已按本版重算，年度统计统一采用PY。详见仓库检索结果.md和reviews/2026-10-27_early/。附件为文献元数据而非论文全文。'
 if release is None:
  release=request(f'/repos/{repo}/releases','POST',{'tag_name':TAG,'target_commitish':os.environ.get('GITHUB_SHA','main'),'name':'AI4S v5：9,363篇，统一PY出版年','body':body,'draft':False,'prerelease':False})
+request(f'/repos/{repo}/releases/{release["id"]}','PATCH',{'body':body})
 existing=next((a for a in release['assets'] if a['name']==ASSET),None)
 if existing:
  assert existing['digest']=='sha256:'+sha(data),'Existing v5 differs; preserving it'
@@ -71,3 +72,4 @@ if existing:
 else:asset=request(f'/repos/{repo}/releases/{release["id"]}/assets?name={ASSET}','POST',data,'application/zip','uploads.github.com')
 assert asset['size']==len(data) and asset.get('digest')=='sha256:'+sha(data)
 print(json.dumps({'records':9363,'files':19,'sha256':sha(data),'url':asset['browser_download_url']}))
+

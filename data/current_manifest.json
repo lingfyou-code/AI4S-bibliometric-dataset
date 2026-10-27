@@ -31,7 +31,7 @@
     "2026": 2792
   },
   "all_source_PY_present": true,
-  "figures_status": "unchanged_v4_9475_old_year_method",
+  "figures_status": "updated_v5_9363_PY",
   "source_file_sha256": {
     "download1-500.txt": "20185cee9b9f5f08ac2765f2f24438a2e0fb5b4222acbb9b77c5de861ff664b5",
     "download1001-1500.txt": "471967ee0602d0b08de7ebe020c9ef2f9d2f99c1a2f7a3417d3d04210bb845c2",
@@ -54,5 +54,6 @@
     "download9001-9475.txt": "44dcb4778f78868ddb6fbc66afd81fc61643ea461c647c20838ab2da198595d1"
   },
   "output_asset": "AI4S_9363_WoS_PY_TXT.zip",
-  "output_sha256": "792085538c18ee6617eaa34468641a7d3f22f8b2b82a25bf153fe016a617097d"
+  "output_sha256": "792085538c18ee6617eaa34468641a7d3f22f8b2b82a25bf153fe016a617097d",
+  "figures_validation": "data/figures_validation.json"
 }

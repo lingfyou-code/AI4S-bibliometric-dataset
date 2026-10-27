@@ -1,106 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1280" viewBox="0 0 1420 1280" role="img" aria-labelledby="title desc">
-  <title id="title">AI4S文献WoS学科分布（前20类）</title>
-  <desc id="desc">9,475篇核心样本，9,470篇有WC字段；每篇文献在每个所属类别计1次，类别之间可重叠。显示前20类，完整153类见汇总数据。</desc>
-  <rect width="1420" height="1280" fill="white" />
-  <style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
-  <text x="60" y="48" font-size="30" text-anchor="start" fill="#283444" font-weight="700">AI4S文献的WoS学科分布</text>
-  <text x="60" y="85" font-size="18" text-anchor="start" fill="#637080">原始WC类别（前20类） | 核心样本 9,475 篇；其中9,470篇有WC标注</text>
-  <line x1="620.0" y1="139" x2="620.0" y2="1128" stroke="#E8EDF2" />
-  <text x="620.0" y="1153" font-size="14" text-anchor="middle" fill="#536170">0</text>
-  <line x1="738.3333333333334" y1="139" x2="738.3333333333334" y2="1128" stroke="#E8EDF2" />
-  <text x="738.3333333333334" y="1153" font-size="14" text-anchor="middle" fill="#536170">300</text>
-  <line x1="856.6666666666666" y1="139" x2="856.6666666666666" y2="1128" stroke="#E8EDF2" />
-  <text x="856.6666666666666" y="1153" font-size="14" text-anchor="middle" fill="#536170">600</text>
-  <line x1="975.0" y1="139" x2="975.0" y2="1128" stroke="#E8EDF2" />
-  <text x="975.0" y="1153" font-size="14" text-anchor="middle" fill="#536170">900</text>
-  <line x1="1093.3333333333333" y1="139" x2="1093.3333333333333" y2="1128" stroke="#E8EDF2" />
-  <text x="1093.3333333333333" y="1153" font-size="14" text-anchor="middle" fill="#536170">1,200</text>
-  <line x1="1211.6666666666665" y1="139" x2="1211.6666666666665" y2="1128" stroke="#E8EDF2" />
-  <text x="1211.6666666666665" y="1153" font-size="14" text-anchor="middle" fill="#536170">1,500</text>
-  <line x1="1330.0" y1="139" x2="1330.0" y2="1128" stroke="#E8EDF2" />
-  <text x="1330.0" y="1153" font-size="14" text-anchor="middle" fill="#536170">1,800</text>
-  <line x1="620" y1="1128" x2="1330" y2="1128" stroke="#B6BEC8" />
-  <rect x="620" y="151.725" width="672.1333333333333" height="24" fill="#507E99" data-category="Computer Science, Interdisciplinary Applications" data-count="1704" />
-  <text x="606" y="160.725" font-size="14" text-anchor="end" fill="#3C5367">Computer Science, Interdisciplinary Applications</text>
-  <text x="606" y="180.725" font-size="13" text-anchor="end" fill="#637080">（计算机科学：跨学科应用）</text>
-  <text x="1302.1333333333332" y="168.725" font-size="15" text-anchor="start" fill="#283444">1,704</text>
-  <rect x="620" y="201.175" width="518.6944444444445" height="24" fill="#507E99" data-category="Chemistry, Multidisciplinary" data-count="1315" />
-  <text x="606" y="210.175" font-size="14" text-anchor="end" fill="#3C5367">Chemistry, Multidisciplinary</text>
-  <text x="606" y="230.175" font-size="13" text-anchor="end" fill="#637080">（化学：综合）</text>
-  <text x="1148.6944444444443" y="218.175" font-size="15" text-anchor="start" fill="#283444">1,315</text>
-  <rect x="620" y="250.625" width="387.7388888888889" height="24" fill="#507E99" data-category="Mechanics" data-count="983" />
-  <text x="606" y="259.625" font-size="14" text-anchor="end" fill="#3C5367">Mechanics</text>
-  <text x="606" y="279.625" font-size="13" text-anchor="end" fill="#637080">（力学）</text>
-  <text x="1017.7388888888888" y="267.625" font-size="15" text-anchor="start" fill="#283444">983</text>
-  <rect x="620" y="300.075" width="381.03333333333336" height="24" fill="#507E99" data-category="Materials Science, Multidisciplinary" data-count="966" />
-  <text x="606" y="309.075" font-size="14" text-anchor="end" fill="#3C5367">Materials Science, Multidisciplinary</text>
-  <text x="606" y="329.075" font-size="13" text-anchor="end" fill="#637080">（材料科学：综合）</text>
-  <text x="1011.0333333333333" y="317.075" font-size="15" text-anchor="start" fill="#283444">966</text>
-  <rect x="620" y="349.525" width="283.60555555555555" height="24" fill="#507E99" data-category="Computer Science, Artificial Intelligence" data-count="719" />
-  <text x="606" y="358.525" font-size="14" text-anchor="end" fill="#3C5367">Computer Science, Artificial Intelligence</text>
-  <text x="606" y="378.525" font-size="13" text-anchor="end" fill="#637080">（计算机科学：人工智能）</text>
-  <text x="913.6055555555556" y="366.525" font-size="15" text-anchor="start" fill="#283444">719</text>
-  <rect x="620" y="398.975" width="272.9555555555556" height="24" fill="#507E99" data-category="Biochemistry &amp; Molecular Biology" data-count="692" />
-  <text x="606" y="407.975" font-size="14" text-anchor="end" fill="#3C5367">Biochemistry &amp; Molecular Biology</text>
-  <text x="606" y="427.975" font-size="13" text-anchor="end" fill="#637080">（生物化学与分子生物学）</text>
-  <text x="902.9555555555555" y="415.975" font-size="15" text-anchor="start" fill="#283444">692</text>
-  <rect x="620" y="448.425" width="270.19444444444446" height="24" fill="#507E99" data-category="Multidisciplinary Sciences" data-count="685" />
-  <text x="606" y="457.425" font-size="14" text-anchor="end" fill="#3C5367">Multidisciplinary Sciences</text>
-  <text x="606" y="477.425" font-size="13" text-anchor="end" fill="#637080">（综合性科学）</text>
-  <text x="900.1944444444445" y="465.425" font-size="15" text-anchor="start" fill="#283444">685</text>
-  <rect x="620" y="497.875" width="257.96666666666664" height="24" fill="#507E99" data-category="Engineering, Multidisciplinary" data-count="654" />
-  <text x="606" y="506.875" font-size="14" text-anchor="end" fill="#3C5367">Engineering, Multidisciplinary</text>
-  <text x="606" y="526.875" font-size="13" text-anchor="end" fill="#637080">（工程：综合）</text>
-  <text x="887.9666666666667" y="514.875" font-size="15" text-anchor="start" fill="#283444">654</text>
-  <rect x="620" y="547.325" width="257.5722222222222" height="24" fill="#507E99" data-category="Chemistry, Physical" data-count="653" />
-  <text x="606" y="556.325" font-size="14" text-anchor="end" fill="#3C5367">Chemistry, Physical</text>
-  <text x="606" y="576.325" font-size="13" text-anchor="end" fill="#637080">（物理化学）</text>
-  <text x="887.5722222222222" y="564.325" font-size="15" text-anchor="start" fill="#283444">653</text>
-  <rect x="620" y="596.775" width="250.47222222222223" height="24" fill="#507E99" data-category="Computer Science, Information Systems" data-count="635" />
-  <text x="606" y="605.775" font-size="14" text-anchor="end" fill="#3C5367">Computer Science, Information Systems</text>
-  <text x="606" y="625.775" font-size="13" text-anchor="end" fill="#637080">（计算机科学：信息系统）</text>
-  <text x="880.4722222222222" y="613.775" font-size="15" text-anchor="start" fill="#283444">635</text>
-  <rect x="620" y="646.225" width="246.52777777777777" height="24" fill="#507E99" data-category="Mathematics, Interdisciplinary Applications" data-count="625" />
-  <text x="606" y="655.225" font-size="14" text-anchor="end" fill="#3C5367">Mathematics, Interdisciplinary Applications</text>
-  <text x="606" y="675.225" font-size="13" text-anchor="end" fill="#637080">（数学：跨学科应用）</text>
-  <text x="876.5277777777778" y="663.225" font-size="15" text-anchor="start" fill="#283444">625</text>
-  <rect x="620" y="695.675" width="244.55555555555554" height="24" fill="#507E99" data-category="Chemistry, Medicinal" data-count="620" />
-  <text x="606" y="704.675" font-size="14" text-anchor="end" fill="#3C5367">Chemistry, Medicinal</text>
-  <text x="606" y="724.675" font-size="13" text-anchor="end" fill="#637080">（药物化学）</text>
-  <text x="874.5555555555555" y="712.675" font-size="15" text-anchor="start" fill="#283444">620</text>
-  <rect x="620" y="745.125" width="241.4" height="24" fill="#507E99" data-category="Mathematical &amp; Computational Biology" data-count="612" />
-  <text x="606" y="754.125" font-size="14" text-anchor="end" fill="#3C5367">Mathematical &amp; Computational Biology</text>
-  <text x="606" y="774.125" font-size="13" text-anchor="end" fill="#637080">（数理与计算生物学）</text>
-  <text x="871.4" y="762.125" font-size="15" text-anchor="start" fill="#283444">612</text>
-  <rect x="620" y="794.575" width="233.90555555555557" height="24" fill="#507E99" data-category="Biochemical Research Methods" data-count="593" />
-  <text x="606" y="803.575" font-size="14" text-anchor="end" fill="#3C5367">Biochemical Research Methods</text>
-  <text x="606" y="823.575" font-size="13" text-anchor="end" fill="#637080">（生物化学研究方法）</text>
-  <text x="863.9055555555556" y="811.575" font-size="15" text-anchor="start" fill="#283444">593</text>
-  <rect x="620" y="844.025" width="218.12777777777777" height="24" fill="#507E99" data-category="Engineering, Electrical &amp; Electronic" data-count="553" />
-  <text x="606" y="853.025" font-size="14" text-anchor="end" fill="#3C5367">Engineering, Electrical &amp; Electronic</text>
-  <text x="606" y="873.025" font-size="13" text-anchor="end" fill="#637080">（电气与电子工程）</text>
-  <text x="848.1277777777777" y="861.025" font-size="15" text-anchor="start" fill="#283444">553</text>
-  <rect x="620" y="893.475" width="172.37222222222223" height="24" fill="#507E99" data-category="Physics, Mathematical" data-count="437" />
-  <text x="606" y="902.475" font-size="14" text-anchor="end" fill="#3C5367">Physics, Mathematical</text>
-  <text x="606" y="922.475" font-size="13" text-anchor="end" fill="#637080">（数学物理）</text>
-  <text x="802.3722222222223" y="910.475" font-size="15" text-anchor="start" fill="#283444">437</text>
-  <rect x="620" y="942.925" width="164.48333333333332" height="24" fill="#507E99" data-category="Engineering, Mechanical" data-count="417" />
-  <text x="606" y="951.925" font-size="14" text-anchor="end" fill="#3C5367">Engineering, Mechanical</text>
-  <text x="606" y="971.925" font-size="13" text-anchor="end" fill="#637080">（机械工程）</text>
-  <text x="794.4833333333333" y="959.925" font-size="15" text-anchor="start" fill="#283444">417</text>
-  <rect x="620" y="992.375" width="149.49444444444444" height="24" fill="#507E99" data-category="Mathematics, Applied" data-count="379" />
-  <text x="606" y="1001.375" font-size="14" text-anchor="end" fill="#3C5367">Mathematics, Applied</text>
-  <text x="606" y="1021.375" font-size="13" text-anchor="end" fill="#637080">（应用数学）</text>
-  <text x="779.4944444444444" y="1009.375" font-size="15" text-anchor="start" fill="#283444">379</text>
-  <rect x="620" y="1041.825" width="138.84444444444443" height="24" fill="#507E99" data-category="Engineering, Chemical" data-count="352" />
-  <text x="606" y="1050.825" font-size="14" text-anchor="end" fill="#3C5367">Engineering, Chemical</text>
-  <text x="606" y="1070.825" font-size="13" text-anchor="end" fill="#637080">（化学工程）</text>
-  <text x="768.8444444444444" y="1058.825" font-size="15" text-anchor="start" fill="#283444">352</text>
-  <rect x="620" y="1091.275" width="131.74444444444444" height="24" fill="#507E99" data-category="Physics, Applied" data-count="334" />
-  <text x="606" y="1100.275" font-size="14" text-anchor="end" fill="#3C5367">Physics, Applied</text>
-  <text x="606" y="1120.275" font-size="13" text-anchor="end" fill="#637080">（应用物理）</text>
-  <text x="761.7444444444444" y="1108.275" font-size="15" text-anchor="start" fill="#283444">334</text>
-  <text x="975.0" y="1180" font-size="17" text-anchor="middle" fill="#283444">文献数（篇）</text>
-  <text x="60" y="1222" font-size="16" text-anchor="start" fill="#637080">同一篇文献可属于多个WC类别，因此各类别文献数不能相加作为样本总量。</text>
-  <text x="60" y="1253" font-size="15" text-anchor="start" fill="#637080">图中为前20类；完整153个WC类别及计数见配套统计表。5篇缺少WC字段，未参与学科统计。</text>
+<title id="title">AI4S文献WoS学科分布（前20类）</title><desc id="desc">9363篇核心样本，9358篇有WC；类别可重叠，共153类。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1420" height="1280" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">AI4S文献的WoS学科分布</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">原始WC类别（前20类）｜核心样本 9,363 篇；其中9,358篇有WC标注</text>
+<line x1="620.00" y1="140.00" x2="620.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="620.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">0</text>
+<line x1="738.33" y1="140.00" x2="738.33" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="738.33" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">300</text>
+<line x1="856.67" y1="140.00" x2="856.67" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="856.67" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">600</text>
+<line x1="975.00" y1="140.00" x2="975.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="975.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">900</text>
+<line x1="1093.33" y1="140.00" x2="1093.33" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="1093.33" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,200</text>
+<line x1="1211.67" y1="140.00" x2="1211.67" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="1211.67" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,500</text>
+<line x1="1330.00" y1="140.00" x2="1330.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="1330.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,800</text>
+<line x1="620.00" y1="1125.00" x2="1330.00" y2="1125.00" stroke="#B9C4CF" stroke-width="1"/>
+<rect x="620.00" y="156.00" width="663.85" height="24.00" fill="#507E99" rx="0" data-count="1683" data-category="Computer Science, Interdisciplinary Applications"/>
+<text x="606.00" y="165.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Interdisciplinary Applications</text>
+<text x="606.00" y="186.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：跨学科应用</text>
+<text x="1292.85" y="173.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">1,683</text>
+<rect x="620.00" y="204.50" width="518.30" height="24.00" fill="#507E99" rx="0" data-count="1314" data-category="Chemistry, Multidisciplinary"/>
+<text x="606.00" y="213.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Multidisciplinary</text>
+<text x="606.00" y="234.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">化学：综合</text>
+<text x="1147.30" y="221.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">1,314</text>
+<rect x="620.00" y="253.00" width="379.85" height="24.00" fill="#507E99" rx="0" data-count="963" data-category="Mechanics"/>
+<text x="606.00" y="262.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mechanics</text>
+<text x="606.00" y="283.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">力学</text>
+<text x="1008.85" y="270.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">963</text>
+<rect x="620.00" y="301.50" width="379.46" height="24.00" fill="#507E99" rx="0" data-count="962" data-category="Materials Science, Multidisciplinary"/>
+<text x="606.00" y="310.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Materials Science, Multidisciplinary</text>
+<text x="606.00" y="331.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">材料科学：综合</text>
+<text x="1008.46" y="318.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">962</text>
+<rect x="620.00" y="350.00" width="276.51" height="24.00" fill="#507E99" rx="0" data-count="701" data-category="Computer Science, Artificial Intelligence"/>
+<text x="606.00" y="359.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Artificial Intelligence</text>
+<text x="606.00" y="380.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：人工智能</text>
+<text x="905.51" y="367.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">701</text>
+<rect x="620.00" y="398.50" width="272.96" height="24.00" fill="#507E99" rx="0" data-count="692" data-category="Biochemistry &amp; Molecular Biology"/>
+<text x="606.00" y="407.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Biochemistry &amp; Molecular Biology</text>
+<text x="606.00" y="428.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">生物化学与分子生物学</text>
+<text x="901.96" y="415.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">692</text>
+<rect x="620.00" y="447.00" width="270.19" height="24.00" fill="#507E99" rx="0" data-count="685" data-category="Multidisciplinary Sciences"/>
+<text x="606.00" y="456.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Multidisciplinary Sciences</text>
+<text x="606.00" y="477.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">综合性科学</text>
+<text x="899.19" y="464.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">685</text>
+<rect x="620.00" y="495.50" width="254.81" height="24.00" fill="#507E99" rx="0" data-count="646" data-category="Chemistry, Physical"/>
+<text x="606.00" y="504.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Physical</text>
+<text x="606.00" y="525.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">物理化学</text>
+<text x="883.81" y="512.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">646</text>
+<rect x="620.00" y="544.00" width="252.05" height="24.00" fill="#507E99" rx="0" data-count="639" data-category="Engineering, Multidisciplinary"/>
+<text x="606.00" y="553.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Multidisciplinary</text>
+<text x="606.00" y="574.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">工程：综合</text>
+<text x="881.05" y="561.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">639</text>
+<rect x="620.00" y="592.50" width="250.08" height="24.00" fill="#507E99" rx="0" data-count="634" data-category="Computer Science, Information Systems"/>
+<text x="606.00" y="601.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Information Systems</text>
+<text x="606.00" y="622.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：信息系统</text>
+<text x="879.08" y="609.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">634</text>
+<rect x="620.00" y="641.00" width="244.16" height="24.00" fill="#507E99" rx="0" data-count="619" data-category="Chemistry, Medicinal"/>
+<text x="606.00" y="650.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Medicinal</text>
+<text x="606.00" y="671.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">药物化学</text>
+<text x="873.16" y="658.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">619</text>
+<rect x="620.00" y="689.50" width="241.79" height="24.00" fill="#507E99" rx="0" data-count="613" data-category="Mathematics, Interdisciplinary Applications"/>
+<text x="606.00" y="698.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematics, Interdisciplinary Applications</text>
+<text x="606.00" y="719.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数学：跨学科应用</text>
+<text x="870.79" y="706.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">613</text>
+<rect x="620.00" y="738.00" width="240.61" height="24.00" fill="#507E99" rx="0" data-count="610" data-category="Mathematical &amp; Computational Biology"/>
+<text x="606.00" y="747.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematical &amp; Computational Biology</text>
+<text x="606.00" y="768.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数理与计算生物学</text>
+<text x="869.61" y="755.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">610</text>
+<rect x="620.00" y="786.50" width="233.12" height="24.00" fill="#507E99" rx="0" data-count="591" data-category="Biochemical Research Methods"/>
+<text x="606.00" y="795.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Biochemical Research Methods</text>
+<text x="606.00" y="816.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">生物化学研究方法</text>
+<text x="862.12" y="803.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">591</text>
+<rect x="620.00" y="835.00" width="214.97" height="24.00" fill="#507E99" rx="0" data-count="545" data-category="Engineering, Electrical &amp; Electronic"/>
+<text x="606.00" y="844.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Electrical &amp; Electronic</text>
+<text x="606.00" y="865.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">电气与电子工程</text>
+<text x="843.97" y="852.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">545</text>
+<rect x="620.00" y="883.50" width="169.22" height="24.00" fill="#507E99" rx="0" data-count="429" data-category="Physics, Mathematical"/>
+<text x="606.00" y="892.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Physics, Mathematical</text>
+<text x="606.00" y="913.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数学物理</text>
+<text x="798.22" y="900.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">429</text>
+<rect x="620.00" y="932.00" width="161.72" height="24.00" fill="#507E99" rx="0" data-count="410" data-category="Engineering, Mechanical"/>
+<text x="606.00" y="941.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Mechanical</text>
+<text x="606.00" y="962.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">机械工程</text>
+<text x="790.72" y="949.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">410</text>
+<rect x="620.00" y="980.50" width="145.94" height="24.00" fill="#507E99" rx="0" data-count="370" data-category="Mathematics, Applied"/>
+<text x="606.00" y="989.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematics, Applied</text>
+<text x="606.00" y="1010.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">应用数学</text>
+<text x="774.94" y="997.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">370</text>
+<rect x="620.00" y="1029.00" width="133.32" height="24.00" fill="#507E99" rx="0" data-count="338" data-category="Engineering, Chemical"/>
+<text x="606.00" y="1038.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Chemical</text>
+<text x="606.00" y="1059.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">化学工程</text>
+<text x="762.32" y="1046.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">338</text>
+<rect x="620.00" y="1077.50" width="129.77" height="24.00" fill="#507E99" rx="0" data-count="329" data-category="Physics, Applied"/>
+<text x="606.00" y="1086.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Physics, Applied</text>
+<text x="606.00" y="1107.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">应用物理</text>
+<text x="758.77" y="1094.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">329</text>
+<text x="975.00" y="1190.00" font-size="18" fill="#243448" text-anchor="middle" font-weight="400">文献数（篇）</text>
+<text x="60.00" y="1228.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">注：同篇文献在每个所属WC类别中各计1次，类别之间可重叠；比例分母统一为9,363篇。</text>
+<text x="60.00" y="1258.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">5篇缺少WC字段，未进入学科统计；完整153类见配套汇总数据。</text>
 </svg>

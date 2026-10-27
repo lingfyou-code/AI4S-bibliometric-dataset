@@ -1,371 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="662.4pt" height="367.2pt" viewBox="0 0 662.4 367.2" version="1.1">
-  <metadata>
-    <rdf:RDF>
-      <ns2:Work>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:date>2026-10-23T11:43:13.341325</dc:date>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:creator>
-          <ns2:Agent>
-            <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
-          </ns2:Agent>
-        </dc:creator>
-      </ns2:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs>
-    <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
-  </defs>
-  <g id="figure_1">
-    <g id="patch_1">
-      <path d="M 0 367.2  L 662.4 367.2  L 662.4 0  L 0 0  z " style="fill: #ffffff" />
-    </g>
-    <g id="axes_1">
-      <g id="patch_2">
-        <path d="M 66.24 297.432  L 629.28 297.432  L 629.28 80.784  L 66.24 80.784  z " style="fill: #ffffff" />
-      </g>
-      <g id="patch_3">
-        <path d="M 597.629822 297.432  L 627.614201 297.432  L 627.614201 80.784  L 597.629822 80.784  z " clip-path="url(#p7e09df7d6a)" style="fill: #faf0de; stroke: #faf0de; stroke-linejoin: miter" />
-      </g>
-      <g id="matplotlib.axis_1">
-        <g id="xtick_1">
-          <g id="line2d_1">
-            <defs>
-              <path id="m91303c45a0" d="M 0 0  L 0 3  " style="stroke: #536170; stroke-width: 0.6" />
-            </defs>
-            <g>
-              <use xlink:href="#m91303c45a0" x="79.566391" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_1">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="79.566391" y="312.052117" transform="rotate(-0 79.566391 312.052117)">2010</text>
-          </g>
-        </g>
-        <g id="xtick_2">
-          <g id="line2d_2">
-            <g>
-              <use xlink:href="#m91303c45a0" x="146.198343" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_2">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="146.198343" y="312.052117" transform="rotate(-0 146.198343 312.052117)">2012</text>
-          </g>
-        </g>
-        <g id="xtick_3">
-          <g id="line2d_3">
-            <g>
-              <use xlink:href="#m91303c45a0" x="212.830296" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_3">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="212.830296" y="312.052117" transform="rotate(-0 212.830296 312.052117)">2014</text>
-          </g>
-        </g>
-        <g id="xtick_4">
-          <g id="line2d_4">
-            <g>
-              <use xlink:href="#m91303c45a0" x="279.462249" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_4">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="279.462249" y="312.052117" transform="rotate(-0 279.462249 312.052117)">2016</text>
-          </g>
-        </g>
-        <g id="xtick_5">
-          <g id="line2d_5">
-            <g>
-              <use xlink:href="#m91303c45a0" x="346.094201" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_5">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="346.094201" y="312.052117" transform="rotate(-0 346.094201 312.052117)">2018</text>
-          </g>
-        </g>
-        <g id="xtick_6">
-          <g id="line2d_6">
-            <g>
-              <use xlink:href="#m91303c45a0" x="412.726154" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_6">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="412.726154" y="312.052117" transform="rotate(-0 412.726154 312.052117)">2020</text>
-          </g>
-        </g>
-        <g id="xtick_7">
-          <g id="line2d_7">
-            <g>
-              <use xlink:href="#m91303c45a0" x="479.358107" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_7">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="479.358107" y="312.052117" transform="rotate(-0 479.358107 312.052117)">2022</text>
-          </g>
-        </g>
-        <g id="xtick_8">
-          <g id="line2d_8">
-            <g>
-              <use xlink:href="#m91303c45a0" x="545.990059" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_8">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="545.990059" y="312.052117" transform="rotate(-0 545.990059 312.052117)">2024</text>
-          </g>
-        </g>
-        <g id="xtick_9">
-          <g id="line2d_9">
-            <g>
-              <use xlink:href="#m91303c45a0" x="612.622012" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_9">
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="612.622012" y="312.052117" transform="rotate(-0 612.622012 312.052117)">2026</text>
-          </g>
-        </g>
-        <g id="text_10">
-          <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #283444" x="347.76" y="326.980047" transform="rotate(-0 347.76 326.980047)">分析归年</text>
-        </g>
-        <g id="xtick_year_2011">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="112.882367" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="112.882367" y="312.052117">2011</text>
-          </g>
-        </g>
-        <g id="xtick_year_2013">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="179.514320" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="179.514320" y="312.052117">2013</text>
-          </g>
-        </g>
-        <g id="xtick_year_2015">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="246.146272" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="246.146272" y="312.052117">2015</text>
-          </g>
-        </g>
-        <g id="xtick_year_2017">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="312.778225" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="312.778225" y="312.052117">2017</text>
-          </g>
-        </g>
-        <g id="xtick_year_2019">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="379.410178" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="379.410178" y="312.052117">2019</text>
-          </g>
-        </g>
-        <g id="xtick_year_2021">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="446.042130" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="446.042130" y="312.052117">2021</text>
-          </g>
-        </g>
-        <g id="xtick_year_2023">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="512.674083" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="512.674083" y="312.052117">2023</text>
-          </g>
-        </g>
-        <g id="xtick_year_2025">
-          <g>
-            <g>
-              <use xlink:href="#m91303c45a0" x="579.306036" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g>
-            <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #536170" x="579.306036" y="312.052117">2025</text>
-          </g>
-        </g>
-      </g>
-      <g id="matplotlib.axis_2">
-        <g id="ytick_1">
-          <g id="line2d_10">
-            <path d="M 66.24 297.432  L 629.28 297.432  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_11">
-            <defs>
-              <path id="m4a17211d54" d="M 0 0  L -3 0  " style="stroke: #536170; stroke-width: 0.6" />
-            </defs>
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="297.432" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_11">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="301.492059" transform="rotate(-0 59.74 301.492059)">0</text>
-          </g>
-        </g>
-        <g id="ytick_2">
-          <g id="line2d_12">
-            <path d="M 66.24 259.423579  L 629.28 259.423579  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_13">
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="259.423579" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_12">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="263.483638" transform="rotate(-0 59.74 263.483638)">500</text>
-          </g>
-        </g>
-        <g id="ytick_3">
-          <g id="line2d_14">
-            <path d="M 66.24 221.415158  L 629.28 221.415158  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_15">
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="221.415158" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_13">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="225.475216" transform="rotate(-0 59.74 225.475216)">1,000</text>
-          </g>
-        </g>
-        <g id="ytick_4">
-          <g id="line2d_16">
-            <path d="M 66.24 183.406737  L 629.28 183.406737  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_17">
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="183.406737" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_14">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="187.466795" transform="rotate(-0 59.74 187.466795)">1,500</text>
-          </g>
-        </g>
-        <g id="ytick_5">
-          <g id="line2d_18">
-            <path d="M 66.24 145.398316  L 629.28 145.398316  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_19">
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="145.398316" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_15">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="149.458374" transform="rotate(-0 59.74 149.458374)">2,000</text>
-          </g>
-        </g>
-        <g id="ytick_6">
-          <g id="line2d_20">
-            <path d="M 66.24 107.389895  L 629.28 107.389895  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #e8edf2; stroke-width: 0.65; stroke-linecap: square" />
-          </g>
-          <g id="line2d_21">
-            <g>
-              <use xlink:href="#m4a17211d54" x="66.24" y="107.389895" style="fill: #536170; stroke: #536170; stroke-width: 0.6" />
-            </g>
-          </g>
-          <g id="text_16">
-            <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #536170" x="59.74" y="111.449953" transform="rotate(-0 59.74 111.449953)">2,500</text>
-          </g>
-        </g>
-        <g id="text_17">
-          <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #283444" x="27.341758" y="189.108" transform="rotate(-90 27.341758 189.108)">文献数（篇）</text>
-        </g>
-      </g>
-      <g id="line2d_22">
-        <path d="M 79.566391 295.531579  L 112.882367 296.367764  L 146.198343 296.063697  L 179.51432 295.759629  L 212.830296 295.303528  L 246.146272 294.923444  L 279.462249 294.923444  L 312.778225 292.794973  L 346.094201 290.058366  L 379.410178 282.152615  L 412.726154 272.954577  L 446.04213 258.131293  L 479.358107 238.899032  L 512.674083 220.198888  L 545.990059 184.166905  L 579.306036 122.441229  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #326a91; stroke-width: 2.3; stroke-linecap: square" />
-        <defs>
-          <path id="m74b0720ea6" d="M 0 2.25  C 0.596707 2.25 1.169055 2.012926 1.59099 1.59099  C 2.012926 1.169055 2.25 0.596707 2.25 0  C 2.25 -0.596707 2.012926 -1.169055 1.59099 -1.59099  C 1.169055 -2.012926 0.596707 -2.25 0 -2.25  C -0.596707 -2.25 -1.169055 -2.012926 -1.59099 -1.59099  C -2.012926 -1.169055 -2.25 -0.596707 -2.25 0  C -2.25 0.596707 -2.012926 1.169055 -1.59099 1.59099  C -1.169055 2.012926 -0.596707 2.25 0 2.25  z " style="stroke: #326a91" />
-        </defs>
-        <g clip-path="url(#p7e09df7d6a)">
-          <use xlink:href="#m74b0720ea6" x="79.566391" y="295.531579" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="112.882367" y="296.367764" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="146.198343" y="296.063697" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="179.51432" y="295.759629" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="212.830296" y="295.303528" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="246.146272" y="294.923444" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="279.462249" y="294.923444" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="312.778225" y="292.794973" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="346.094201" y="290.058366" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="379.410178" y="282.152615" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="412.726154" y="272.954577" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="446.04213" y="258.131293" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="479.358107" y="238.899032" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="512.674083" y="220.198888" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="545.990059" y="184.166905" style="fill: #326a91; stroke: #326a91" />
-          <use xlink:href="#m74b0720ea6" x="579.306036" y="122.441229" style="fill: #326a91; stroke: #326a91" />
-        </g>
-      </g>
-      <g id="line2d_23">
-        <path d="M 579.306036 122.441229  L 612.622012 105.413457  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #c28a38; stroke-width: 2" />
-      </g>
-      <g id="line2d_24">
-        <path d="M 612.622012 105.413457  " clip-path="url(#p7e09df7d6a)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square" />
-        <defs>
-          <path id="m190741dc44" d="M 0 3.5  C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874  C 3.131218 1.81853 3.5 0.928211 3.5 0  C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874  C 1.81853 -3.131218 0.928211 -3.5 0 -3.5  C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874  C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0  C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874  C -1.81853 3.131218 -0.928211 3.5 0 3.5  z " style="stroke: #c28a38; stroke-width: 1.8" />
-        </defs>
-        <g clip-path="url(#p7e09df7d6a)">
-          <use xlink:href="#m190741dc44" x="612.622012" y="105.413457" style="fill: #ffffff; stroke: #c28a38; stroke-width: 1.8" />
-        </g>
-      </g>
-      <g id="patch_4">
-        <path d="M 66.24 297.432  L 66.24 80.784  " style="fill: none; stroke: #b6bec8; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square" />
-      </g>
-      <g id="patch_5">
-        <path d="M 66.24 297.432  L 629.28 297.432  " style="fill: none; stroke: #b6bec8; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square" />
-      </g>
-      <g id="annual_value_labels" aria-label="每年发文量">
-        <text x="79.566391" y="283.531579" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2010" data-count="25">25</text>
-        <text x="112.882367" y="284.367764" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2011" data-count="14">14</text>
-        <text x="146.198343" y="284.063697" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2012" data-count="18">18</text>
-        <text x="179.514320" y="283.759629" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2013" data-count="22">22</text>
-        <text x="212.830296" y="283.303528" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2014" data-count="28">28</text>
-        <text x="246.146272" y="282.923444" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2015" data-count="33">33</text>
-        <text x="279.462249" y="282.923444" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2016" data-count="33">33</text>
-        <text x="312.778225" y="280.794973" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2017" data-count="61">61</text>
-        <text x="346.094201" y="278.058366" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2018" data-count="97">97</text>
-        <text x="379.410178" y="270.152615" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2019" data-count="201">201</text>
-        <text x="412.726154" y="260.954577" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2020" data-count="322">322</text>
-        <text x="446.042130" y="246.131293" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2021" data-count="517">517</text>
-        <text x="479.358107" y="226.899032" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2022" data-count="770">770</text>
-        <text x="512.674083" y="208.198888" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2023" data-count="1016">1,016</text>
-        <text x="545.990059" y="172.166905" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2024" data-count="1490">1,490</text>
-        <text x="579.306036" y="110.441229" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #326a91" data-year="2025" data-count="2302">2,302</text>
-        <text x="612.622012" y="93.413457" style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #9b6824" data-year="2026" data-count="2526">2,526</text>
-      </g>
-    </g>
-    <g id="text_21">
-      <text style="font-weight: 700; font-size: 16px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1d2d3e" x="49.68" y="29.9215" transform="rotate(-0 49.68 29.9215)">AI4S年度发文量</text>
-    </g>
-    <g id="text_22">
-      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #637080" x="49.68" y="46.94975" transform="rotate(-0 49.68 46.94975)">核心样本 9,475 篇  |  2010—2026年</text>
-    </g>
-    <g id="text_23">
-      <text style="font-size: 9px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #637080" x="66.24" y="347.004" transform="rotate(-0 66.24 347.004)">按EA与PY中较早的已记录年份归年；2026年为不完整年度，以虚线和空心点标记。</text>
-    </g>
-  </g>
-  <defs>
-    <clipPath id="p7e09df7d6a">
-      <rect x="66.24" y="80.784" width="563.04" height="216.648" />
-    </clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="580" viewBox="0 0 1040 580" role="img" aria-labelledby="title desc">
+<title id="title">AI4S年度发文量</title><desc id="desc">9363篇；2010—2026年；全样本按WoS出版年PY统计，2026为不完整年度。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1040" height="580" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">AI4S年度发文量</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">核心样本 9,363 篇｜2010—2026年｜按WoS出版年PY统计</text>
+<rect x="958.00" y="135.00" width="44.00" height="320.00" fill="#FAF0DE" rx="0" />
+<line x1="92.00" y1="455.00" x2="994.00" y2="455.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="460.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">0</text>
+<line x1="92.00" y1="401.67" x2="994.00" y2="401.67" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="406.67" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">500</text>
+<line x1="92.00" y1="348.33" x2="994.00" y2="348.33" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="353.33" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,000</text>
+<line x1="92.00" y1="295.00" x2="994.00" y2="295.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="300.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,500</text>
+<line x1="92.00" y1="241.67" x2="994.00" y2="241.67" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="246.67" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,000</text>
+<line x1="92.00" y1="188.33" x2="994.00" y2="188.33" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="193.33" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,500</text>
+<line x1="92.00" y1="135.00" x2="994.00" y2="135.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="79.00" y="140.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,000</text>
+<line x1="92.00" y1="135.00" x2="92.00" y2="455.00" stroke="#B9C4CF" stroke-width="1"/>
+<line x1="92.00" y1="455.00" x2="994.00" y2="455.00" stroke="#B9C4CF" stroke-width="1"/>
+<text x="92.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2010</text>
+<circle cx="92.00" cy="452.44" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="92.00" y="436.44" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">24</text>
+<text x="147.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2011</text>
+<line x1="92.00" y1="452.44" x2="147.50" y2="453.51" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="147.50" cy="453.51" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="147.50" y="437.51" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">14</text>
+<text x="203.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2012</text>
+<line x1="147.50" y1="453.51" x2="203.00" y2="453.19" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="203.00" cy="453.19" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="203.00" y="437.19" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">17</text>
+<text x="258.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2013</text>
+<line x1="203.00" y1="453.19" x2="258.50" y2="452.65" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="258.50" cy="452.65" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="258.50" y="436.65" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">22</text>
+<text x="314.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2014</text>
+<line x1="258.50" y1="452.65" x2="314.00" y2="452.23" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="314.00" cy="452.23" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="314.00" y="436.23" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">26</text>
+<text x="369.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2015</text>
+<line x1="314.00" y1="452.23" x2="369.50" y2="451.80" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="369.50" cy="451.80" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="369.50" y="435.80" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">30</text>
+<text x="425.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2016</text>
+<line x1="369.50" y1="451.80" x2="425.00" y2="451.59" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="425.00" cy="451.59" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="425.00" y="435.59" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">32</text>
+<text x="480.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2017</text>
+<line x1="425.00" y1="451.59" x2="480.50" y2="448.49" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="480.50" cy="448.49" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="480.50" y="432.49" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">61</text>
+<text x="536.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2018</text>
+<line x1="480.50" y1="448.49" x2="536.00" y2="444.65" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="536.00" cy="444.65" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="536.00" y="428.65" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">97</text>
+<text x="591.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2019</text>
+<line x1="536.00" y1="444.65" x2="591.50" y2="434.63" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="591.50" cy="434.63" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="591.50" y="418.63" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">191</text>
+<text x="647.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2020</text>
+<line x1="591.50" y1="434.63" x2="647.00" y2="420.97" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="647.00" cy="420.97" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="647.00" y="404.97" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">319</text>
+<text x="702.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2021</text>
+<line x1="647.00" y1="420.97" x2="702.50" y2="403.59" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="702.50" cy="403.59" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="702.50" y="387.59" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">482</text>
+<text x="758.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2022</text>
+<line x1="702.50" y1="403.59" x2="758.00" y2="378.09" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="758.00" cy="378.09" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="758.00" y="362.09" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">721</text>
+<text x="813.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2023</text>
+<line x1="758.00" y1="378.09" x2="813.50" y2="353.03" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="813.50" cy="353.03" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="813.50" y="337.03" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">956</text>
+<text x="869.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2024</text>
+<line x1="813.50" y1="353.03" x2="869.00" y2="302.79" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="869.00" cy="302.79" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="869.00" y="286.79" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">1,427</text>
+<text x="924.50" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2025</text>
+<line x1="869.00" y1="302.79" x2="924.50" y2="225.45" stroke="#2F6E94" stroke-width="3"/>
+<circle cx="924.50" cy="225.45" r="4" fill="#2F6E94" stroke="#2F6E94" stroke-width="2"/>
+<text x="924.50" y="209.45" font-size="14" fill="#2F6E94" text-anchor="middle" font-weight="400">2,152</text>
+<text x="980.00" y="483.00" font-size="13" fill="#63758A" text-anchor="middle" font-weight="400">2026</text>
+<line x1="924.50" y1="225.45" x2="980.00" y2="157.19" stroke="#CF8A25" stroke-width="3" stroke-dasharray="8 5"/>
+<circle cx="980.00" cy="157.19" r="4" fill="white" stroke="#CF8A25" stroke-width="2"/>
+<text x="980.00" y="141.19" font-size="14" fill="#CF8A25" text-anchor="middle" font-weight="400">2,792</text>
+<text x="535.00" y="516.00" font-size="17" fill="#243448" text-anchor="middle" font-weight="400">出版年（PY）</text>
+<text x="30.00" y="122.00" font-size="15" fill="#63758A" text-anchor="start" font-weight="400">篇数</text>
+<text x="92.00" y="554.00" font-size="15" fill="#63758A" text-anchor="start" font-weight="400">注：2026年为不完整年度，以虚线、空心点及浅色背景标记。</text>
 </svg>

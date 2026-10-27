@@ -1,0 +1,119 @@
+{
+  "sample_records": 9363,
+  "unique_ut": 9363,
+  "year_field": "PY",
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "annual_counts": {
+    "2010": 24,
+    "2011": 14,
+    "2012": 17,
+    "2013": 22,
+    "2014": 26,
+    "2015": 30,
+    "2016": 32,
+    "2017": 61,
+    "2018": 97,
+    "2019": 191,
+    "2020": 319,
+    "2021": 482,
+    "2022": 721,
+    "2023": 956,
+    "2024": 1427,
+    "2025": 2152,
+    "2026": 2792
+  },
+  "wc_categories": 153,
+  "wc_missing": 5,
+  "wc_valid": 9358,
+  "wc_memberships": 20382,
+  "C3_missing": 238,
+  "C3_valid": 9125,
+  "top10_institutions": [
+    [
+      "Chinese Academy of Sciences",
+      398
+    ],
+    [
+      "United States Department of Energy (DOE)",
+      238
+    ],
+    [
+      "University of California System",
+      202
+    ],
+    [
+      "Zhejiang University",
+      182
+    ],
+    [
+      "Indian Institute of Technology System (IIT System)",
+      168
+    ],
+    [
+      "Shanghai Jiao Tong University",
+      163
+    ],
+    [
+      "Tsinghua University",
+      158
+    ],
+    [
+      "University of Chinese Academy of Sciences, CAS",
+      150
+    ],
+    [
+      "Massachusetts Institute of Technology (MIT)",
+      131
+    ],
+    [
+      "Central South University",
+      119
+    ]
+  ],
+  "screening_counts": [
+    11637,
+    10315,
+    10189,
+    9467,
+    9363
+  ],
+  "screening_removals": [
+    1322,
+    126,
+    722,
+    104
+  ],
+  "source_zip_sha256": "792085538c18ee6617eaa34468641a7d3f22f8b2b82a25bf153fe016a617097d",
+  "files_sha256": {
+    "figures/annual_publications.svg": "ef8dec4c190d36dcdd1b7332e9eedb9825cd03743191fbdc8c980e8f2778a399",
+    "figures/institution_distribution.svg": "4e7f4694621e73f1f3aba9f81f78540924f0b29231af145e60daca8f0171fdad",
+    "figures/screening_flow.svg": "15714e23cf8e298425399f16fedb9f4412450f41312213935b29aa2848984958",
+    "figures/source_data/annual_publications.csv": "1df92aaa491547b0bd9b32314c882dab1c3c1f7873a5d54065c8c8dfa6d44c78",
+    "figures/source_data/institution_top10.csv": "6c223b92cb4287119d6ff617c15fa3c08de14fdd01b4b543fe846352a27882cb",
+    "figures/source_data/screening_flow_counts.csv": "1d40347305091d7485c693b5d4bb632b27b471f22b10d930dc14d727073234da",
+    "figures/source_data/wc_annual_counts.csv": "8eac3247c964ee05999fe2dc6dde0735737c1398f78fe45603cbfead09825b45",
+    "figures/source_data/wc_category_counts.csv": "86872bf4f070d340725ce880c1057475a870295dd1ae1d3d0bce25498395ced8",
+    "figures/wc_annual_stacked.svg": "8c1846706aa085178e10ded961546bf309aad4867af8ab03d08c49150a1a00fb",
+    "figures/wc_distribution_top20.svg": "e8fdd0c43d8a7e5f61ca488a64d11c7bcf709616ae7e498dc326d7f86403c589"
+  },
+  "visual_qa": "全部五幅SVG已渲染为PNG检查中文、标签、图例、箭头、边界与数值；无明显裁切或重叠。",
+  "plotted_marks_match_csv": true
+}

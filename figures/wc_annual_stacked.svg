@@ -1,846 +1,333 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="890" viewBox="0 0 1280 890" role="img" aria-labelledby="title desc">
-  <title id="title">主要WoS学科类别的年度分布（堆叠柱状图）</title>
-  <desc id="desc">按全样本文献数排名的前15个WC类别；各年每个类别以整篇计数，同文献跨类别可重复。非全部学科，不设其他合并类。2026年是不完整年度。</desc>
-  <rect width="1280" height="890" fill="white" />
-  <style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
-  <text x="60" y="48" font-size="29" text-anchor="start" fill="#283444" font-weight="700">主要WoS学科类别的年度分布</text>
-  <text x="60" y="85" font-size="18" text-anchor="start" fill="#637080">前15个WC类别 | 按类别整篇计数，跨类别可重复</text>
-  <line x1="95" y1="550.0" x2="1230" y2="550.0" stroke="#E8EDF2" />
-  <text x="83" y="555.0" font-size="14" text-anchor="end" fill="#536170">0</text>
-  <line x1="95" y1="482.5" x2="1230" y2="482.5" stroke="#E8EDF2" />
-  <text x="83" y="487.5" font-size="14" text-anchor="end" fill="#536170">500</text>
-  <line x1="95" y1="415.0" x2="1230" y2="415.0" stroke="#E8EDF2" />
-  <text x="83" y="420.0" font-size="14" text-anchor="end" fill="#536170">1,000</text>
-  <line x1="95" y1="347.5" x2="1230" y2="347.5" stroke="#E8EDF2" />
-  <text x="83" y="352.5" font-size="14" text-anchor="end" fill="#536170">1,500</text>
-  <line x1="95" y1="280.0" x2="1230" y2="280.0" stroke="#E8EDF2" />
-  <text x="83" y="285.0" font-size="14" text-anchor="end" fill="#536170">2,000</text>
-  <line x1="95" y1="212.5" x2="1230" y2="212.5" stroke="#E8EDF2" />
-  <text x="83" y="217.5" font-size="14" text-anchor="end" fill="#536170">2,500</text>
-  <line x1="95" y1="145.0" x2="1230" y2="145.0" stroke="#E8EDF2" />
-  <text x="83" y="150.0" font-size="14" text-anchor="end" fill="#536170">3,000</text>
-  <line x1="95" y1="145" x2="95" y2="550" stroke="#B6BEC8" />
-  <line x1="95" y1="550" x2="1230" y2="550" stroke="#B6BEC8" />
-  <text x="25" y="347.5" font-size="16" text-anchor="middle" fill="#283444" transform="rotate(-90 25 347.5)">学科归属次数</text>
-  <defs>
-    <pattern id="incomplete-year" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
-      <line x1="0" y1="0" x2="0" y2="7" stroke="#8b682e" stroke-width="1.3" opacity="0.65" />
-    </pattern>
-  </defs>
-  <rect x="106.68382352941175" y="548.65" width="43.39705882352941" height="1.35" fill="#426F95" data-year="2010" data-category="Computer Science, Interdisciplinary Applications" data-count="10">
-    <title>2010年 Computer Science, Interdisciplinary Applications：10篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="547.975" width="43.39705882352941" height="0.675" fill="#E5AA70" data-year="2010" data-category="Chemistry, Multidisciplinary" data-count="5">
-    <title>2010年 Chemistry, Multidisciplinary：5篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="547.975" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2010" data-category="Mechanics" data-count="0">
-    <title>2010年 Mechanics：0篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="547.84" width="43.39705882352941" height="0.135" fill="#B39AC4" data-year="2010" data-category="Materials Science, Multidisciplinary" data-count="1">
-    <title>2010年 Materials Science, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="547.57" width="43.39705882352941" height="0.27" fill="#D07B83" data-year="2010" data-category="Computer Science, Artificial Intelligence" data-count="2">
-    <title>2010年 Computer Science, Artificial Intelligence：2篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.8950000000001" width="43.39705882352941" height="0.675" fill="#9CB879" data-year="2010" data-category="Biochemistry &amp; Molecular Biology" data-count="5">
-    <title>2010年 Biochemistry &amp; Molecular Biology：5篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.895" width="43.39705882352941" height="0.0" fill="#7AA7C2" data-year="2010" data-category="Multidisciplinary Sciences" data-count="0">
-    <title>2010年 Multidisciplinary Sciences：0篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.895" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2010" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2010年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.76" width="43.39705882352941" height="0.135" fill="#8A91B8" data-year="2010" data-category="Chemistry, Physical" data-count="1">
-    <title>2010年 Chemistry, Physical：1篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.355" width="43.39705882352941" height="0.405" fill="#C58E6F" data-year="2010" data-category="Computer Science, Information Systems" data-count="3">
-    <title>2010年 Computer Science, Information Systems：3篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="546.355" width="43.39705882352941" height="0.0" fill="#71B6AD" data-year="2010" data-category="Mathematics, Interdisciplinary Applications" data-count="0">
-    <title>2010年 Mathematics, Interdisciplinary Applications：0篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="545.815" width="43.39705882352941" height="0.54" fill="#B79AAC" data-year="2010" data-category="Chemistry, Medicinal" data-count="4">
-    <title>2010年 Chemistry, Medicinal：4篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="544.6" width="43.39705882352941" height="1.215" fill="#899F6C" data-year="2010" data-category="Mathematical &amp; Computational Biology" data-count="9">
-    <title>2010年 Mathematical &amp; Computational Biology：9篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="543.655" width="43.39705882352941" height="0.9450000000000001" fill="#B7C4D3" data-year="2010" data-category="Biochemical Research Methods" data-count="7">
-    <title>2010年 Biochemical Research Methods：7篇</title>
-  </rect>
-  <rect x="106.68382352941175" y="543.52" width="43.39705882352941" height="0.135" fill="#8D8C85" data-year="2010" data-category="Engineering, Electrical &amp; Electronic" data-count="1">
-    <title>2010年 Engineering, Electrical &amp; Electronic：1篇</title>
-  </rect>
-  <text x="128.38235294117646" y="574" font-size="14" text-anchor="middle" fill="#536170">2010</text>
-  <rect x="173.44852941176472" y="549.325" width="43.39705882352941" height="0.675" fill="#426F95" data-year="2011" data-category="Computer Science, Interdisciplinary Applications" data-count="5">
-    <title>2011年 Computer Science, Interdisciplinary Applications：5篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="549.19" width="43.39705882352941" height="0.135" fill="#E5AA70" data-year="2011" data-category="Chemistry, Multidisciplinary" data-count="1">
-    <title>2011年 Chemistry, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="549.19" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2011" data-category="Mechanics" data-count="0">
-    <title>2011年 Mechanics：0篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="549.19" width="43.39705882352941" height="0.0" fill="#B39AC4" data-year="2011" data-category="Materials Science, Multidisciplinary" data-count="0">
-    <title>2011年 Materials Science, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.9200000000001" width="43.39705882352941" height="0.27" fill="#D07B83" data-year="2011" data-category="Computer Science, Artificial Intelligence" data-count="2">
-    <title>2011年 Computer Science, Artificial Intelligence：2篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.785" width="43.39705882352941" height="0.135" fill="#9CB879" data-year="2011" data-category="Biochemistry &amp; Molecular Biology" data-count="1">
-    <title>2011年 Biochemistry &amp; Molecular Biology：1篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.785" width="43.39705882352941" height="0.0" fill="#7AA7C2" data-year="2011" data-category="Multidisciplinary Sciences" data-count="0">
-    <title>2011年 Multidisciplinary Sciences：0篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.785" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2011" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2011年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.65" width="43.39705882352941" height="0.135" fill="#8A91B8" data-year="2011" data-category="Chemistry, Physical" data-count="1">
-    <title>2011年 Chemistry, Physical：1篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.515" width="43.39705882352941" height="0.135" fill="#C58E6F" data-year="2011" data-category="Computer Science, Information Systems" data-count="1">
-    <title>2011年 Computer Science, Information Systems：1篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="548.245" width="43.39705882352941" height="0.27" fill="#71B6AD" data-year="2011" data-category="Mathematics, Interdisciplinary Applications" data-count="2">
-    <title>2011年 Mathematics, Interdisciplinary Applications：2篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="547.975" width="43.39705882352941" height="0.27" fill="#B79AAC" data-year="2011" data-category="Chemistry, Medicinal" data-count="2">
-    <title>2011年 Chemistry, Medicinal：2篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="547.57" width="43.39705882352941" height="0.405" fill="#899F6C" data-year="2011" data-category="Mathematical &amp; Computational Biology" data-count="3">
-    <title>2011年 Mathematical &amp; Computational Biology：3篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="547.1650000000001" width="43.39705882352941" height="0.405" fill="#B7C4D3" data-year="2011" data-category="Biochemical Research Methods" data-count="3">
-    <title>2011年 Biochemical Research Methods：3篇</title>
-  </rect>
-  <rect x="173.44852941176472" y="547.03" width="43.39705882352941" height="0.135" fill="#8D8C85" data-year="2011" data-category="Engineering, Electrical &amp; Electronic" data-count="1">
-    <title>2011年 Engineering, Electrical &amp; Electronic：1篇</title>
-  </rect>
-  <text x="195.14705882352942" y="574" font-size="14" text-anchor="middle" fill="#536170">2011</text>
-  <rect x="240.21323529411762" y="549.46" width="43.39705882352941" height="0.54" fill="#426F95" data-year="2012" data-category="Computer Science, Interdisciplinary Applications" data-count="4">
-    <title>2012年 Computer Science, Interdisciplinary Applications：4篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="549.0550000000001" width="43.39705882352941" height="0.405" fill="#E5AA70" data-year="2012" data-category="Chemistry, Multidisciplinary" data-count="3">
-    <title>2012年 Chemistry, Multidisciplinary：3篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="549.055" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2012" data-category="Mechanics" data-count="0">
-    <title>2012年 Mechanics：0篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="549.055" width="43.39705882352941" height="0.0" fill="#B39AC4" data-year="2012" data-category="Materials Science, Multidisciplinary" data-count="0">
-    <title>2012年 Materials Science, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="548.65" width="43.39705882352941" height="0.405" fill="#D07B83" data-year="2012" data-category="Computer Science, Artificial Intelligence" data-count="3">
-    <title>2012年 Computer Science, Artificial Intelligence：3篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="548.38" width="43.39705882352941" height="0.27" fill="#9CB879" data-year="2012" data-category="Biochemistry &amp; Molecular Biology" data-count="2">
-    <title>2012年 Biochemistry &amp; Molecular Biology：2篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.975" width="43.39705882352941" height="0.405" fill="#7AA7C2" data-year="2012" data-category="Multidisciplinary Sciences" data-count="3">
-    <title>2012年 Multidisciplinary Sciences：3篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.975" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2012" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2012年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.975" width="43.39705882352941" height="0.0" fill="#8A91B8" data-year="2012" data-category="Chemistry, Physical" data-count="0">
-    <title>2012年 Chemistry, Physical：0篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.705" width="43.39705882352941" height="0.27" fill="#C58E6F" data-year="2012" data-category="Computer Science, Information Systems" data-count="2">
-    <title>2012年 Computer Science, Information Systems：2篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.57" width="43.39705882352941" height="0.135" fill="#71B6AD" data-year="2012" data-category="Mathematics, Interdisciplinary Applications" data-count="1">
-    <title>2012年 Mathematics, Interdisciplinary Applications：1篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.1650000000001" width="43.39705882352941" height="0.405" fill="#B79AAC" data-year="2012" data-category="Chemistry, Medicinal" data-count="3">
-    <title>2012年 Chemistry, Medicinal：3篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="547.03" width="43.39705882352941" height="0.135" fill="#899F6C" data-year="2012" data-category="Mathematical &amp; Computational Biology" data-count="1">
-    <title>2012年 Mathematical &amp; Computational Biology：1篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="546.76" width="43.39705882352941" height="0.27" fill="#B7C4D3" data-year="2012" data-category="Biochemical Research Methods" data-count="2">
-    <title>2012年 Biochemical Research Methods：2篇</title>
-  </rect>
-  <rect x="240.21323529411762" y="546.625" width="43.39705882352941" height="0.135" fill="#8D8C85" data-year="2012" data-category="Engineering, Electrical &amp; Electronic" data-count="1">
-    <title>2012年 Engineering, Electrical &amp; Electronic：1篇</title>
-  </rect>
-  <text x="261.9117647058823" y="574" font-size="14" text-anchor="middle" fill="#536170">2012</text>
-  <rect x="306.9779411764706" y="548.92" width="43.39705882352941" height="1.08" fill="#426F95" data-year="2013" data-category="Computer Science, Interdisciplinary Applications" data-count="8">
-    <title>2013年 Computer Science, Interdisciplinary Applications：8篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="547.7049999999999" width="43.39705882352941" height="1.215" fill="#E5AA70" data-year="2013" data-category="Chemistry, Multidisciplinary" data-count="9">
-    <title>2013年 Chemistry, Multidisciplinary：9篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="547.57" width="43.39705882352941" height="0.135" fill="#609C91" data-year="2013" data-category="Mechanics" data-count="1">
-    <title>2013年 Mechanics：1篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="547.57" width="43.39705882352941" height="0.0" fill="#B39AC4" data-year="2013" data-category="Materials Science, Multidisciplinary" data-count="0">
-    <title>2013年 Materials Science, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="547.4350000000001" width="43.39705882352941" height="0.135" fill="#D07B83" data-year="2013" data-category="Computer Science, Artificial Intelligence" data-count="1">
-    <title>2013年 Computer Science, Artificial Intelligence：1篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="547.165" width="43.39705882352941" height="0.27" fill="#9CB879" data-year="2013" data-category="Biochemistry &amp; Molecular Biology" data-count="2">
-    <title>2013年 Biochemistry &amp; Molecular Biology：2篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="546.76" width="43.39705882352941" height="0.405" fill="#7AA7C2" data-year="2013" data-category="Multidisciplinary Sciences" data-count="3">
-    <title>2013年 Multidisciplinary Sciences：3篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="546.49" width="43.39705882352941" height="0.27" fill="#C6B17B" data-year="2013" data-category="Engineering, Multidisciplinary" data-count="2">
-    <title>2013年 Engineering, Multidisciplinary：2篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="546.49" width="43.39705882352941" height="0.0" fill="#8A91B8" data-year="2013" data-category="Chemistry, Physical" data-count="0">
-    <title>2013年 Chemistry, Physical：0篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="545.815" width="43.39705882352941" height="0.675" fill="#C58E6F" data-year="2013" data-category="Computer Science, Information Systems" data-count="5">
-    <title>2013年 Computer Science, Information Systems：5篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="545.2750000000001" width="43.39705882352941" height="0.54" fill="#71B6AD" data-year="2013" data-category="Mathematics, Interdisciplinary Applications" data-count="4">
-    <title>2013年 Mathematics, Interdisciplinary Applications：4篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="544.3299999999999" width="43.39705882352941" height="0.9450000000000001" fill="#B79AAC" data-year="2013" data-category="Chemistry, Medicinal" data-count="7">
-    <title>2013年 Chemistry, Medicinal：7篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="544.195" width="43.39705882352941" height="0.135" fill="#899F6C" data-year="2013" data-category="Mathematical &amp; Computational Biology" data-count="1">
-    <title>2013年 Mathematical &amp; Computational Biology：1篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="543.9250000000001" width="43.39705882352941" height="0.27" fill="#B7C4D3" data-year="2013" data-category="Biochemical Research Methods" data-count="2">
-    <title>2013年 Biochemical Research Methods：2篇</title>
-  </rect>
-  <rect x="306.9779411764706" y="543.655" width="43.39705882352941" height="0.27" fill="#8D8C85" data-year="2013" data-category="Engineering, Electrical &amp; Electronic" data-count="2">
-    <title>2013年 Engineering, Electrical &amp; Electronic：2篇</title>
-  </rect>
-  <text x="328.6764705882353" y="574" font-size="14" text-anchor="middle" fill="#536170">2013</text>
-  <rect x="373.74264705882354" y="549.19" width="43.39705882352941" height="0.81" fill="#426F95" data-year="2014" data-category="Computer Science, Interdisciplinary Applications" data-count="6">
-    <title>2014年 Computer Science, Interdisciplinary Applications：6篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="548.7850000000001" width="43.39705882352941" height="0.405" fill="#E5AA70" data-year="2014" data-category="Chemistry, Multidisciplinary" data-count="3">
-    <title>2014年 Chemistry, Multidisciplinary：3篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="548.785" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2014" data-category="Mechanics" data-count="0">
-    <title>2014年 Mechanics：0篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="548.65" width="43.39705882352941" height="0.135" fill="#B39AC4" data-year="2014" data-category="Materials Science, Multidisciplinary" data-count="1">
-    <title>2014年 Materials Science, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="547.975" width="43.39705882352941" height="0.675" fill="#D07B83" data-year="2014" data-category="Computer Science, Artificial Intelligence" data-count="5">
-    <title>2014年 Computer Science, Artificial Intelligence：5篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="547.57" width="43.39705882352941" height="0.405" fill="#9CB879" data-year="2014" data-category="Biochemistry &amp; Molecular Biology" data-count="3">
-    <title>2014年 Biochemistry &amp; Molecular Biology：3篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="547.3000000000001" width="43.39705882352941" height="0.27" fill="#7AA7C2" data-year="2014" data-category="Multidisciplinary Sciences" data-count="2">
-    <title>2014年 Multidisciplinary Sciences：2篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="547.3" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2014" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2014年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="547.165" width="43.39705882352941" height="0.135" fill="#8A91B8" data-year="2014" data-category="Chemistry, Physical" data-count="1">
-    <title>2014年 Chemistry, Physical：1篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="546.895" width="43.39705882352941" height="0.27" fill="#C58E6F" data-year="2014" data-category="Computer Science, Information Systems" data-count="2">
-    <title>2014年 Computer Science, Information Systems：2篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="546.625" width="43.39705882352941" height="0.27" fill="#71B6AD" data-year="2014" data-category="Mathematics, Interdisciplinary Applications" data-count="2">
-    <title>2014年 Mathematics, Interdisciplinary Applications：2篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="546.49" width="43.39705882352941" height="0.135" fill="#B79AAC" data-year="2014" data-category="Chemistry, Medicinal" data-count="1">
-    <title>2014年 Chemistry, Medicinal：1篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="545.815" width="43.39705882352941" height="0.675" fill="#899F6C" data-year="2014" data-category="Mathematical &amp; Computational Biology" data-count="5">
-    <title>2014年 Mathematical &amp; Computational Biology：5篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="545.1400000000001" width="43.39705882352941" height="0.675" fill="#B7C4D3" data-year="2014" data-category="Biochemical Research Methods" data-count="5">
-    <title>2014年 Biochemical Research Methods：5篇</title>
-  </rect>
-  <rect x="373.74264705882354" y="545.005" width="43.39705882352941" height="0.135" fill="#8D8C85" data-year="2014" data-category="Engineering, Electrical &amp; Electronic" data-count="1">
-    <title>2014年 Engineering, Electrical &amp; Electronic：1篇</title>
-  </rect>
-  <text x="395.44117647058823" y="574" font-size="14" text-anchor="middle" fill="#536170">2014</text>
-  <rect x="440.50735294117646" y="549.055" width="43.39705882352941" height="0.9450000000000001" fill="#426F95" data-year="2015" data-category="Computer Science, Interdisciplinary Applications" data-count="7">
-    <title>2015年 Computer Science, Interdisciplinary Applications：7篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="548.245" width="43.39705882352941" height="0.81" fill="#E5AA70" data-year="2015" data-category="Chemistry, Multidisciplinary" data-count="6">
-    <title>2015年 Chemistry, Multidisciplinary：6篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="548.11" width="43.39705882352941" height="0.135" fill="#609C91" data-year="2015" data-category="Mechanics" data-count="1">
-    <title>2015年 Mechanics：1篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="548.11" width="43.39705882352941" height="0.0" fill="#B39AC4" data-year="2015" data-category="Materials Science, Multidisciplinary" data-count="0">
-    <title>2015年 Materials Science, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="547.84" width="43.39705882352941" height="0.27" fill="#D07B83" data-year="2015" data-category="Computer Science, Artificial Intelligence" data-count="2">
-    <title>2015年 Computer Science, Artificial Intelligence：2篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="547.0300000000001" width="43.39705882352941" height="0.81" fill="#9CB879" data-year="2015" data-category="Biochemistry &amp; Molecular Biology" data-count="6">
-    <title>2015年 Biochemistry &amp; Molecular Biology：6篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="546.355" width="43.39705882352941" height="0.675" fill="#7AA7C2" data-year="2015" data-category="Multidisciplinary Sciences" data-count="5">
-    <title>2015年 Multidisciplinary Sciences：5篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="546.355" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2015" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2015年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="546.355" width="43.39705882352941" height="0.0" fill="#8A91B8" data-year="2015" data-category="Chemistry, Physical" data-count="0">
-    <title>2015年 Chemistry, Physical：0篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="545.815" width="43.39705882352941" height="0.54" fill="#C58E6F" data-year="2015" data-category="Computer Science, Information Systems" data-count="4">
-    <title>2015年 Computer Science, Information Systems：4篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="545.6800000000001" width="43.39705882352941" height="0.135" fill="#71B6AD" data-year="2015" data-category="Mathematics, Interdisciplinary Applications" data-count="1">
-    <title>2015年 Mathematics, Interdisciplinary Applications：1篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="544.87" width="43.39705882352941" height="0.81" fill="#B79AAC" data-year="2015" data-category="Chemistry, Medicinal" data-count="6">
-    <title>2015年 Chemistry, Medicinal：6篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="543.925" width="43.39705882352941" height="0.9450000000000001" fill="#899F6C" data-year="2015" data-category="Mathematical &amp; Computational Biology" data-count="7">
-    <title>2015年 Mathematical &amp; Computational Biology：7篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="542.9799999999999" width="43.39705882352941" height="0.9450000000000001" fill="#B7C4D3" data-year="2015" data-category="Biochemical Research Methods" data-count="7">
-    <title>2015年 Biochemical Research Methods：7篇</title>
-  </rect>
-  <rect x="440.50735294117646" y="542.98" width="43.39705882352941" height="0.0" fill="#8D8C85" data-year="2015" data-category="Engineering, Electrical &amp; Electronic" data-count="0">
-    <title>2015年 Engineering, Electrical &amp; Electronic：0篇</title>
-  </rect>
-  <text x="462.20588235294116" y="574" font-size="14" text-anchor="middle" fill="#536170">2015</text>
-  <rect x="507.27205882352945" y="548.65" width="43.39705882352941" height="1.35" fill="#426F95" data-year="2016" data-category="Computer Science, Interdisciplinary Applications" data-count="10">
-    <title>2016年 Computer Science, Interdisciplinary Applications：10篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="547.435" width="43.39705882352941" height="1.215" fill="#E5AA70" data-year="2016" data-category="Chemistry, Multidisciplinary" data-count="9">
-    <title>2016年 Chemistry, Multidisciplinary：9篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="547.435" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2016" data-category="Mechanics" data-count="0">
-    <title>2016年 Mechanics：0篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="547.3" width="43.39705882352941" height="0.135" fill="#B39AC4" data-year="2016" data-category="Materials Science, Multidisciplinary" data-count="1">
-    <title>2016年 Materials Science, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="547.165" width="43.39705882352941" height="0.135" fill="#D07B83" data-year="2016" data-category="Computer Science, Artificial Intelligence" data-count="1">
-    <title>2016年 Computer Science, Artificial Intelligence：1篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="546.0849999999999" width="43.39705882352941" height="1.08" fill="#9CB879" data-year="2016" data-category="Biochemistry &amp; Molecular Biology" data-count="8">
-    <title>2016年 Biochemistry &amp; Molecular Biology：8篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="545.6800000000001" width="43.39705882352941" height="0.405" fill="#7AA7C2" data-year="2016" data-category="Multidisciplinary Sciences" data-count="3">
-    <title>2016年 Multidisciplinary Sciences：3篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="545.41" width="43.39705882352941" height="0.27" fill="#C6B17B" data-year="2016" data-category="Engineering, Multidisciplinary" data-count="2">
-    <title>2016年 Engineering, Multidisciplinary：2篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="545.41" width="43.39705882352941" height="0.0" fill="#8A91B8" data-year="2016" data-category="Chemistry, Physical" data-count="0">
-    <title>2016年 Chemistry, Physical：0篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="545.005" width="43.39705882352941" height="0.405" fill="#C58E6F" data-year="2016" data-category="Computer Science, Information Systems" data-count="3">
-    <title>2016年 Computer Science, Information Systems：3篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="545.005" width="43.39705882352941" height="0.0" fill="#71B6AD" data-year="2016" data-category="Mathematics, Interdisciplinary Applications" data-count="0">
-    <title>2016年 Mathematics, Interdisciplinary Applications：0篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="544.33" width="43.39705882352941" height="0.675" fill="#B79AAC" data-year="2016" data-category="Chemistry, Medicinal" data-count="5">
-    <title>2016年 Chemistry, Medicinal：5篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="543.385" width="43.39705882352941" height="0.9450000000000001" fill="#899F6C" data-year="2016" data-category="Mathematical &amp; Computational Biology" data-count="7">
-    <title>2016年 Mathematical &amp; Computational Biology：7篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="542.845" width="43.39705882352941" height="0.54" fill="#B7C4D3" data-year="2016" data-category="Biochemical Research Methods" data-count="4">
-    <title>2016年 Biochemical Research Methods：4篇</title>
-  </rect>
-  <rect x="507.27205882352945" y="542.845" width="43.39705882352941" height="0.0" fill="#8D8C85" data-year="2016" data-category="Engineering, Electrical &amp; Electronic" data-count="0">
-    <title>2016年 Engineering, Electrical &amp; Electronic：0篇</title>
-  </rect>
-  <text x="528.9705882352941" y="574" font-size="14" text-anchor="middle" fill="#536170">2016</text>
-  <rect x="574.0367647058823" y="547.705" width="43.39705882352941" height="2.295" fill="#426F95" data-year="2017" data-category="Computer Science, Interdisciplinary Applications" data-count="17">
-    <title>2017年 Computer Science, Interdisciplinary Applications：17篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="545.4100000000001" width="43.39705882352941" height="2.295" fill="#E5AA70" data-year="2017" data-category="Chemistry, Multidisciplinary" data-count="17">
-    <title>2017年 Chemistry, Multidisciplinary：17篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="545.14" width="43.39705882352941" height="0.27" fill="#609C91" data-year="2017" data-category="Mechanics" data-count="2">
-    <title>2017年 Mechanics：2篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="544.6" width="43.39705882352941" height="0.54" fill="#B39AC4" data-year="2017" data-category="Materials Science, Multidisciplinary" data-count="4">
-    <title>2017年 Materials Science, Multidisciplinary：4篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="544.0600000000001" width="43.39705882352941" height="0.54" fill="#D07B83" data-year="2017" data-category="Computer Science, Artificial Intelligence" data-count="4">
-    <title>2017年 Computer Science, Artificial Intelligence：4篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="543.52" width="43.39705882352941" height="0.54" fill="#9CB879" data-year="2017" data-category="Biochemistry &amp; Molecular Biology" data-count="4">
-    <title>2017年 Biochemistry &amp; Molecular Biology：4篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="542.4399999999999" width="43.39705882352941" height="1.08" fill="#7AA7C2" data-year="2017" data-category="Multidisciplinary Sciences" data-count="8">
-    <title>2017年 Multidisciplinary Sciences：8篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="542.44" width="43.39705882352941" height="0.0" fill="#C6B17B" data-year="2017" data-category="Engineering, Multidisciplinary" data-count="0">
-    <title>2017年 Engineering, Multidisciplinary：0篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="541.9000000000001" width="43.39705882352941" height="0.54" fill="#8A91B8" data-year="2017" data-category="Chemistry, Physical" data-count="4">
-    <title>2017年 Chemistry, Physical：4篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="540.9549999999999" width="43.39705882352941" height="0.9450000000000001" fill="#C58E6F" data-year="2017" data-category="Computer Science, Information Systems" data-count="7">
-    <title>2017年 Computer Science, Information Systems：7篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="540.6850000000001" width="43.39705882352941" height="0.27" fill="#71B6AD" data-year="2017" data-category="Mathematics, Interdisciplinary Applications" data-count="2">
-    <title>2017年 Mathematics, Interdisciplinary Applications：2篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="539.3349999999999" width="43.39705882352941" height="1.35" fill="#B79AAC" data-year="2017" data-category="Chemistry, Medicinal" data-count="10">
-    <title>2017年 Chemistry, Medicinal：10篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="538.5250000000001" width="43.39705882352941" height="0.81" fill="#899F6C" data-year="2017" data-category="Mathematical &amp; Computational Biology" data-count="6">
-    <title>2017年 Mathematical &amp; Computational Biology：6篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="537.715" width="43.39705882352941" height="0.81" fill="#B7C4D3" data-year="2017" data-category="Biochemical Research Methods" data-count="6">
-    <title>2017年 Biochemical Research Methods：6篇</title>
-  </rect>
-  <rect x="574.0367647058823" y="537.715" width="43.39705882352941" height="0.0" fill="#8D8C85" data-year="2017" data-category="Engineering, Electrical &amp; Electronic" data-count="0">
-    <title>2017年 Engineering, Electrical &amp; Electronic：0篇</title>
-  </rect>
-  <text x="595.7352941176471" y="574" font-size="14" text-anchor="middle" fill="#536170">2017</text>
-  <rect x="640.8014705882352" y="547.3" width="43.39705882352941" height="2.7" fill="#426F95" data-year="2018" data-category="Computer Science, Interdisciplinary Applications" data-count="20">
-    <title>2018年 Computer Science, Interdisciplinary Applications：20篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="544.4649999999999" width="43.39705882352941" height="2.835" fill="#E5AA70" data-year="2018" data-category="Chemistry, Multidisciplinary" data-count="21">
-    <title>2018年 Chemistry, Multidisciplinary：21篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="544.465" width="43.39705882352941" height="0.0" fill="#609C91" data-year="2018" data-category="Mechanics" data-count="0">
-    <title>2018年 Mechanics：0篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="542.845" width="43.39705882352941" height="1.62" fill="#B39AC4" data-year="2018" data-category="Materials Science, Multidisciplinary" data-count="12">
-    <title>2018年 Materials Science, Multidisciplinary：12篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="542.3050000000001" width="43.39705882352941" height="0.54" fill="#D07B83" data-year="2018" data-category="Computer Science, Artificial Intelligence" data-count="4">
-    <title>2018年 Computer Science, Artificial Intelligence：4篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="540.55" width="43.39705882352941" height="1.7550000000000001" fill="#9CB879" data-year="2018" data-category="Biochemistry &amp; Molecular Biology" data-count="13">
-    <title>2018年 Biochemistry &amp; Molecular Biology：13篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="539.1999999999999" width="43.39705882352941" height="1.35" fill="#7AA7C2" data-year="2018" data-category="Multidisciplinary Sciences" data-count="10">
-    <title>2018年 Multidisciplinary Sciences：10篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="539.065" width="43.39705882352941" height="0.135" fill="#C6B17B" data-year="2018" data-category="Engineering, Multidisciplinary" data-count="1">
-    <title>2018年 Engineering, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="537.445" width="43.39705882352941" height="1.62" fill="#8A91B8" data-year="2018" data-category="Chemistry, Physical" data-count="12">
-    <title>2018年 Chemistry, Physical：12篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="536.23" width="43.39705882352941" height="1.215" fill="#C58E6F" data-year="2018" data-category="Computer Science, Information Systems" data-count="9">
-    <title>2018年 Computer Science, Information Systems：9篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="535.5550000000001" width="43.39705882352941" height="0.675" fill="#71B6AD" data-year="2018" data-category="Mathematics, Interdisciplinary Applications" data-count="5">
-    <title>2018年 Mathematics, Interdisciplinary Applications：5篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="533.665" width="43.39705882352941" height="1.8900000000000001" fill="#B79AAC" data-year="2018" data-category="Chemistry, Medicinal" data-count="14">
-    <title>2018年 Chemistry, Medicinal：14篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="531.775" width="43.39705882352941" height="1.8900000000000001" fill="#899F6C" data-year="2018" data-category="Mathematical &amp; Computational Biology" data-count="14">
-    <title>2018年 Mathematical &amp; Computational Biology：14篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="530.155" width="43.39705882352941" height="1.62" fill="#B7C4D3" data-year="2018" data-category="Biochemical Research Methods" data-count="12">
-    <title>2018年 Biochemical Research Methods：12篇</title>
-  </rect>
-  <rect x="640.8014705882352" y="529.885" width="43.39705882352941" height="0.27" fill="#8D8C85" data-year="2018" data-category="Engineering, Electrical &amp; Electronic" data-count="2">
-    <title>2018年 Engineering, Electrical &amp; Electronic：2篇</title>
-  </rect>
-  <text x="662.5" y="574" font-size="14" text-anchor="middle" fill="#536170">2018</text>
-  <rect x="707.5661764705882" y="542.305" width="43.39705882352941" height="7.695" fill="#426F95" data-year="2019" data-category="Computer Science, Interdisciplinary Applications" data-count="57">
-    <title>2019年 Computer Science, Interdisciplinary Applications：57篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="535.9599999999999" width="43.39705882352941" height="6.345000000000001" fill="#E5AA70" data-year="2019" data-category="Chemistry, Multidisciplinary" data-count="47">
-    <title>2019年 Chemistry, Multidisciplinary：47篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="535.1500000000001" width="43.39705882352941" height="0.81" fill="#609C91" data-year="2019" data-category="Mechanics" data-count="6">
-    <title>2019年 Mechanics：6篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="531.91" width="43.39705882352941" height="3.24" fill="#B39AC4" data-year="2019" data-category="Materials Science, Multidisciplinary" data-count="24">
-    <title>2019年 Materials Science, Multidisciplinary：24篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="531.235" width="43.39705882352941" height="0.675" fill="#D07B83" data-year="2019" data-category="Computer Science, Artificial Intelligence" data-count="5">
-    <title>2019年 Computer Science, Artificial Intelligence：5篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="527.59" width="43.39705882352941" height="3.6450000000000005" fill="#9CB879" data-year="2019" data-category="Biochemistry &amp; Molecular Biology" data-count="27">
-    <title>2019年 Biochemistry &amp; Molecular Biology：27篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="525.1600000000001" width="43.39705882352941" height="2.43" fill="#7AA7C2" data-year="2019" data-category="Multidisciplinary Sciences" data-count="18">
-    <title>2019年 Multidisciplinary Sciences：18篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="525.025" width="43.39705882352941" height="0.135" fill="#C6B17B" data-year="2019" data-category="Engineering, Multidisciplinary" data-count="1">
-    <title>2019年 Engineering, Multidisciplinary：1篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="523.0" width="43.39705882352941" height="2.0250000000000004" fill="#8A91B8" data-year="2019" data-category="Chemistry, Physical" data-count="15">
-    <title>2019年 Chemistry, Physical：15篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="519.49" width="43.39705882352941" height="3.5100000000000002" fill="#C58E6F" data-year="2019" data-category="Computer Science, Information Systems" data-count="26">
-    <title>2019年 Computer Science, Information Systems：26篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="518.41" width="43.39705882352941" height="1.08" fill="#71B6AD" data-year="2019" data-category="Mathematics, Interdisciplinary Applications" data-count="8">
-    <title>2019年 Mathematics, Interdisciplinary Applications：8篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="514.0899999999999" width="43.39705882352941" height="4.32" fill="#B79AAC" data-year="2019" data-category="Chemistry, Medicinal" data-count="32">
-    <title>2019年 Chemistry, Medicinal：32篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="509.77000000000004" width="43.39705882352941" height="4.32" fill="#899F6C" data-year="2019" data-category="Mathematical &amp; Computational Biology" data-count="32">
-    <title>2019年 Mathematical &amp; Computational Biology：32篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="505.99" width="43.39705882352941" height="3.7800000000000002" fill="#B7C4D3" data-year="2019" data-category="Biochemical Research Methods" data-count="28">
-    <title>2019年 Biochemical Research Methods：28篇</title>
-  </rect>
-  <rect x="707.5661764705882" y="505.58500000000004" width="43.39705882352941" height="0.405" fill="#8D8C85" data-year="2019" data-category="Engineering, Electrical &amp; Electronic" data-count="3">
-    <title>2019年 Engineering, Electrical &amp; Electronic：3篇</title>
-  </rect>
-  <text x="729.2647058823529" y="574" font-size="14" text-anchor="middle" fill="#536170">2019</text>
-  <rect x="774.3308823529411" y="538.795" width="43.39705882352941" height="11.205" fill="#426F95" data-year="2020" data-category="Computer Science, Interdisciplinary Applications" data-count="83">
-    <title>2020年 Computer Science, Interdisciplinary Applications：83篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="527.5899999999999" width="43.39705882352941" height="11.205" fill="#E5AA70" data-year="2020" data-category="Chemistry, Multidisciplinary" data-count="83">
-    <title>2020年 Chemistry, Multidisciplinary：83篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="526.24" width="43.39705882352941" height="1.35" fill="#609C91" data-year="2020" data-category="Mechanics" data-count="10">
-    <title>2020年 Mechanics：10篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="521.11" width="43.39705882352941" height="5.130000000000001" fill="#B39AC4" data-year="2020" data-category="Materials Science, Multidisciplinary" data-count="38">
-    <title>2020年 Materials Science, Multidisciplinary：38篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="519.895" width="43.39705882352941" height="1.215" fill="#D07B83" data-year="2020" data-category="Computer Science, Artificial Intelligence" data-count="9">
-    <title>2020年 Computer Science, Artificial Intelligence：9篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="515.4399999999999" width="43.39705882352941" height="4.455" fill="#9CB879" data-year="2020" data-category="Biochemistry &amp; Molecular Biology" data-count="33">
-    <title>2020年 Biochemistry &amp; Molecular Biology：33篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="512.065" width="43.39705882352941" height="3.375" fill="#7AA7C2" data-year="2020" data-category="Multidisciplinary Sciences" data-count="25">
-    <title>2020年 Multidisciplinary Sciences：25篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="510.44500000000005" width="43.39705882352941" height="1.62" fill="#C6B17B" data-year="2020" data-category="Engineering, Multidisciplinary" data-count="12">
-    <title>2020年 Engineering, Multidisciplinary：12篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="506.53" width="43.39705882352941" height="3.915" fill="#8A91B8" data-year="2020" data-category="Chemistry, Physical" data-count="29">
-    <title>2020年 Chemistry, Physical：29篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="500.04999999999995" width="43.39705882352941" height="6.48" fill="#C58E6F" data-year="2020" data-category="Computer Science, Information Systems" data-count="48">
-    <title>2020年 Computer Science, Information Systems：48篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="498.7" width="43.39705882352941" height="1.35" fill="#71B6AD" data-year="2020" data-category="Mathematics, Interdisciplinary Applications" data-count="10">
-    <title>2020年 Mathematics, Interdisciplinary Applications：10篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="491.275" width="43.39705882352941" height="7.425000000000001" fill="#B79AAC" data-year="2020" data-category="Chemistry, Medicinal" data-count="55">
-    <title>2020年 Chemistry, Medicinal：55篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="486.82" width="43.39705882352941" height="4.455" fill="#899F6C" data-year="2020" data-category="Mathematical &amp; Computational Biology" data-count="33">
-    <title>2020年 Mathematical &amp; Computational Biology：33篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="482.5" width="43.39705882352941" height="4.32" fill="#B7C4D3" data-year="2020" data-category="Biochemical Research Methods" data-count="32">
-    <title>2020年 Biochemical Research Methods：32篇</title>
-  </rect>
-  <rect x="774.3308823529411" y="481.15" width="43.39705882352941" height="1.35" fill="#8D8C85" data-year="2020" data-category="Engineering, Electrical &amp; Electronic" data-count="10">
-    <title>2020年 Engineering, Electrical &amp; Electronic：10篇</title>
-  </rect>
-  <text x="796.0294117647059" y="574" font-size="14" text-anchor="middle" fill="#536170">2020</text>
-  <rect x="841.095588235294" y="533.935" width="43.39705882352941" height="16.065" fill="#426F95" data-year="2021" data-category="Computer Science, Interdisciplinary Applications" data-count="119">
-    <title>2021年 Computer Science, Interdisciplinary Applications：119篇</title>
-  </rect>
-  <rect x="841.095588235294" y="520.7049999999999" width="43.39705882352941" height="13.23" fill="#E5AA70" data-year="2021" data-category="Chemistry, Multidisciplinary" data-count="98">
-    <title>2021年 Chemistry, Multidisciplinary：98篇</title>
-  </rect>
-  <rect x="841.095588235294" y="516.7900000000001" width="43.39705882352941" height="3.915" fill="#609C91" data-year="2021" data-category="Mechanics" data-count="29">
-    <title>2021年 Mechanics：29篇</title>
-  </rect>
-  <rect x="841.095588235294" y="509.36499999999995" width="43.39705882352941" height="7.425000000000001" fill="#B39AC4" data-year="2021" data-category="Materials Science, Multidisciplinary" data-count="55">
-    <title>2021年 Materials Science, Multidisciplinary：55篇</title>
-  </rect>
-  <rect x="841.095588235294" y="504.505" width="43.39705882352941" height="4.86" fill="#D07B83" data-year="2021" data-category="Computer Science, Artificial Intelligence" data-count="36">
-    <title>2021年 Computer Science, Artificial Intelligence：36篇</title>
-  </rect>
-  <rect x="841.095588235294" y="494.92" width="43.39705882352941" height="9.585" fill="#9CB879" data-year="2021" data-category="Biochemistry &amp; Molecular Biology" data-count="71">
-    <title>2021年 Biochemistry &amp; Molecular Biology：71篇</title>
-  </rect>
-  <rect x="841.095588235294" y="488.035" width="43.39705882352941" height="6.885000000000001" fill="#7AA7C2" data-year="2021" data-category="Multidisciplinary Sciences" data-count="51">
-    <title>2021年 Multidisciplinary Sciences：51篇</title>
-  </rect>
-  <rect x="841.095588235294" y="485.60499999999996" width="43.39705882352941" height="2.43" fill="#C6B17B" data-year="2021" data-category="Engineering, Multidisciplinary" data-count="18">
-    <title>2021年 Engineering, Multidisciplinary：18篇</title>
-  </rect>
-  <rect x="841.095588235294" y="480.34000000000003" width="43.39705882352941" height="5.265000000000001" fill="#8A91B8" data-year="2021" data-category="Chemistry, Physical" data-count="39">
-    <title>2021年 Chemistry, Physical：39篇</title>
-  </rect>
-  <rect x="841.095588235294" y="475.21" width="43.39705882352941" height="5.130000000000001" fill="#C58E6F" data-year="2021" data-category="Computer Science, Information Systems" data-count="38">
-    <title>2021年 Computer Science, Information Systems：38篇</title>
-  </rect>
-  <rect x="841.095588235294" y="470.48499999999996" width="43.39705882352941" height="4.7250000000000005" fill="#71B6AD" data-year="2021" data-category="Mathematics, Interdisciplinary Applications" data-count="35">
-    <title>2021年 Mathematics, Interdisciplinary Applications：35篇</title>
-  </rect>
-  <rect x="841.095588235294" y="463.87" width="43.39705882352941" height="6.615" fill="#B79AAC" data-year="2021" data-category="Chemistry, Medicinal" data-count="49">
-    <title>2021年 Chemistry, Medicinal：49篇</title>
-  </rect>
-  <rect x="841.095588235294" y="456.58" width="43.39705882352941" height="7.290000000000001" fill="#899F6C" data-year="2021" data-category="Mathematical &amp; Computational Biology" data-count="54">
-    <title>2021年 Mathematical &amp; Computational Biology：54篇</title>
-  </rect>
-  <rect x="841.095588235294" y="448.34499999999997" width="43.39705882352941" height="8.235000000000001" fill="#B7C4D3" data-year="2021" data-category="Biochemical Research Methods" data-count="61">
-    <title>2021年 Biochemical Research Methods：61篇</title>
-  </rect>
-  <rect x="841.095588235294" y="446.45500000000004" width="43.39705882352941" height="1.8900000000000001" fill="#8D8C85" data-year="2021" data-category="Engineering, Electrical &amp; Electronic" data-count="14">
-    <title>2021年 Engineering, Electrical &amp; Electronic：14篇</title>
-  </rect>
-  <text x="862.7941176470588" y="574" font-size="14" text-anchor="middle" fill="#536170">2021</text>
-  <rect x="907.8602941176471" y="531.775" width="43.39705882352941" height="18.225" fill="#426F95" data-year="2022" data-category="Computer Science, Interdisciplinary Applications" data-count="135">
-    <title>2022年 Computer Science, Interdisciplinary Applications：135篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="517.06" width="43.39705882352941" height="14.715000000000002" fill="#E5AA70" data-year="2022" data-category="Chemistry, Multidisciplinary" data-count="109">
-    <title>2022年 Chemistry, Multidisciplinary：109篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="510.30999999999995" width="43.39705882352941" height="6.75" fill="#609C91" data-year="2022" data-category="Mechanics" data-count="50">
-    <title>2022年 Mechanics：50篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="500.32" width="43.39705882352941" height="9.99" fill="#B39AC4" data-year="2022" data-category="Materials Science, Multidisciplinary" data-count="74">
-    <title>2022年 Materials Science, Multidisciplinary：74篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="494.245" width="43.39705882352941" height="6.075" fill="#D07B83" data-year="2022" data-category="Computer Science, Artificial Intelligence" data-count="45">
-    <title>2022年 Computer Science, Artificial Intelligence：45篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="483.175" width="43.39705882352941" height="11.07" fill="#9CB879" data-year="2022" data-category="Biochemistry &amp; Molecular Biology" data-count="82">
-    <title>2022年 Biochemistry &amp; Molecular Biology：82篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="477.36999999999995" width="43.39705882352941" height="5.805000000000001" fill="#7AA7C2" data-year="2022" data-category="Multidisciplinary Sciences" data-count="43">
-    <title>2022年 Multidisciplinary Sciences：43篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="471.7" width="43.39705882352941" height="5.67" fill="#C6B17B" data-year="2022" data-category="Engineering, Multidisciplinary" data-count="42">
-    <title>2022年 Engineering, Multidisciplinary：42篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="465.76" width="43.39705882352941" height="5.94" fill="#8A91B8" data-year="2022" data-category="Chemistry, Physical" data-count="44">
-    <title>2022年 Chemistry, Physical：44篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="458.605" width="43.39705882352941" height="7.155" fill="#C58E6F" data-year="2022" data-category="Computer Science, Information Systems" data-count="53">
-    <title>2022年 Computer Science, Information Systems：53篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="451.98999999999995" width="43.39705882352941" height="6.615" fill="#71B6AD" data-year="2022" data-category="Mathematics, Interdisciplinary Applications" data-count="49">
-    <title>2022年 Mathematics, Interdisciplinary Applications：49篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="446.185" width="43.39705882352941" height="5.805000000000001" fill="#B79AAC" data-year="2022" data-category="Chemistry, Medicinal" data-count="43">
-    <title>2022年 Chemistry, Medicinal：43篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="433.35999999999996" width="43.39705882352941" height="12.825000000000001" fill="#899F6C" data-year="2022" data-category="Mathematical &amp; Computational Biology" data-count="95">
-    <title>2022年 Mathematical &amp; Computational Biology：95篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="419.59" width="43.39705882352941" height="13.770000000000001" fill="#B7C4D3" data-year="2022" data-category="Biochemical Research Methods" data-count="102">
-    <title>2022年 Biochemical Research Methods：102篇</title>
-  </rect>
-  <rect x="907.8602941176471" y="415.53999999999996" width="43.39705882352941" height="4.050000000000001" fill="#8D8C85" data-year="2022" data-category="Engineering, Electrical &amp; Electronic" data-count="30">
-    <title>2022年 Engineering, Electrical &amp; Electronic：30篇</title>
-  </rect>
-  <text x="929.5588235294118" y="574" font-size="14" text-anchor="middle" fill="#536170">2022</text>
-  <rect x="974.625" y="522.19" width="43.39705882352941" height="27.810000000000002" fill="#426F95" data-year="2023" data-category="Computer Science, Interdisciplinary Applications" data-count="206">
-    <title>2023年 Computer Science, Interdisciplinary Applications：206篇</title>
-  </rect>
-  <rect x="974.625" y="503.02000000000004" width="43.39705882352941" height="19.17" fill="#E5AA70" data-year="2023" data-category="Chemistry, Multidisciplinary" data-count="142">
-    <title>2023年 Chemistry, Multidisciplinary：142篇</title>
-  </rect>
-  <rect x="974.625" y="489.78999999999996" width="43.39705882352941" height="13.23" fill="#609C91" data-year="2023" data-category="Mechanics" data-count="98">
-    <title>2023年 Mechanics：98篇</title>
-  </rect>
-  <rect x="974.625" y="475.47999999999996" width="43.39705882352941" height="14.31" fill="#B39AC4" data-year="2023" data-category="Materials Science, Multidisciplinary" data-count="106">
-    <title>2023年 Materials Science, Multidisciplinary：106篇</title>
-  </rect>
-  <rect x="974.625" y="464.68" width="43.39705882352941" height="10.8" fill="#D07B83" data-year="2023" data-category="Computer Science, Artificial Intelligence" data-count="80">
-    <title>2023年 Computer Science, Artificial Intelligence：80篇</title>
-  </rect>
-  <rect x="974.625" y="451.99" width="43.39705882352941" height="12.690000000000001" fill="#9CB879" data-year="2023" data-category="Biochemistry &amp; Molecular Biology" data-count="94">
-    <title>2023年 Biochemistry &amp; Molecular Biology：94篇</title>
-  </rect>
-  <rect x="974.625" y="442.40500000000003" width="43.39705882352941" height="9.585" fill="#7AA7C2" data-year="2023" data-category="Multidisciplinary Sciences" data-count="71">
-    <title>2023年 Multidisciplinary Sciences：71篇</title>
-  </rect>
-  <rect x="974.625" y="434.30499999999995" width="43.39705882352941" height="8.100000000000001" fill="#C6B17B" data-year="2023" data-category="Engineering, Multidisciplinary" data-count="60">
-    <title>2023年 Engineering, Multidisciplinary：60篇</title>
-  </rect>
-  <rect x="974.625" y="424.855" width="43.39705882352941" height="9.450000000000001" fill="#8A91B8" data-year="2023" data-category="Chemistry, Physical" data-count="70">
-    <title>2023年 Chemistry, Physical：70篇</title>
-  </rect>
-  <rect x="974.625" y="415.945" width="43.39705882352941" height="8.91" fill="#C58E6F" data-year="2023" data-category="Computer Science, Information Systems" data-count="66">
-    <title>2023年 Computer Science, Information Systems：66篇</title>
-  </rect>
-  <rect x="974.625" y="406.63" width="43.39705882352941" height="9.315000000000001" fill="#71B6AD" data-year="2023" data-category="Mathematics, Interdisciplinary Applications" data-count="69">
-    <title>2023年 Mathematics, Interdisciplinary Applications：69篇</title>
-  </rect>
-  <rect x="974.625" y="398.125" width="43.39705882352941" height="8.505" fill="#B79AAC" data-year="2023" data-category="Chemistry, Medicinal" data-count="63">
-    <title>2023年 Chemistry, Medicinal：63篇</title>
-  </rect>
-  <rect x="974.625" y="387.595" width="43.39705882352941" height="10.530000000000001" fill="#899F6C" data-year="2023" data-category="Mathematical &amp; Computational Biology" data-count="78">
-    <title>2023年 Mathematical &amp; Computational Biology：78篇</title>
-  </rect>
-  <rect x="974.625" y="377.605" width="43.39705882352941" height="9.99" fill="#B7C4D3" data-year="2023" data-category="Biochemical Research Methods" data-count="74">
-    <title>2023年 Biochemical Research Methods：74篇</title>
-  </rect>
-  <rect x="974.625" y="370.045" width="43.39705882352941" height="7.5600000000000005" fill="#8D8C85" data-year="2023" data-category="Engineering, Electrical &amp; Electronic" data-count="56">
-    <title>2023年 Engineering, Electrical &amp; Electronic：56篇</title>
-  </rect>
-  <text x="996.3235294117648" y="574" font-size="14" text-anchor="middle" fill="#536170">2023</text>
-  <rect x="1041.389705882353" y="514.225" width="43.39705882352941" height="35.775000000000006" fill="#426F95" data-year="2024" data-category="Computer Science, Interdisciplinary Applications" data-count="265">
-    <title>2024年 Computer Science, Interdisciplinary Applications：265篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="487.63" width="43.39705882352941" height="26.595000000000002" fill="#E5AA70" data-year="2024" data-category="Chemistry, Multidisciplinary" data-count="197">
-    <title>2024年 Chemistry, Multidisciplinary：197篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="462.655" width="43.39705882352941" height="24.975" fill="#609C91" data-year="2024" data-category="Mechanics" data-count="185">
-    <title>2024年 Mechanics：185篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="442.80999999999995" width="43.39705882352941" height="19.845000000000002" fill="#B39AC4" data-year="2024" data-category="Materials Science, Multidisciplinary" data-count="147">
-    <title>2024年 Materials Science, Multidisciplinary：147篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="425.8" width="43.39705882352941" height="17.01" fill="#D07B83" data-year="2024" data-category="Computer Science, Artificial Intelligence" data-count="126">
-    <title>2024年 Computer Science, Artificial Intelligence：126篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="414.19" width="43.39705882352941" height="11.610000000000001" fill="#9CB879" data-year="2024" data-category="Biochemistry &amp; Molecular Biology" data-count="86">
-    <title>2024年 Biochemistry &amp; Molecular Biology：86篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="397.18" width="43.39705882352941" height="17.01" fill="#7AA7C2" data-year="2024" data-category="Multidisciplinary Sciences" data-count="126">
-    <title>2024年 Multidisciplinary Sciences：126篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="381.65500000000003" width="43.39705882352941" height="15.525" fill="#C6B17B" data-year="2024" data-category="Engineering, Multidisciplinary" data-count="115">
-    <title>2024年 Engineering, Multidisciplinary：115篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="368.28999999999996" width="43.39705882352941" height="13.365" fill="#8A91B8" data-year="2024" data-category="Chemistry, Physical" data-count="99">
-    <title>2024年 Chemistry, Physical：99篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="353.97999999999996" width="43.39705882352941" height="14.31" fill="#C58E6F" data-year="2024" data-category="Computer Science, Information Systems" data-count="106">
-    <title>2024年 Computer Science, Information Systems：106篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="338.725" width="43.39705882352941" height="15.255" fill="#71B6AD" data-year="2024" data-category="Mathematics, Interdisciplinary Applications" data-count="113">
-    <title>2024年 Mathematics, Interdisciplinary Applications：113篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="326.035" width="43.39705882352941" height="12.690000000000001" fill="#B79AAC" data-year="2024" data-category="Chemistry, Medicinal" data-count="94">
-    <title>2024年 Chemistry, Medicinal：94篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="314.965" width="43.39705882352941" height="11.07" fill="#899F6C" data-year="2024" data-category="Mathematical &amp; Computational Biology" data-count="82">
-    <title>2024年 Mathematical &amp; Computational Biology：82篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="304.03000000000003" width="43.39705882352941" height="10.935" fill="#B7C4D3" data-year="2024" data-category="Biochemical Research Methods" data-count="81">
-    <title>2024年 Biochemical Research Methods：81篇</title>
-  </rect>
-  <rect x="1041.389705882353" y="293.09499999999997" width="43.39705882352941" height="10.935" fill="#8D8C85" data-year="2024" data-category="Engineering, Electrical &amp; Electronic" data-count="81">
-    <title>2024年 Engineering, Electrical &amp; Electronic：81篇</title>
-  </rect>
-  <text x="1063.0882352941176" y="574" font-size="14" text-anchor="middle" fill="#536170">2024</text>
-  <rect x="1108.1544117647059" y="500.86" width="43.39705882352941" height="49.14" fill="#426F95" data-year="2025" data-category="Computer Science, Interdisciplinary Applications" data-count="364">
-    <title>2025年 Computer Science, Interdisciplinary Applications：364篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="459.685" width="43.39705882352941" height="41.175000000000004" fill="#E5AA70" data-year="2025" data-category="Chemistry, Multidisciplinary" data-count="305">
-    <title>2025年 Chemistry, Multidisciplinary：305篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="419.995" width="43.39705882352941" height="39.690000000000005" fill="#609C91" data-year="2025" data-category="Mechanics" data-count="294">
-    <title>2025年 Mechanics：294篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="389.485" width="43.39705882352941" height="30.51" fill="#B39AC4" data-year="2025" data-category="Materials Science, Multidisciplinary" data-count="226">
-    <title>2025年 Materials Science, Multidisciplinary：226篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="363.295" width="43.39705882352941" height="26.19" fill="#D07B83" data-year="2025" data-category="Computer Science, Artificial Intelligence" data-count="194">
-    <title>2025年 Computer Science, Artificial Intelligence：194篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="346.15000000000003" width="43.39705882352941" height="17.145" fill="#9CB879" data-year="2025" data-category="Biochemistry &amp; Molecular Biology" data-count="127">
-    <title>2025年 Biochemistry &amp; Molecular Biology：127篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="324.28" width="43.39705882352941" height="21.87" fill="#7AA7C2" data-year="2025" data-category="Multidisciplinary Sciences" data-count="162">
-    <title>2025年 Multidisciplinary Sciences：162篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="300.52" width="43.39705882352941" height="23.76" fill="#C6B17B" data-year="2025" data-category="Engineering, Multidisciplinary" data-count="176">
-    <title>2025年 Engineering, Multidisciplinary：176篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="279.055" width="43.39705882352941" height="21.465" fill="#8A91B8" data-year="2025" data-category="Chemistry, Physical" data-count="159">
-    <title>2025年 Chemistry, Physical：159篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="259.75" width="43.39705882352941" height="19.305" fill="#C58E6F" data-year="2025" data-category="Computer Science, Information Systems" data-count="143">
-    <title>2025年 Computer Science, Information Systems：143篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="240.31" width="43.39705882352941" height="19.44" fill="#71B6AD" data-year="2025" data-category="Mathematics, Interdisciplinary Applications" data-count="144">
-    <title>2025年 Mathematics, Interdisciplinary Applications：144篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="224.11" width="43.39705882352941" height="16.200000000000003" fill="#B79AAC" data-year="2025" data-category="Chemistry, Medicinal" data-count="120">
-    <title>2025年 Chemistry, Medicinal：120篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="211.15" width="43.39705882352941" height="12.96" fill="#899F6C" data-year="2025" data-category="Mathematical &amp; Computational Biology" data-count="96">
-    <title>2025年 Mathematical &amp; Computational Biology：96篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="199.00000000000003" width="43.39705882352941" height="12.15" fill="#B7C4D3" data-year="2025" data-category="Biochemical Research Methods" data-count="90">
-    <title>2025年 Biochemical Research Methods：90篇</title>
-  </rect>
-  <rect x="1108.1544117647059" y="176.45500000000004" width="43.39705882352941" height="22.545" fill="#8D8C85" data-year="2025" data-category="Engineering, Electrical &amp; Electronic" data-count="167">
-    <title>2025年 Engineering, Electrical &amp; Electronic：167篇</title>
-  </rect>
-  <text x="1129.8529411764705" y="574" font-size="14" text-anchor="middle" fill="#536170">2025</text>
-  <rect x="1174.919117647059" y="497.62" width="43.39705882352941" height="52.38" fill="#426F95" data-year="2026" data-category="Computer Science, Interdisciplinary Applications" data-count="388">
-    <title>2026年 Computer Science, Interdisciplinary Applications：388篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="462.52" width="43.39705882352941" height="35.1" fill="#E5AA70" data-year="2026" data-category="Chemistry, Multidisciplinary" data-count="260">
-    <title>2026年 Chemistry, Multidisciplinary：260篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="421.075" width="43.39705882352941" height="41.445" fill="#609C91" data-year="2026" data-category="Mechanics" data-count="307">
-    <title>2026年 Mechanics：307篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="383.68" width="43.39705882352941" height="37.395" fill="#B39AC4" data-year="2026" data-category="Materials Science, Multidisciplinary" data-count="277">
-    <title>2026年 Materials Science, Multidisciplinary：277篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="356.67999999999995" width="43.39705882352941" height="27.0" fill="#D07B83" data-year="2026" data-category="Computer Science, Artificial Intelligence" data-count="200">
-    <title>2026年 Computer Science, Artificial Intelligence：200篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="339.4" width="43.39705882352941" height="17.28" fill="#9CB879" data-year="2026" data-category="Biochemistry &amp; Molecular Biology" data-count="128">
-    <title>2026年 Biochemistry &amp; Molecular Biology：128篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="318.47499999999997" width="43.39705882352941" height="20.925" fill="#7AA7C2" data-year="2026" data-category="Multidisciplinary Sciences" data-count="155">
-    <title>2026年 Multidisciplinary Sciences：155篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="288.09999999999997" width="43.39705882352941" height="30.375000000000004" fill="#C6B17B" data-year="2026" data-category="Engineering, Multidisciplinary" data-count="225">
-    <title>2026年 Engineering, Multidisciplinary：225篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="263.93499999999995" width="43.39705882352941" height="24.165000000000003" fill="#8A91B8" data-year="2026" data-category="Chemistry, Physical" data-count="179">
-    <title>2026年 Chemistry, Physical：179篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="247.86999999999995" width="43.39705882352941" height="16.065" fill="#C58E6F" data-year="2026" data-category="Computer Science, Information Systems" data-count="119">
-    <title>2026年 Computer Science, Information Systems：119篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="223.56999999999994" width="43.39705882352941" height="24.3" fill="#71B6AD" data-year="2026" data-category="Mathematics, Interdisciplinary Applications" data-count="180">
-    <title>2026年 Mathematics, Interdisciplinary Applications：180篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="208.44999999999993" width="43.39705882352941" height="15.120000000000001" fill="#B79AAC" data-year="2026" data-category="Chemistry, Medicinal" data-count="112">
-    <title>2026年 Chemistry, Medicinal：112篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="196.43499999999995" width="43.39705882352941" height="12.015" fill="#899F6C" data-year="2026" data-category="Mathematical &amp; Computational Biology" data-count="89">
-    <title>2026年 Mathematical &amp; Computational Biology：89篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="186.03999999999994" width="43.39705882352941" height="10.395000000000001" fill="#B7C4D3" data-year="2026" data-category="Biochemical Research Methods" data-count="77">
-    <title>2026年 Biochemical Research Methods：77篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="161.19999999999996" width="43.39705882352941" height="24.840000000000003" fill="#8D8C85" data-year="2026" data-category="Engineering, Electrical &amp; Electronic" data-count="184">
-    <title>2026年 Engineering, Electrical &amp; Electronic：184篇</title>
-  </rect>
-  <rect x="1174.919117647059" y="161.19999999999993" width="43.39705882352941" height="388.80000000000007" fill="url(#incomplete-year)" />
-  <text x="1196.6176470588236" y="574" font-size="14" text-anchor="middle" fill="#536170">2026</text>
-  <text x="662.5" y="605" font-size="17" text-anchor="middle" fill="#283444">分析归年</text>
-  <rect x="70" y="638" width="17" height="13" fill="#426F95" />
-  <text x="96" y="650" font-size="15" text-anchor="start" fill="#283444">计算机科学：跨学科应用</text>
-  <rect x="473" y="638" width="17" height="13" fill="#E5AA70" />
-  <text x="499" y="650" font-size="15" text-anchor="start" fill="#283444">化学：综合</text>
-  <rect x="876" y="638" width="17" height="13" fill="#609C91" />
-  <text x="902" y="650" font-size="15" text-anchor="start" fill="#283444">力学</text>
-  <rect x="70" y="669" width="17" height="13" fill="#B39AC4" />
-  <text x="96" y="681" font-size="15" text-anchor="start" fill="#283444">材料科学：综合</text>
-  <rect x="473" y="669" width="17" height="13" fill="#D07B83" />
-  <text x="499" y="681" font-size="15" text-anchor="start" fill="#283444">计算机科学：人工智能</text>
-  <rect x="876" y="669" width="17" height="13" fill="#9CB879" />
-  <text x="902" y="681" font-size="15" text-anchor="start" fill="#283444">生物化学与分子生物学</text>
-  <rect x="70" y="700" width="17" height="13" fill="#7AA7C2" />
-  <text x="96" y="712" font-size="15" text-anchor="start" fill="#283444">综合性科学</text>
-  <rect x="473" y="700" width="17" height="13" fill="#C6B17B" />
-  <text x="499" y="712" font-size="15" text-anchor="start" fill="#283444">工程：综合</text>
-  <rect x="876" y="700" width="17" height="13" fill="#8A91B8" />
-  <text x="902" y="712" font-size="15" text-anchor="start" fill="#283444">物理化学</text>
-  <rect x="70" y="731" width="17" height="13" fill="#C58E6F" />
-  <text x="96" y="743" font-size="15" text-anchor="start" fill="#283444">计算机科学：信息系统</text>
-  <rect x="473" y="731" width="17" height="13" fill="#71B6AD" />
-  <text x="499" y="743" font-size="15" text-anchor="start" fill="#283444">数学：跨学科应用</text>
-  <rect x="876" y="731" width="17" height="13" fill="#B79AAC" />
-  <text x="902" y="743" font-size="15" text-anchor="start" fill="#283444">药物化学</text>
-  <rect x="70" y="762" width="17" height="13" fill="#899F6C" />
-  <text x="96" y="774" font-size="15" text-anchor="start" fill="#283444">数理与计算生物学</text>
-  <rect x="473" y="762" width="17" height="13" fill="#B7C4D3" />
-  <text x="499" y="774" font-size="15" text-anchor="start" fill="#283444">生物化学研究方法</text>
-  <rect x="876" y="762" width="17" height="13" fill="#8D8C85" />
-  <text x="902" y="774" font-size="15" text-anchor="start" fill="#283444">电气与电子工程</text>
-  <text x="60" y="830" font-size="15" text-anchor="start" fill="#637080">只展示前15个WC类别，未将其余类别混入“其他”；完整分布见上图与153类统计表。</text>
-  <text x="60" y="859" font-size="15" text-anchor="start" fill="#637080">同篇跨类别可重复计数，柱高不是当年独立文献总量；2026年为不完整年度，以斜线标记。</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="900" viewBox="0 0 1580 900" role="img" aria-labelledby="title desc">
+<title id="title">主要WoS学科类别的年度分布</title><desc id="desc">9363篇样本，统一PY；前15类别重叠计数，柱高不是独立文献量；2026年不完整。</desc>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
+<rect width="1580" height="900" fill="white"/>
+<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">主要WoS学科类别的年度分布</text>
+<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">核心样本 9,363 篇｜前15个WC类别｜按WoS出版年PY统计</text>
+<defs><pattern id="incomplete" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 9 L9 0 M7 11 L11 7" stroke="#243448" stroke-width="1" opacity="0.45"/></pattern></defs>
+<line x1="100.00" y1="715.00" x2="1105.00" y2="715.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="720.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">0</text>
+<line x1="100.00" y1="635.00" x2="1105.00" y2="635.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="640.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">500</text>
+<line x1="100.00" y1="555.00" x2="1105.00" y2="555.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="560.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,000</text>
+<line x1="100.00" y1="475.00" x2="1105.00" y2="475.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="480.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">1,500</text>
+<line x1="100.00" y1="395.00" x2="1105.00" y2="395.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="400.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,000</text>
+<line x1="100.00" y1="315.00" x2="1105.00" y2="315.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="320.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">2,500</text>
+<line x1="100.00" y1="235.00" x2="1105.00" y2="235.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="240.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,000</text>
+<line x1="100.00" y1="155.00" x2="1105.00" y2="155.00" stroke="#E6EDF3" stroke-width="1"/>
+<text x="87.00" y="160.00" font-size="14" fill="#63758A" text-anchor="end" font-weight="400">3,500</text>
+<line x1="100.00" y1="155.00" x2="100.00" y2="715.00" stroke="#B9C4CF" stroke-width="1"/>
+<line x1="100.00" y1="715.00" x2="1105.00" y2="715.00" stroke="#B9C4CF" stroke-width="1"/>
+<text x="100.00" y="131.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">学科归属次数</text>
+<rect x="111.00" y="713.40" width="42.00" height="1.60" fill="#2F6E94" rx="0" data-year="2010" data-category="Computer Science, Interdisciplinary Applications" data-count="10"/>
+<rect x="111.00" y="712.60" width="42.00" height="0.80" fill="#C49745" rx="0" data-year="2010" data-category="Chemistry, Multidisciplinary" data-count="5"/>
+<rect x="111.00" y="712.60" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2010" data-category="Mechanics" data-count="0"/>
+<rect x="111.00" y="712.44" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2010" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="111.00" y="712.12" width="42.00" height="0.32" fill="#D27D42" rx="0" data-year="2010" data-category="Computer Science, Artificial Intelligence" data-count="2"/>
+<rect x="111.00" y="711.32" width="42.00" height="0.80" fill="#78A3BD" rx="0" data-year="2010" data-category="Biochemistry &amp; Molecular Biology" data-count="5"/>
+<rect x="111.00" y="711.32" width="42.00" height="0.00" fill="#D9B97F" rx="0" data-year="2010" data-category="Multidisciplinary Sciences" data-count="0"/>
+<rect x="111.00" y="711.16" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2010" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="111.00" y="711.16" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2010" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="111.00" y="710.68" width="42.00" height="0.48" fill="#E1A57D" rx="0" data-year="2010" data-category="Computer Science, Information Systems" data-count="3"/>
+<rect x="111.00" y="710.04" width="42.00" height="0.64" fill="#1C4B68" rx="0" data-year="2010" data-category="Chemistry, Medicinal" data-count="4"/>
+<rect x="111.00" y="710.04" width="42.00" height="0.00" fill="#8D6D31" rx="0" data-year="2010" data-category="Mathematics, Interdisciplinary Applications" data-count="0"/>
+<rect x="111.00" y="708.60" width="42.00" height="1.44" fill="#526333" rx="0" data-year="2010" data-category="Mathematical &amp; Computational Biology" data-count="9"/>
+<rect x="111.00" y="707.48" width="42.00" height="1.12" fill="#864F65" rx="0" data-year="2010" data-category="Biochemical Research Methods" data-count="7"/>
+<rect x="111.00" y="707.32" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2010" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="132.00" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2010</text>
+<rect x="169.81" y="714.20" width="42.00" height="0.80" fill="#2F6E94" rx="0" data-year="2011" data-category="Computer Science, Interdisciplinary Applications" data-count="5"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.16" fill="#C49745" rx="0" data-year="2011" data-category="Chemistry, Multidisciplinary" data-count="1"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2011" data-category="Mechanics" data-count="0"/>
+<rect x="169.81" y="714.04" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2011" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="169.81" y="713.72" width="42.00" height="0.32" fill="#D27D42" rx="0" data-year="2011" data-category="Computer Science, Artificial Intelligence" data-count="2"/>
+<rect x="169.81" y="713.56" width="42.00" height="0.16" fill="#78A3BD" rx="0" data-year="2011" data-category="Biochemistry &amp; Molecular Biology" data-count="1"/>
+<rect x="169.81" y="713.56" width="42.00" height="0.00" fill="#D9B97F" rx="0" data-year="2011" data-category="Multidisciplinary Sciences" data-count="0"/>
+<rect x="169.81" y="713.40" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2011" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="169.81" y="713.40" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2011" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="169.81" y="713.24" width="42.00" height="0.16" fill="#E1A57D" rx="0" data-year="2011" data-category="Computer Science, Information Systems" data-count="1"/>
+<rect x="169.81" y="712.92" width="42.00" height="0.32" fill="#1C4B68" rx="0" data-year="2011" data-category="Chemistry, Medicinal" data-count="2"/>
+<rect x="169.81" y="712.60" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2011" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="169.81" y="712.12" width="42.00" height="0.48" fill="#526333" rx="0" data-year="2011" data-category="Mathematical &amp; Computational Biology" data-count="3"/>
+<rect x="169.81" y="711.64" width="42.00" height="0.48" fill="#864F65" rx="0" data-year="2011" data-category="Biochemical Research Methods" data-count="3"/>
+<rect x="169.81" y="711.48" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2011" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="190.81" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2011</text>
+<rect x="228.62" y="714.36" width="42.00" height="0.64" fill="#2F6E94" rx="0" data-year="2012" data-category="Computer Science, Interdisciplinary Applications" data-count="4"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.48" fill="#C49745" rx="0" data-year="2012" data-category="Chemistry, Multidisciplinary" data-count="3"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2012" data-category="Mechanics" data-count="0"/>
+<rect x="228.62" y="713.88" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2012" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="228.62" y="713.40" width="42.00" height="0.48" fill="#D27D42" rx="0" data-year="2012" data-category="Computer Science, Artificial Intelligence" data-count="3"/>
+<rect x="228.62" y="713.08" width="42.00" height="0.32" fill="#78A3BD" rx="0" data-year="2012" data-category="Biochemistry &amp; Molecular Biology" data-count="2"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2012" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2012" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="228.62" y="712.60" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2012" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="228.62" y="712.28" width="42.00" height="0.32" fill="#E1A57D" rx="0" data-year="2012" data-category="Computer Science, Information Systems" data-count="2"/>
+<rect x="228.62" y="711.80" width="42.00" height="0.48" fill="#1C4B68" rx="0" data-year="2012" data-category="Chemistry, Medicinal" data-count="3"/>
+<rect x="228.62" y="711.64" width="42.00" height="0.16" fill="#8D6D31" rx="0" data-year="2012" data-category="Mathematics, Interdisciplinary Applications" data-count="1"/>
+<rect x="228.62" y="711.48" width="42.00" height="0.16" fill="#526333" rx="0" data-year="2012" data-category="Mathematical &amp; Computational Biology" data-count="1"/>
+<rect x="228.62" y="711.32" width="42.00" height="0.16" fill="#864F65" rx="0" data-year="2012" data-category="Biochemical Research Methods" data-count="1"/>
+<rect x="228.62" y="711.16" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2012" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="249.62" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2012</text>
+<rect x="287.44" y="713.72" width="42.00" height="1.28" fill="#2F6E94" rx="0" data-year="2013" data-category="Computer Science, Interdisciplinary Applications" data-count="8"/>
+<rect x="287.44" y="712.28" width="42.00" height="1.44" fill="#C49745" rx="0" data-year="2013" data-category="Chemistry, Multidisciplinary" data-count="9"/>
+<rect x="287.44" y="712.12" width="42.00" height="0.16" fill="#7B8F50" rx="0" data-year="2013" data-category="Mechanics" data-count="1"/>
+<rect x="287.44" y="712.12" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2013" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="287.44" y="711.96" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2013" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="287.44" y="711.64" width="42.00" height="0.32" fill="#78A3BD" rx="0" data-year="2013" data-category="Biochemistry &amp; Molecular Biology" data-count="2"/>
+<rect x="287.44" y="711.16" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2013" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="287.44" y="711.16" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2013" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="287.44" y="710.84" width="42.00" height="0.32" fill="#CE9EAE" rx="0" data-year="2013" data-category="Engineering, Multidisciplinary" data-count="2"/>
+<rect x="287.44" y="710.04" width="42.00" height="0.80" fill="#E1A57D" rx="0" data-year="2013" data-category="Computer Science, Information Systems" data-count="5"/>
+<rect x="287.44" y="708.92" width="42.00" height="1.12" fill="#1C4B68" rx="0" data-year="2013" data-category="Chemistry, Medicinal" data-count="7"/>
+<rect x="287.44" y="708.28" width="42.00" height="0.64" fill="#8D6D31" rx="0" data-year="2013" data-category="Mathematics, Interdisciplinary Applications" data-count="4"/>
+<rect x="287.44" y="708.12" width="42.00" height="0.16" fill="#526333" rx="0" data-year="2013" data-category="Mathematical &amp; Computational Biology" data-count="1"/>
+<rect x="287.44" y="707.80" width="42.00" height="0.32" fill="#864F65" rx="0" data-year="2013" data-category="Biochemical Research Methods" data-count="2"/>
+<rect x="287.44" y="707.48" width="42.00" height="0.32" fill="#96552B" rx="0" data-year="2013" data-category="Engineering, Electrical &amp; Electronic" data-count="2"/>
+<text x="308.44" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2013</text>
+<rect x="346.25" y="714.20" width="42.00" height="0.80" fill="#2F6E94" rx="0" data-year="2014" data-category="Computer Science, Interdisciplinary Applications" data-count="5"/>
+<rect x="346.25" y="713.88" width="42.00" height="0.32" fill="#C49745" rx="0" data-year="2014" data-category="Chemistry, Multidisciplinary" data-count="2"/>
+<rect x="346.25" y="713.88" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2014" data-category="Mechanics" data-count="0"/>
+<rect x="346.25" y="713.72" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2014" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="346.25" y="712.92" width="42.00" height="0.80" fill="#D27D42" rx="0" data-year="2014" data-category="Computer Science, Artificial Intelligence" data-count="5"/>
+<rect x="346.25" y="712.44" width="42.00" height="0.48" fill="#78A3BD" rx="0" data-year="2014" data-category="Biochemistry &amp; Molecular Biology" data-count="3"/>
+<rect x="346.25" y="712.12" width="42.00" height="0.32" fill="#D9B97F" rx="0" data-year="2014" data-category="Multidisciplinary Sciences" data-count="2"/>
+<rect x="346.25" y="711.96" width="42.00" height="0.16" fill="#9FAD7B" rx="0" data-year="2014" data-category="Chemistry, Physical" data-count="1"/>
+<rect x="346.25" y="711.96" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2014" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="346.25" y="711.80" width="42.00" height="0.16" fill="#E1A57D" rx="0" data-year="2014" data-category="Computer Science, Information Systems" data-count="1"/>
+<rect x="346.25" y="711.64" width="42.00" height="0.16" fill="#1C4B68" rx="0" data-year="2014" data-category="Chemistry, Medicinal" data-count="1"/>
+<rect x="346.25" y="711.32" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2014" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="346.25" y="710.52" width="42.00" height="0.80" fill="#526333" rx="0" data-year="2014" data-category="Mathematical &amp; Computational Biology" data-count="5"/>
+<rect x="346.25" y="709.72" width="42.00" height="0.80" fill="#864F65" rx="0" data-year="2014" data-category="Biochemical Research Methods" data-count="5"/>
+<rect x="346.25" y="709.56" width="42.00" height="0.16" fill="#96552B" rx="0" data-year="2014" data-category="Engineering, Electrical &amp; Electronic" data-count="1"/>
+<text x="367.25" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2014</text>
+<rect x="405.06" y="713.88" width="42.00" height="1.12" fill="#2F6E94" rx="0" data-year="2015" data-category="Computer Science, Interdisciplinary Applications" data-count="7"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.96" fill="#C49745" rx="0" data-year="2015" data-category="Chemistry, Multidisciplinary" data-count="6"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2015" data-category="Mechanics" data-count="0"/>
+<rect x="405.06" y="712.92" width="42.00" height="0.00" fill="#B7778E" rx="0" data-year="2015" data-category="Materials Science, Multidisciplinary" data-count="0"/>
+<rect x="405.06" y="712.76" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2015" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="405.06" y="711.80" width="42.00" height="0.96" fill="#78A3BD" rx="0" data-year="2015" data-category="Biochemistry &amp; Molecular Biology" data-count="6"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.80" fill="#D9B97F" rx="0" data-year="2015" data-category="Multidisciplinary Sciences" data-count="5"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2015" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="405.06" y="711.00" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2015" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="405.06" y="710.36" width="42.00" height="0.64" fill="#E1A57D" rx="0" data-year="2015" data-category="Computer Science, Information Systems" data-count="4"/>
+<rect x="405.06" y="709.40" width="42.00" height="0.96" fill="#1C4B68" rx="0" data-year="2015" data-category="Chemistry, Medicinal" data-count="6"/>
+<rect x="405.06" y="709.24" width="42.00" height="0.16" fill="#8D6D31" rx="0" data-year="2015" data-category="Mathematics, Interdisciplinary Applications" data-count="1"/>
+<rect x="405.06" y="708.28" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2015" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="405.06" y="707.32" width="42.00" height="0.96" fill="#864F65" rx="0" data-year="2015" data-category="Biochemical Research Methods" data-count="6"/>
+<rect x="405.06" y="707.32" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2015" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="426.06" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2015</text>
+<rect x="463.88" y="713.56" width="42.00" height="1.44" fill="#2F6E94" rx="0" data-year="2016" data-category="Computer Science, Interdisciplinary Applications" data-count="9"/>
+<rect x="463.88" y="712.12" width="42.00" height="1.44" fill="#C49745" rx="0" data-year="2016" data-category="Chemistry, Multidisciplinary" data-count="9"/>
+<rect x="463.88" y="712.12" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2016" data-category="Mechanics" data-count="0"/>
+<rect x="463.88" y="711.96" width="42.00" height="0.16" fill="#B7778E" rx="0" data-year="2016" data-category="Materials Science, Multidisciplinary" data-count="1"/>
+<rect x="463.88" y="711.80" width="42.00" height="0.16" fill="#D27D42" rx="0" data-year="2016" data-category="Computer Science, Artificial Intelligence" data-count="1"/>
+<rect x="463.88" y="710.52" width="42.00" height="1.28" fill="#78A3BD" rx="0" data-year="2016" data-category="Biochemistry &amp; Molecular Biology" data-count="8"/>
+<rect x="463.88" y="710.04" width="42.00" height="0.48" fill="#D9B97F" rx="0" data-year="2016" data-category="Multidisciplinary Sciences" data-count="3"/>
+<rect x="463.88" y="710.04" width="42.00" height="0.00" fill="#9FAD7B" rx="0" data-year="2016" data-category="Chemistry, Physical" data-count="0"/>
+<rect x="463.88" y="709.72" width="42.00" height="0.32" fill="#CE9EAE" rx="0" data-year="2016" data-category="Engineering, Multidisciplinary" data-count="2"/>
+<rect x="463.88" y="709.24" width="42.00" height="0.48" fill="#E1A57D" rx="0" data-year="2016" data-category="Computer Science, Information Systems" data-count="3"/>
+<rect x="463.88" y="708.60" width="42.00" height="0.64" fill="#1C4B68" rx="0" data-year="2016" data-category="Chemistry, Medicinal" data-count="4"/>
+<rect x="463.88" y="708.60" width="42.00" height="0.00" fill="#8D6D31" rx="0" data-year="2016" data-category="Mathematics, Interdisciplinary Applications" data-count="0"/>
+<rect x="463.88" y="707.64" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2016" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="463.88" y="707.00" width="42.00" height="0.64" fill="#864F65" rx="0" data-year="2016" data-category="Biochemical Research Methods" data-count="4"/>
+<rect x="463.88" y="707.00" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2016" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="484.88" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2016</text>
+<rect x="522.69" y="712.28" width="42.00" height="2.72" fill="#2F6E94" rx="0" data-year="2017" data-category="Computer Science, Interdisciplinary Applications" data-count="17"/>
+<rect x="522.69" y="709.56" width="42.00" height="2.72" fill="#C49745" rx="0" data-year="2017" data-category="Chemistry, Multidisciplinary" data-count="17"/>
+<rect x="522.69" y="709.24" width="42.00" height="0.32" fill="#7B8F50" rx="0" data-year="2017" data-category="Mechanics" data-count="2"/>
+<rect x="522.69" y="708.60" width="42.00" height="0.64" fill="#B7778E" rx="0" data-year="2017" data-category="Materials Science, Multidisciplinary" data-count="4"/>
+<rect x="522.69" y="707.96" width="42.00" height="0.64" fill="#D27D42" rx="0" data-year="2017" data-category="Computer Science, Artificial Intelligence" data-count="4"/>
+<rect x="522.69" y="707.32" width="42.00" height="0.64" fill="#78A3BD" rx="0" data-year="2017" data-category="Biochemistry &amp; Molecular Biology" data-count="4"/>
+<rect x="522.69" y="706.04" width="42.00" height="1.28" fill="#D9B97F" rx="0" data-year="2017" data-category="Multidisciplinary Sciences" data-count="8"/>
+<rect x="522.69" y="705.40" width="42.00" height="0.64" fill="#9FAD7B" rx="0" data-year="2017" data-category="Chemistry, Physical" data-count="4"/>
+<rect x="522.69" y="705.40" width="42.00" height="0.00" fill="#CE9EAE" rx="0" data-year="2017" data-category="Engineering, Multidisciplinary" data-count="0"/>
+<rect x="522.69" y="704.28" width="42.00" height="1.12" fill="#E1A57D" rx="0" data-year="2017" data-category="Computer Science, Information Systems" data-count="7"/>
+<rect x="522.69" y="702.68" width="42.00" height="1.60" fill="#1C4B68" rx="0" data-year="2017" data-category="Chemistry, Medicinal" data-count="10"/>
+<rect x="522.69" y="702.36" width="42.00" height="0.32" fill="#8D6D31" rx="0" data-year="2017" data-category="Mathematics, Interdisciplinary Applications" data-count="2"/>
+<rect x="522.69" y="701.40" width="42.00" height="0.96" fill="#526333" rx="0" data-year="2017" data-category="Mathematical &amp; Computational Biology" data-count="6"/>
+<rect x="522.69" y="700.44" width="42.00" height="0.96" fill="#864F65" rx="0" data-year="2017" data-category="Biochemical Research Methods" data-count="6"/>
+<rect x="522.69" y="700.44" width="42.00" height="0.00" fill="#96552B" rx="0" data-year="2017" data-category="Engineering, Electrical &amp; Electronic" data-count="0"/>
+<text x="543.69" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2017</text>
+<rect x="581.50" y="711.80" width="42.00" height="3.20" fill="#2F6E94" rx="0" data-year="2018" data-category="Computer Science, Interdisciplinary Applications" data-count="20"/>
+<rect x="581.50" y="708.44" width="42.00" height="3.36" fill="#C49745" rx="0" data-year="2018" data-category="Chemistry, Multidisciplinary" data-count="21"/>
+<rect x="581.50" y="708.44" width="42.00" height="0.00" fill="#7B8F50" rx="0" data-year="2018" data-category="Mechanics" data-count="0"/>
+<rect x="581.50" y="706.52" width="42.00" height="1.92" fill="#B7778E" rx="0" data-year="2018" data-category="Materials Science, Multidisciplinary" data-count="12"/>
+<rect x="581.50" y="705.88" width="42.00" height="0.64" fill="#D27D42" rx="0" data-year="2018" data-category="Computer Science, Artificial Intelligence" data-count="4"/>
+<rect x="581.50" y="703.80" width="42.00" height="2.08" fill="#78A3BD" rx="0" data-year="2018" data-category="Biochemistry &amp; Molecular Biology" data-count="13"/>
+<rect x="581.50" y="702.20" width="42.00" height="1.60" fill="#D9B97F" rx="0" data-year="2018" data-category="Multidisciplinary Sciences" data-count="10"/>
+<rect x="581.50" y="700.28" width="42.00" height="1.92" fill="#9FAD7B" rx="0" data-year="2018" data-category="Chemistry, Physical" data-count="12"/>
+<rect x="581.50" y="700.12" width="42.00" height="0.16" fill="#CE9EAE" rx="0" data-year="2018" data-category="Engineering, Multidisciplinary" data-count="1"/>
+<rect x="581.50" y="698.68" width="42.00" height="1.44" fill="#E1A57D" rx="0" data-year="2018" data-category="Computer Science, Information Systems" data-count="9"/>
+<rect x="581.50" y="696.44" width="42.00" height="2.24" fill="#1C4B68" rx="0" data-year="2018" data-category="Chemistry, Medicinal" data-count="14"/>
+<rect x="581.50" y="695.64" width="42.00" height="0.80" fill="#8D6D31" rx="0" data-year="2018" data-category="Mathematics, Interdisciplinary Applications" data-count="5"/>
+<rect x="581.50" y="693.40" width="42.00" height="2.24" fill="#526333" rx="0" data-year="2018" data-category="Mathematical &amp; Computational Biology" data-count="14"/>
+<rect x="581.50" y="691.48" width="42.00" height="1.92" fill="#864F65" rx="0" data-year="2018" data-category="Biochemical Research Methods" data-count="12"/>
+<rect x="581.50" y="691.16" width="42.00" height="0.32" fill="#96552B" rx="0" data-year="2018" data-category="Engineering, Electrical &amp; Electronic" data-count="2"/>
+<text x="602.50" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2018</text>
+<rect x="640.31" y="706.52" width="42.00" height="8.48" fill="#2F6E94" rx="0" data-year="2019" data-category="Computer Science, Interdisciplinary Applications" data-count="53"/>
+<rect x="640.31" y="699.00" width="42.00" height="7.52" fill="#C49745" rx="0" data-year="2019" data-category="Chemistry, Multidisciplinary" data-count="47"/>
+<rect x="640.31" y="698.20" width="42.00" height="0.80" fill="#7B8F50" rx="0" data-year="2019" data-category="Mechanics" data-count="5"/>
+<rect x="640.31" y="694.36" width="42.00" height="3.84" fill="#B7778E" rx="0" data-year="2019" data-category="Materials Science, Multidisciplinary" data-count="24"/>
+<rect x="640.31" y="693.56" width="42.00" height="0.80" fill="#D27D42" rx="0" data-year="2019" data-category="Computer Science, Artificial Intelligence" data-count="5"/>
+<rect x="640.31" y="689.88" width="42.00" height="3.68" fill="#78A3BD" rx="0" data-year="2019" data-category="Biochemistry &amp; Molecular Biology" data-count="23"/>
+<rect x="640.31" y="687.16" width="42.00" height="2.72" fill="#D9B97F" rx="0" data-year="2019" data-category="Multidisciplinary Sciences" data-count="17"/>
+<rect x="640.31" y="684.76" width="42.00" height="2.40" fill="#9FAD7B" rx="0" data-year="2019" data-category="Chemistry, Physical" data-count="15"/>
+<rect x="640.31" y="684.60" width="42.00" height="0.16" fill="#CE9EAE" rx="0" data-year="2019" data-category="Engineering, Multidisciplinary" data-count="1"/>
+<rect x="640.31" y="680.44" width="42.00" height="4.16" fill="#E1A57D" rx="0" data-year="2019" data-category="Computer Science, Information Systems" data-count="26"/>
+<rect x="640.31" y="675.96" width="42.00" height="4.48" fill="#1C4B68" rx="0" data-year="2019" data-category="Chemistry, Medicinal" data-count="28"/>
+<rect x="640.31" y="674.68" width="42.00" height="1.28" fill="#8D6D31" rx="0" data-year="2019" data-category="Mathematics, Interdisciplinary Applications" data-count="8"/>
+<rect x="640.31" y="670.04" width="42.00" height="4.64" fill="#526333" rx="0" data-year="2019" data-category="Mathematical &amp; Computational Biology" data-count="29"/>
+<rect x="640.31" y="665.56" width="42.00" height="4.48" fill="#864F65" rx="0" data-year="2019" data-category="Biochemical Research Methods" data-count="28"/>
+<rect x="640.31" y="665.08" width="42.00" height="0.48" fill="#96552B" rx="0" data-year="2019" data-category="Engineering, Electrical &amp; Electronic" data-count="3"/>
+<text x="661.31" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2019</text>
+<rect x="699.12" y="701.40" width="42.00" height="13.60" fill="#2F6E94" rx="0" data-year="2020" data-category="Computer Science, Interdisciplinary Applications" data-count="85"/>
+<rect x="699.12" y="688.44" width="42.00" height="12.96" fill="#C49745" rx="0" data-year="2020" data-category="Chemistry, Multidisciplinary" data-count="81"/>
+<rect x="699.12" y="686.68" width="42.00" height="1.76" fill="#7B8F50" rx="0" data-year="2020" data-category="Mechanics" data-count="11"/>
+<rect x="699.12" y="680.76" width="42.00" height="5.92" fill="#B7778E" rx="0" data-year="2020" data-category="Materials Science, Multidisciplinary" data-count="37"/>
+<rect x="699.12" y="679.32" width="42.00" height="1.44" fill="#D27D42" rx="0" data-year="2020" data-category="Computer Science, Artificial Intelligence" data-count="9"/>
+<rect x="699.12" y="674.04" width="42.00" height="5.28" fill="#78A3BD" rx="0" data-year="2020" data-category="Biochemistry &amp; Molecular Biology" data-count="33"/>
+<rect x="699.12" y="669.88" width="42.00" height="4.16" fill="#D9B97F" rx="0" data-year="2020" data-category="Multidisciplinary Sciences" data-count="26"/>
+<rect x="699.12" y="665.40" width="42.00" height="4.48" fill="#9FAD7B" rx="0" data-year="2020" data-category="Chemistry, Physical" data-count="28"/>
+<rect x="699.12" y="663.48" width="42.00" height="1.92" fill="#CE9EAE" rx="0" data-year="2020" data-category="Engineering, Multidisciplinary" data-count="12"/>
+<rect x="699.12" y="655.80" width="42.00" height="7.68" fill="#E1A57D" rx="0" data-year="2020" data-category="Computer Science, Information Systems" data-count="48"/>
+<rect x="699.12" y="646.68" width="42.00" height="9.12" fill="#1C4B68" rx="0" data-year="2020" data-category="Chemistry, Medicinal" data-count="57"/>
+<rect x="699.12" y="645.08" width="42.00" height="1.60" fill="#8D6D31" rx="0" data-year="2020" data-category="Mathematics, Interdisciplinary Applications" data-count="10"/>
+<rect x="699.12" y="639.64" width="42.00" height="5.44" fill="#526333" rx="0" data-year="2020" data-category="Mathematical &amp; Computational Biology" data-count="34"/>
+<rect x="699.12" y="634.52" width="42.00" height="5.12" fill="#864F65" rx="0" data-year="2020" data-category="Biochemical Research Methods" data-count="32"/>
+<rect x="699.12" y="632.92" width="42.00" height="1.60" fill="#96552B" rx="0" data-year="2020" data-category="Engineering, Electrical &amp; Electronic" data-count="10"/>
+<text x="720.12" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2020</text>
+<rect x="757.94" y="697.40" width="42.00" height="17.60" fill="#2F6E94" rx="0" data-year="2021" data-category="Computer Science, Interdisciplinary Applications" data-count="110"/>
+<rect x="757.94" y="682.04" width="42.00" height="15.36" fill="#C49745" rx="0" data-year="2021" data-category="Chemistry, Multidisciplinary" data-count="96"/>
+<rect x="757.94" y="678.68" width="42.00" height="3.36" fill="#7B8F50" rx="0" data-year="2021" data-category="Mechanics" data-count="21"/>
+<rect x="757.94" y="670.20" width="42.00" height="8.48" fill="#B7778E" rx="0" data-year="2021" data-category="Materials Science, Multidisciplinary" data-count="53"/>
+<rect x="757.94" y="665.24" width="42.00" height="4.96" fill="#D27D42" rx="0" data-year="2021" data-category="Computer Science, Artificial Intelligence" data-count="31"/>
+<rect x="757.94" y="655.16" width="42.00" height="10.08" fill="#78A3BD" rx="0" data-year="2021" data-category="Biochemistry &amp; Molecular Biology" data-count="63"/>
+<rect x="757.94" y="647.00" width="42.00" height="8.16" fill="#D9B97F" rx="0" data-year="2021" data-category="Multidisciplinary Sciences" data-count="51"/>
+<rect x="757.94" y="640.92" width="42.00" height="6.08" fill="#9FAD7B" rx="0" data-year="2021" data-category="Chemistry, Physical" data-count="38"/>
+<rect x="757.94" y="638.68" width="42.00" height="2.24" fill="#CE9EAE" rx="0" data-year="2021" data-category="Engineering, Multidisciplinary" data-count="14"/>
+<rect x="757.94" y="632.60" width="42.00" height="6.08" fill="#E1A57D" rx="0" data-year="2021" data-category="Computer Science, Information Systems" data-count="38"/>
+<rect x="757.94" y="625.24" width="42.00" height="7.36" fill="#1C4B68" rx="0" data-year="2021" data-category="Chemistry, Medicinal" data-count="46"/>
+<rect x="757.94" y="620.60" width="42.00" height="4.64" fill="#8D6D31" rx="0" data-year="2021" data-category="Mathematics, Interdisciplinary Applications" data-count="29"/>
+<rect x="757.94" y="612.76" width="42.00" height="7.84" fill="#526333" rx="0" data-year="2021" data-category="Mathematical &amp; Computational Biology" data-count="49"/>
+<rect x="757.94" y="603.80" width="42.00" height="8.96" fill="#864F65" rx="0" data-year="2021" data-category="Biochemical Research Methods" data-count="56"/>
+<rect x="757.94" y="602.20" width="42.00" height="1.60" fill="#96552B" rx="0" data-year="2021" data-category="Engineering, Electrical &amp; Electronic" data-count="10"/>
+<text x="778.94" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2021</text>
+<rect x="816.75" y="693.08" width="42.00" height="21.92" fill="#2F6E94" rx="0" data-year="2022" data-category="Computer Science, Interdisciplinary Applications" data-count="137"/>
+<rect x="816.75" y="676.12" width="42.00" height="16.96" fill="#C49745" rx="0" data-year="2022" data-category="Chemistry, Multidisciplinary" data-count="106"/>
+<rect x="816.75" y="668.76" width="42.00" height="7.36" fill="#7B8F50" rx="0" data-year="2022" data-category="Mechanics" data-count="46"/>
+<rect x="816.75" y="658.36" width="42.00" height="10.40" fill="#B7778E" rx="0" data-year="2022" data-category="Materials Science, Multidisciplinary" data-count="65"/>
+<rect x="816.75" y="652.12" width="42.00" height="6.24" fill="#D27D42" rx="0" data-year="2022" data-category="Computer Science, Artificial Intelligence" data-count="39"/>
+<rect x="816.75" y="639.16" width="42.00" height="12.96" fill="#78A3BD" rx="0" data-year="2022" data-category="Biochemistry &amp; Molecular Biology" data-count="81"/>
+<rect x="816.75" y="632.28" width="42.00" height="6.88" fill="#D9B97F" rx="0" data-year="2022" data-category="Multidisciplinary Sciences" data-count="43"/>
+<rect x="816.75" y="625.72" width="42.00" height="6.56" fill="#9FAD7B" rx="0" data-year="2022" data-category="Chemistry, Physical" data-count="41"/>
+<rect x="816.75" y="620.28" width="42.00" height="5.44" fill="#CE9EAE" rx="0" data-year="2022" data-category="Engineering, Multidisciplinary" data-count="34"/>
+<rect x="816.75" y="612.12" width="42.00" height="8.16" fill="#E1A57D" rx="0" data-year="2022" data-category="Computer Science, Information Systems" data-count="51"/>
+<rect x="816.75" y="605.24" width="42.00" height="6.88" fill="#1C4B68" rx="0" data-year="2022" data-category="Chemistry, Medicinal" data-count="43"/>
+<rect x="816.75" y="598.04" width="42.00" height="7.20" fill="#8D6D31" rx="0" data-year="2022" data-category="Mathematics, Interdisciplinary Applications" data-count="45"/>
+<rect x="816.75" y="583.16" width="42.00" height="14.88" fill="#526333" rx="0" data-year="2022" data-category="Mathematical &amp; Computational Biology" data-count="93"/>
+<rect x="816.75" y="567.48" width="42.00" height="15.68" fill="#864F65" rx="0" data-year="2022" data-category="Biochemical Research Methods" data-count="98"/>
+<rect x="816.75" y="562.84" width="42.00" height="4.64" fill="#96552B" rx="0" data-year="2022" data-category="Engineering, Electrical &amp; Electronic" data-count="29"/>
+<text x="837.75" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2022</text>
+<rect x="875.56" y="684.76" width="42.00" height="30.24" fill="#2F6E94" rx="0" data-year="2023" data-category="Computer Science, Interdisciplinary Applications" data-count="189"/>
+<rect x="875.56" y="663.32" width="42.00" height="21.44" fill="#C49745" rx="0" data-year="2023" data-category="Chemistry, Multidisciplinary" data-count="134"/>
+<rect x="875.56" y="650.20" width="42.00" height="13.12" fill="#7B8F50" rx="0" data-year="2023" data-category="Mechanics" data-count="82"/>
+<rect x="875.56" y="634.52" width="42.00" height="15.68" fill="#B7778E" rx="0" data-year="2023" data-category="Materials Science, Multidisciplinary" data-count="98"/>
+<rect x="875.56" y="623.32" width="42.00" height="11.20" fill="#D27D42" rx="0" data-year="2023" data-category="Computer Science, Artificial Intelligence" data-count="70"/>
+<rect x="875.56" y="609.08" width="42.00" height="14.24" fill="#78A3BD" rx="0" data-year="2023" data-category="Biochemistry &amp; Molecular Biology" data-count="89"/>
+<rect x="875.56" y="597.88" width="42.00" height="11.20" fill="#D9B97F" rx="0" data-year="2023" data-category="Multidisciplinary Sciences" data-count="70"/>
+<rect x="875.56" y="587.96" width="42.00" height="9.92" fill="#9FAD7B" rx="0" data-year="2023" data-category="Chemistry, Physical" data-count="62"/>
+<rect x="875.56" y="579.80" width="42.00" height="8.16" fill="#CE9EAE" rx="0" data-year="2023" data-category="Engineering, Multidisciplinary" data-count="51"/>
+<rect x="875.56" y="568.92" width="42.00" height="10.88" fill="#E1A57D" rx="0" data-year="2023" data-category="Computer Science, Information Systems" data-count="68"/>
+<rect x="875.56" y="559.16" width="42.00" height="9.76" fill="#1C4B68" rx="0" data-year="2023" data-category="Chemistry, Medicinal" data-count="61"/>
+<rect x="875.56" y="549.40" width="42.00" height="9.76" fill="#8D6D31" rx="0" data-year="2023" data-category="Mathematics, Interdisciplinary Applications" data-count="61"/>
+<rect x="875.56" y="535.96" width="42.00" height="13.44" fill="#526333" rx="0" data-year="2023" data-category="Mathematical &amp; Computational Biology" data-count="84"/>
+<rect x="875.56" y="523.00" width="42.00" height="12.96" fill="#864F65" rx="0" data-year="2023" data-category="Biochemical Research Methods" data-count="81"/>
+<rect x="875.56" y="515.64" width="42.00" height="7.36" fill="#96552B" rx="0" data-year="2023" data-category="Engineering, Electrical &amp; Electronic" data-count="46"/>
+<text x="896.56" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2023</text>
+<rect x="934.38" y="673.40" width="42.00" height="41.60" fill="#2F6E94" rx="0" data-year="2024" data-category="Computer Science, Interdisciplinary Applications" data-count="260"/>
+<rect x="934.38" y="641.88" width="42.00" height="31.52" fill="#C49745" rx="0" data-year="2024" data-category="Chemistry, Multidisciplinary" data-count="197"/>
+<rect x="934.38" y="615.64" width="42.00" height="26.24" fill="#7B8F50" rx="0" data-year="2024" data-category="Mechanics" data-count="164"/>
+<rect x="934.38" y="591.80" width="42.00" height="23.84" fill="#B7778E" rx="0" data-year="2024" data-category="Materials Science, Multidisciplinary" data-count="149"/>
+<rect x="934.38" y="572.28" width="42.00" height="19.52" fill="#D27D42" rx="0" data-year="2024" data-category="Computer Science, Artificial Intelligence" data-count="122"/>
+<rect x="934.38" y="557.72" width="42.00" height="14.56" fill="#78A3BD" rx="0" data-year="2024" data-category="Biochemistry &amp; Molecular Biology" data-count="91"/>
+<rect x="934.38" y="538.20" width="42.00" height="19.52" fill="#D9B97F" rx="0" data-year="2024" data-category="Multidisciplinary Sciences" data-count="122"/>
+<rect x="934.38" y="522.36" width="42.00" height="15.84" fill="#9FAD7B" rx="0" data-year="2024" data-category="Chemistry, Physical" data-count="99"/>
+<rect x="934.38" y="506.20" width="42.00" height="16.16" fill="#CE9EAE" rx="0" data-year="2024" data-category="Engineering, Multidisciplinary" data-count="101"/>
+<rect x="934.38" y="489.24" width="42.00" height="16.96" fill="#E1A57D" rx="0" data-year="2024" data-category="Computer Science, Information Systems" data-count="106"/>
+<rect x="934.38" y="474.04" width="42.00" height="15.20" fill="#1C4B68" rx="0" data-year="2024" data-category="Chemistry, Medicinal" data-count="95"/>
+<rect x="934.38" y="458.36" width="42.00" height="15.68" fill="#8D6D31" rx="0" data-year="2024" data-category="Mathematics, Interdisciplinary Applications" data-count="98"/>
+<rect x="934.38" y="445.72" width="42.00" height="12.64" fill="#526333" rx="0" data-year="2024" data-category="Mathematical &amp; Computational Biology" data-count="79"/>
+<rect x="934.38" y="433.24" width="42.00" height="12.48" fill="#864F65" rx="0" data-year="2024" data-category="Biochemical Research Methods" data-count="78"/>
+<rect x="934.38" y="419.96" width="42.00" height="13.28" fill="#96552B" rx="0" data-year="2024" data-category="Engineering, Electrical &amp; Electronic" data-count="83"/>
+<text x="955.38" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2024</text>
+<rect x="993.19" y="660.28" width="42.00" height="54.72" fill="#2F6E94" rx="0" data-year="2025" data-category="Computer Science, Interdisciplinary Applications" data-count="342"/>
+<rect x="993.19" y="616.44" width="42.00" height="43.84" fill="#C49745" rx="0" data-year="2025" data-category="Chemistry, Multidisciplinary" data-count="274"/>
+<rect x="993.19" y="570.20" width="42.00" height="46.24" fill="#7B8F50" rx="0" data-year="2025" data-category="Mechanics" data-count="289"/>
+<rect x="993.19" y="536.92" width="42.00" height="33.28" fill="#B7778E" rx="0" data-year="2025" data-category="Materials Science, Multidisciplinary" data-count="208"/>
+<rect x="993.19" y="508.76" width="42.00" height="28.16" fill="#D27D42" rx="0" data-year="2025" data-category="Computer Science, Artificial Intelligence" data-count="176"/>
+<rect x="993.19" y="491.64" width="42.00" height="17.12" fill="#78A3BD" rx="0" data-year="2025" data-category="Biochemistry &amp; Molecular Biology" data-count="107"/>
+<rect x="993.19" y="465.56" width="42.00" height="26.08" fill="#D9B97F" rx="0" data-year="2025" data-category="Multidisciplinary Sciences" data-count="163"/>
+<rect x="993.19" y="441.56" width="42.00" height="24.00" fill="#9FAD7B" rx="0" data-year="2025" data-category="Chemistry, Physical" data-count="150"/>
+<rect x="993.19" y="414.52" width="42.00" height="27.04" fill="#CE9EAE" rx="0" data-year="2025" data-category="Engineering, Multidisciplinary" data-count="169"/>
+<rect x="993.19" y="392.60" width="42.00" height="21.92" fill="#E1A57D" rx="0" data-year="2025" data-category="Computer Science, Information Systems" data-count="137"/>
+<rect x="993.19" y="375.80" width="42.00" height="16.80" fill="#1C4B68" rx="0" data-year="2025" data-category="Chemistry, Medicinal" data-count="105"/>
+<rect x="993.19" y="354.20" width="42.00" height="21.60" fill="#8D6D31" rx="0" data-year="2025" data-category="Mathematics, Interdisciplinary Applications" data-count="135"/>
+<rect x="993.19" y="339.96" width="42.00" height="14.24" fill="#526333" rx="0" data-year="2025" data-category="Mathematical &amp; Computational Biology" data-count="89"/>
+<rect x="993.19" y="325.88" width="42.00" height="14.08" fill="#864F65" rx="0" data-year="2025" data-category="Biochemical Research Methods" data-count="88"/>
+<rect x="993.19" y="301.24" width="42.00" height="24.64" fill="#96552B" rx="0" data-year="2025" data-category="Engineering, Electrical &amp; Electronic" data-count="154"/>
+<text x="1014.19" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2025</text>
+<rect x="1052.00" y="647.48" width="42.00" height="67.52" fill="#2F6E94" rx="0" data-year="2026" data-category="Computer Science, Interdisciplinary Applications" data-count="422"/>
+<rect x="1052.00" y="598.52" width="42.00" height="48.96" fill="#C49745" rx="0" data-year="2026" data-category="Chemistry, Multidisciplinary" data-count="306"/>
+<rect x="1052.00" y="543.80" width="42.00" height="54.72" fill="#7B8F50" rx="0" data-year="2026" data-category="Mechanics" data-count="342"/>
+<rect x="1052.00" y="494.36" width="42.00" height="49.44" fill="#B7778E" rx="0" data-year="2026" data-category="Materials Science, Multidisciplinary" data-count="309"/>
+<rect x="1052.00" y="458.20" width="42.00" height="36.16" fill="#D27D42" rx="0" data-year="2026" data-category="Computer Science, Artificial Intelligence" data-count="226"/>
+<rect x="1052.00" y="432.44" width="42.00" height="25.76" fill="#78A3BD" rx="0" data-year="2026" data-category="Biochemistry &amp; Molecular Biology" data-count="161"/>
+<rect x="1052.00" y="407.00" width="42.00" height="25.44" fill="#D9B97F" rx="0" data-year="2026" data-category="Multidisciplinary Sciences" data-count="159"/>
+<rect x="1052.00" y="375.96" width="42.00" height="31.04" fill="#9FAD7B" rx="0" data-year="2026" data-category="Chemistry, Physical" data-count="194"/>
+<rect x="1052.00" y="335.64" width="42.00" height="40.32" fill="#CE9EAE" rx="0" data-year="2026" data-category="Engineering, Multidisciplinary" data-count="252"/>
+<rect x="1052.00" y="315.64" width="42.00" height="20.00" fill="#E1A57D" rx="0" data-year="2026" data-category="Computer Science, Information Systems" data-count="125"/>
+<rect x="1052.00" y="294.36" width="42.00" height="21.28" fill="#1C4B68" rx="0" data-year="2026" data-category="Chemistry, Medicinal" data-count="133"/>
+<rect x="1052.00" y="260.76" width="42.00" height="33.60" fill="#8D6D31" rx="0" data-year="2026" data-category="Mathematics, Interdisciplinary Applications" data-count="210"/>
+<rect x="1052.00" y="244.44" width="42.00" height="16.32" fill="#526333" rx="0" data-year="2026" data-category="Mathematical &amp; Computational Biology" data-count="102"/>
+<rect x="1052.00" y="231.00" width="42.00" height="13.44" fill="#864F65" rx="0" data-year="2026" data-category="Biochemical Research Methods" data-count="84"/>
+<rect x="1052.00" y="198.68" width="42.00" height="32.32" fill="#96552B" rx="0" data-year="2026" data-category="Engineering, Electrical &amp; Electronic" data-count="202"/>
+<rect x="1052.00" y="198.68" width="42.00" height="516.32" fill="url(#incomplete)" rx="0" />
+<text x="1073.00" y="743.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">2026</text>
+<rect x="1150.00" y="158.00" width="19.00" height="19.00" fill="#2F6E94" rx="0" />
+<text x="1180.00" y="173.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：跨学科应用</text>
+<rect x="1150.00" y="192.00" width="19.00" height="19.00" fill="#C49745" rx="0" />
+<text x="1180.00" y="207.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">化学：综合</text>
+<rect x="1150.00" y="226.00" width="19.00" height="19.00" fill="#7B8F50" rx="0" />
+<text x="1180.00" y="241.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">力学</text>
+<rect x="1150.00" y="260.00" width="19.00" height="19.00" fill="#B7778E" rx="0" />
+<text x="1180.00" y="275.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">材料科学：综合</text>
+<rect x="1150.00" y="294.00" width="19.00" height="19.00" fill="#D27D42" rx="0" />
+<text x="1180.00" y="309.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：人工智能</text>
+<rect x="1150.00" y="328.00" width="19.00" height="19.00" fill="#78A3BD" rx="0" />
+<text x="1180.00" y="343.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">生物化学与分子生物学</text>
+<rect x="1150.00" y="362.00" width="19.00" height="19.00" fill="#D9B97F" rx="0" />
+<text x="1180.00" y="377.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">综合性科学</text>
+<rect x="1150.00" y="396.00" width="19.00" height="19.00" fill="#9FAD7B" rx="0" />
+<text x="1180.00" y="411.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">物理化学</text>
+<rect x="1150.00" y="430.00" width="19.00" height="19.00" fill="#CE9EAE" rx="0" />
+<text x="1180.00" y="445.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">工程：综合</text>
+<rect x="1150.00" y="464.00" width="19.00" height="19.00" fill="#E1A57D" rx="0" />
+<text x="1180.00" y="479.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">计算机科学：信息系统</text>
+<rect x="1150.00" y="498.00" width="19.00" height="19.00" fill="#1C4B68" rx="0" />
+<text x="1180.00" y="513.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">药物化学</text>
+<rect x="1150.00" y="532.00" width="19.00" height="19.00" fill="#8D6D31" rx="0" />
+<text x="1180.00" y="547.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">数学：跨学科应用</text>
+<rect x="1150.00" y="566.00" width="19.00" height="19.00" fill="#526333" rx="0" />
+<text x="1180.00" y="581.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">数理与计算生物学</text>
+<rect x="1150.00" y="600.00" width="19.00" height="19.00" fill="#864F65" rx="0" />
+<text x="1180.00" y="615.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">生物化学研究方法</text>
+<rect x="1150.00" y="634.00" width="19.00" height="19.00" fill="#96552B" rx="0" />
+<text x="1180.00" y="649.00" font-size="16" fill="#243448" text-anchor="start" font-weight="400">电气与电子工程</text>
+<text x="605.00" y="784.00" font-size="18" fill="#243448" text-anchor="middle" font-weight="400">出版年（PY）</text>
+<text x="60.00" y="837.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">注：只展示累计文献数前15个WC类别，不合并“其他”；同篇跨类别可重复计数，柱高不是独立文献总量。</text>
+<text x="60.00" y="870.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">2026年为不完整年度，以斜线标记；完整153类及其各年数据见配套CSV。</text>
 </svg>
