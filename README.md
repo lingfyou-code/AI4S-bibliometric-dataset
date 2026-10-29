@@ -27,8 +27,6 @@ AI4Sdatabase 是一项 AI4S 文献计量研究的配套数据集，整理人工�
 
 [下载当前v5数据集（TXT）](https://github.com/lingfyou-code/AI4Sdatabase/releases/download/data-v5-20261027/AI4S_9363_WoS_PY_TXT.zip) · [查看筛选与年份说明](检索结果.md) · [逐篇复核记录](reviews/2026-10-27_early/README.md)
 
-**图表已统一更新：** 筛选流程图按逐轮剔除主线呈现，年度发文量、学科分布、年度学科堆叠图及机构图均基于9,363篇样本重算；年度统计统一使用PY。配套CSV与图中数值同步。[旧v4下载](https://github.com/lingfyou-code/AI4Sdatabase/releases/tag/data-v4-20261023)仅供历史追溯。
-
 ## 文档说明
 
 - **[检索词.md](检索词.md)**：介绍最终采用的检索式、字段和范围设置，说明科研领域与任务词的政策依据，以及具体词项的学科和文献来源。
