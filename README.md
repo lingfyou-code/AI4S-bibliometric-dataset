@@ -1,8 +1,8 @@
-# AI4Sdatabase：AI for Science 文献数据集
+# AI4S bibliometric dataset：AI for Science 文献计量数据集
 
 ## 项目简介
 
-AI4Sdatabase 是一项 AI4S 文献计量研究的配套数据集，整理人工智能参与科学研究的相关文献，用于分析研究主题的演化，以及 AI 介入科研的具体方式。
+AI4S bibliometric dataset 是一项 AI4S 文献计量研究的配套数据集，整理人工智能参与科学研究的相关文献，用于分析研究主题的演化，以及 AI 介入科研的具体方式。
 
 本研究以2010—2026年 Web of Science 核心合集文献为对象，关注 AI 在数学、自然科学和工程科学问题求解中的应用。仓库公开文献检索式、词项来源、筛选依据和基本统计，便于读者了解数据集的构建过程，并在相关研究中查阅和使用。
 
