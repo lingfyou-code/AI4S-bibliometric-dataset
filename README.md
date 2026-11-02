@@ -25,7 +25,7 @@ AI4S bibliometric dataset 是一项 AI4S 文献计量研究的配套数据集，
 
 当前公开[9,992篇UT、DOI与PY核对清单](data/retained_9992_ut.csv)；完整记录可下载[9,992篇WoS数据包](data/AI4S_9992_WoS.zip)。
 
-[查看筛选与年份说明](检索结果.md) · [当前数据清单与数量核验](data/current_manifest.json) · [本次最终裁决记录](reviews/2026-11-02_final/README.md) · [历史复核记录](reviews/2026-10-27_early/README.md)
+[查看筛选与年份说明](检索结果.md) · [当前数据清单与数量核验](data/current_manifest.json) · [本次最终裁决记录](reviews/2026-11-02_final/README.md) 
 
 ## 文档说明
 
