@@ -1,105 +1,655 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1280" viewBox="0 0 1420 1280" role="img" aria-labelledby="title desc">
-<title id="title">AI4S文献WoS学科分布（前20类）</title><desc id="desc">9363篇核心样本，9358篇有WC；类别可重叠，共153类。</desc>
-<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
-<rect width="1420" height="1280" fill="white"/>
-<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">AI4S文献的WoS学科分布</text>
-<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">原始WC类别（前20类）｜核心样本 9,363 篇；其中9,358篇有WC标注</text>
-<line x1="620.00" y1="140.00" x2="620.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="620.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">0</text>
-<line x1="738.33" y1="140.00" x2="738.33" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="738.33" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">300</text>
-<line x1="856.67" y1="140.00" x2="856.67" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="856.67" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">600</text>
-<line x1="975.00" y1="140.00" x2="975.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="975.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">900</text>
-<line x1="1093.33" y1="140.00" x2="1093.33" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1093.33" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,200</text>
-<line x1="1211.67" y1="140.00" x2="1211.67" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1211.67" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,500</text>
-<line x1="1330.00" y1="140.00" x2="1330.00" y2="1125.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1330.00" y="1153.00" font-size="14" fill="#63758A" text-anchor="middle" font-weight="400">1,800</text>
-<line x1="620.00" y1="1125.00" x2="1330.00" y2="1125.00" stroke="#B9C4CF" stroke-width="1"/>
-<rect x="620.00" y="156.00" width="663.85" height="24.00" fill="#507E99" rx="0" data-count="1683" data-category="Computer Science, Interdisciplinary Applications"/>
-<text x="606.00" y="165.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Interdisciplinary Applications</text>
-<text x="606.00" y="186.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：跨学科应用</text>
-<text x="1292.85" y="173.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">1,683</text>
-<rect x="620.00" y="204.50" width="518.30" height="24.00" fill="#507E99" rx="0" data-count="1314" data-category="Chemistry, Multidisciplinary"/>
-<text x="606.00" y="213.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Multidisciplinary</text>
-<text x="606.00" y="234.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">化学：综合</text>
-<text x="1147.30" y="221.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">1,314</text>
-<rect x="620.00" y="253.00" width="379.85" height="24.00" fill="#507E99" rx="0" data-count="963" data-category="Mechanics"/>
-<text x="606.00" y="262.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mechanics</text>
-<text x="606.00" y="283.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">力学</text>
-<text x="1008.85" y="270.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">963</text>
-<rect x="620.00" y="301.50" width="379.46" height="24.00" fill="#507E99" rx="0" data-count="962" data-category="Materials Science, Multidisciplinary"/>
-<text x="606.00" y="310.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Materials Science, Multidisciplinary</text>
-<text x="606.00" y="331.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">材料科学：综合</text>
-<text x="1008.46" y="318.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">962</text>
-<rect x="620.00" y="350.00" width="276.51" height="24.00" fill="#507E99" rx="0" data-count="701" data-category="Computer Science, Artificial Intelligence"/>
-<text x="606.00" y="359.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Artificial Intelligence</text>
-<text x="606.00" y="380.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：人工智能</text>
-<text x="905.51" y="367.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">701</text>
-<rect x="620.00" y="398.50" width="272.96" height="24.00" fill="#507E99" rx="0" data-count="692" data-category="Biochemistry &amp; Molecular Biology"/>
-<text x="606.00" y="407.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Biochemistry &amp; Molecular Biology</text>
-<text x="606.00" y="428.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">生物化学与分子生物学</text>
-<text x="901.96" y="415.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">692</text>
-<rect x="620.00" y="447.00" width="270.19" height="24.00" fill="#507E99" rx="0" data-count="685" data-category="Multidisciplinary Sciences"/>
-<text x="606.00" y="456.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Multidisciplinary Sciences</text>
-<text x="606.00" y="477.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">综合性科学</text>
-<text x="899.19" y="464.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">685</text>
-<rect x="620.00" y="495.50" width="254.81" height="24.00" fill="#507E99" rx="0" data-count="646" data-category="Chemistry, Physical"/>
-<text x="606.00" y="504.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Physical</text>
-<text x="606.00" y="525.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">物理化学</text>
-<text x="883.81" y="512.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">646</text>
-<rect x="620.00" y="544.00" width="252.05" height="24.00" fill="#507E99" rx="0" data-count="639" data-category="Engineering, Multidisciplinary"/>
-<text x="606.00" y="553.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Multidisciplinary</text>
-<text x="606.00" y="574.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">工程：综合</text>
-<text x="881.05" y="561.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">639</text>
-<rect x="620.00" y="592.50" width="250.08" height="24.00" fill="#507E99" rx="0" data-count="634" data-category="Computer Science, Information Systems"/>
-<text x="606.00" y="601.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Computer Science, Information Systems</text>
-<text x="606.00" y="622.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">计算机科学：信息系统</text>
-<text x="879.08" y="609.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">634</text>
-<rect x="620.00" y="641.00" width="244.16" height="24.00" fill="#507E99" rx="0" data-count="619" data-category="Chemistry, Medicinal"/>
-<text x="606.00" y="650.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Chemistry, Medicinal</text>
-<text x="606.00" y="671.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">药物化学</text>
-<text x="873.16" y="658.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">619</text>
-<rect x="620.00" y="689.50" width="241.79" height="24.00" fill="#507E99" rx="0" data-count="613" data-category="Mathematics, Interdisciplinary Applications"/>
-<text x="606.00" y="698.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematics, Interdisciplinary Applications</text>
-<text x="606.00" y="719.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数学：跨学科应用</text>
-<text x="870.79" y="706.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">613</text>
-<rect x="620.00" y="738.00" width="240.61" height="24.00" fill="#507E99" rx="0" data-count="610" data-category="Mathematical &amp; Computational Biology"/>
-<text x="606.00" y="747.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematical &amp; Computational Biology</text>
-<text x="606.00" y="768.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数理与计算生物学</text>
-<text x="869.61" y="755.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">610</text>
-<rect x="620.00" y="786.50" width="233.12" height="24.00" fill="#507E99" rx="0" data-count="591" data-category="Biochemical Research Methods"/>
-<text x="606.00" y="795.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Biochemical Research Methods</text>
-<text x="606.00" y="816.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">生物化学研究方法</text>
-<text x="862.12" y="803.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">591</text>
-<rect x="620.00" y="835.00" width="214.97" height="24.00" fill="#507E99" rx="0" data-count="545" data-category="Engineering, Electrical &amp; Electronic"/>
-<text x="606.00" y="844.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Electrical &amp; Electronic</text>
-<text x="606.00" y="865.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">电气与电子工程</text>
-<text x="843.97" y="852.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">545</text>
-<rect x="620.00" y="883.50" width="169.22" height="24.00" fill="#507E99" rx="0" data-count="429" data-category="Physics, Mathematical"/>
-<text x="606.00" y="892.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Physics, Mathematical</text>
-<text x="606.00" y="913.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">数学物理</text>
-<text x="798.22" y="900.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">429</text>
-<rect x="620.00" y="932.00" width="161.72" height="24.00" fill="#507E99" rx="0" data-count="410" data-category="Engineering, Mechanical"/>
-<text x="606.00" y="941.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Mechanical</text>
-<text x="606.00" y="962.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">机械工程</text>
-<text x="790.72" y="949.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">410</text>
-<rect x="620.00" y="980.50" width="145.94" height="24.00" fill="#507E99" rx="0" data-count="370" data-category="Mathematics, Applied"/>
-<text x="606.00" y="989.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Mathematics, Applied</text>
-<text x="606.00" y="1010.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">应用数学</text>
-<text x="774.94" y="997.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">370</text>
-<rect x="620.00" y="1029.00" width="133.32" height="24.00" fill="#507E99" rx="0" data-count="338" data-category="Engineering, Chemical"/>
-<text x="606.00" y="1038.00" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Engineering, Chemical</text>
-<text x="606.00" y="1059.00" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">化学工程</text>
-<text x="762.32" y="1046.00" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">338</text>
-<rect x="620.00" y="1077.50" width="129.77" height="24.00" fill="#507E99" rx="0" data-count="329" data-category="Physics, Applied"/>
-<text x="606.00" y="1086.50" font-size="14" fill="#3C5367" text-anchor="end" font-weight="400">Physics, Applied</text>
-<text x="606.00" y="1107.50" font-size="13" fill="#63758A" text-anchor="end" font-weight="400">应用物理</text>
-<text x="758.77" y="1094.50" font-size="15" fill="#2F6E94" text-anchor="start" font-weight="400">329</text>
-<text x="975.00" y="1190.00" font-size="18" fill="#243448" text-anchor="middle" font-weight="400">文献数（篇）</text>
-<text x="60.00" y="1228.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">注：同篇文献在每个所属WC类别中各计1次，类别之间可重叠；比例分母统一为9,363篇。</text>
-<text x="60.00" y="1258.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">5篇缺少WC字段，未进入学科统计；完整153类见配套汇总数据。</text>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="759.388761pt" height="779.589844pt" viewBox="0 0 759.388761 779.589844" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-02T18:14:06.435423</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 779.589844 
+L 759.388761 779.589844 
+L 759.388761 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 344.16 713.9925 
+L 741.6 713.9925 
+L 741.6 22.7925 
+L 344.16 22.7925 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 344.16 54.210682 
+L 695.876814 54.210682 
+L 695.876814 74.996247 
+L 344.16 74.996247 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 344.16 86.188475 
+L 623.948249 86.188475 
+L 623.948249 106.974041 
+L 344.16 106.974041 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 344.16 118.166268 
+L 548.056677 118.166268 
+L 548.056677 138.951834 
+L 344.16 138.951834 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 344.16 150.144061 
+L 540.526965 150.144061 
+L 540.526965 170.929627 
+L 344.16 170.929627 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 344.16 182.121855 
+L 495.546843 182.121855 
+L 495.546843 202.90742 
+L 344.16 202.90742 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 344.16 214.099648 
+L 490.593085 214.099648 
+L 490.593085 234.885213 
+L 344.16 234.885213 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 344.16 246.077441 
+L 489.998634 246.077441 
+L 489.998634 266.863007 
+L 344.16 266.863007 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 344.16 278.055234 
+L 479.694817 278.055234 
+L 479.694817 298.8408 
+L 344.16 298.8408 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 344.16 310.033027 
+L 478.109615 310.033027 
+L 478.109615 330.818593 
+L 344.16 330.818593 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 344.16 342.010821 
+L 476.524412 342.010821 
+L 476.524412 362.796386 
+L 344.16 362.796386 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 344.16 373.988614 
+L 475.731811 373.988614 
+L 475.731811 394.774179 
+L 344.16 394.774179 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 344.16 405.966407 
+L 473.155857 405.966407 
+L 473.155857 426.751973 
+L 344.16 426.751973 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 344.16 437.9442 
+L 468.9947 437.9442 
+L 468.9947 458.729766 
+L 344.16 458.729766 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 344.16 469.921993 
+L 467.013197 469.921993 
+L 467.013197 490.707559 
+L 344.16 490.707559 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 344.16 501.899787 
+L 458.096433 501.899787 
+L 458.096433 522.685352 
+L 344.16 522.685352 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 344.16 533.87758 
+L 430.949839 533.87758 
+L 430.949839 554.663145 
+L 344.16 554.663145 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 344.16 565.855373 
+L 427.779434 565.855373 
+L 427.779434 586.640939 
+L 344.16 586.640939 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 344.16 597.833166 
+L 418.466369 597.833166 
+L 418.466369 618.618732 
+L 344.16 618.618732 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 344.16 629.810959 
+L 415.295964 629.810959 
+L 415.295964 650.596525 
+L 344.16 650.596525 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 344.16 661.788753 
+L 413.314461 661.788753 
+L 413.314461 682.574318 
+L 344.16 682.574318 
+z
+" clip-path="url(#p2c532e40f9)" style="fill: #2f6e94"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 344.16 713.9925 
+L 344.16 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m067c880b07" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m067c880b07" x="344.16" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="344.16" y="728.98625" transform="rotate(-0 344.16 728.98625)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 393.697579 713.9925 
+L 393.697579 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m067c880b07" x="393.697579" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="393.697579" y="728.98625" transform="rotate(-0 393.697579 728.98625)">250</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 443.235159 713.9925 
+L 443.235159 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m067c880b07" x="443.235159" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="443.235159" y="728.98625" transform="rotate(-0 443.235159 728.98625)">500</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 492.772738 713.9925 
+L 492.772738 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m067c880b07" x="492.772738" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="492.772738" y="728.98625" transform="rotate(-0 492.772738 728.98625)">750</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 542.310318 713.9925 
+L 542.310318 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m067c880b07" x="542.310318" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="542.310318" y="728.98625" transform="rotate(-0 542.310318 728.98625)">1000</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 591.847897 713.9925 
+L 591.847897 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m067c880b07" x="591.847897" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="591.847897" y="728.98625" transform="rotate(-0 591.847897 728.98625)">1250</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 641.385477 713.9925 
+L 641.385477 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m067c880b07" x="641.385477" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="641.385477" y="728.98625" transform="rotate(-0 641.385477 728.98625)">1500</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 690.923056 713.9925 
+L 690.923056 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m067c880b07" x="690.923056" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="690.923056" y="728.98625" transform="rotate(-0 690.923056 728.98625)">1750</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 740.460636 713.9925 
+L 740.460636 22.7925 
+" clip-path="url(#p2c532e40f9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m067c880b07" x="740.460636" y="713.9925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="740.460636" y="728.98625" transform="rotate(-0 740.460636 728.98625)">2000</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="542.88" y="743.465937" transform="rotate(-0 542.88 743.465937)">文献数（每篇每类别计1次）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <defs>
+       <path id="m4df8b30ebb" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="64.603465" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(238.16 63.484793)">计算机科学：跨学科应用</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(129.286719 74.355386)">Computer Science, Interdisciplinary Applications</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="96.581258" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(292.16 95.462586)">化学：综合</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(217.839688 106.33318)">Chemistry, Multidisciplinary</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="128.559051" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(274.16 127.440379)">材料科学：综合</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(186.412813 138.310973)">Materials Science, Multidisciplinary</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="160.536844" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(319.16 159.418172)">力学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(291.610156 170.288766)">Mechanics</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="192.514637" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(247.16 191.395966)">生物化学与分子生物学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(190.185781 202.266559)">Biochemistry &amp; Molecular Biology</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="224.492431" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(247.16 223.321024)">计算机科学：人工智能</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(165.967344 234.318181)">Computer Science, Artificial Intelligence</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="256.470224" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(292.16 255.351552)">综合性科学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(226.593594 266.222146)">Multidisciplinary Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="288.448017" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 287.329345)">物理化学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(254.945 298.199939)">Chemistry, Physical</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="320.42581" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(247.16 319.254404)">计算机科学：信息系统</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(165.589063 330.25156)">Computer Science, Information Systems</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="352.403603" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 351.284932)">药物化学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(247.327344 362.155525)">Chemistry, Medicinal</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="384.381397" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(292.16 383.262725)">工程：综合</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(209.426094 394.133318)">Engineering, Multidisciplinary</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="416.35919" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(265.16 415.240518)">数理与计算生物学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(165.943438 426.111112)">Mathematical &amp; Computational Biology</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="448.336983" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(265.16 447.218311)">数学：跨学科应用</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(152.006094 458.088905)">Mathematics, Interdisciplinary Applications</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="480.314776" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(265.16 479.196104)">生物化学研究方法</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(203.429844 490.066698)">Biochemical Research Methods</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="512.292569" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(274.16 511.173898)">电气与电子工程</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(187.797969 522.044491)">Engineering, Electrical &amp; Electronic</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="544.270363" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 543.151691)">数学物理</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(242.467344 554.022284)">Physics, Mathematical</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="576.248156" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 575.129484)">机械工程</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(232.035781 586.000078)">Engineering, Mechanical</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="608.225949" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 607.107277)">应用数学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(243.242188 617.977871)">Mathematics, Applied</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="640.203742" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(301.16 639.08507)">化学工程</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(241.409844 649.955664)">Engineering, Chemical</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m4df8b30ebb" x="344.16" y="672.181535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(337.16 671.062864)"/>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(197.194531 681.933457)">Nanoscience &amp; Nanotechnology</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_23">
+    <path d="M 344.16 713.9925 
+L 344.16 22.7925 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 344.16 713.9925 
+L 741.6 713.9925 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="698.254618" y="67.08198" transform="rotate(-0 698.254618 67.08198)">1,775</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="626.326053" y="99.059773" transform="rotate(-0 626.326053 99.059773)">1,412</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="550.434481" y="131.037567" transform="rotate(-0 550.434481 131.037567)">1,029</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="542.904769" y="163.01536" transform="rotate(-0 542.904769 163.01536)">991</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="497.924647" y="194.993153" transform="rotate(-0 497.924647 194.993153)">764</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="492.970889" y="226.970946" transform="rotate(-0 492.970889 226.970946)">739</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="492.376438" y="258.948739" transform="rotate(-0 492.376438 258.948739)">736</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="482.072621" y="290.926533" transform="rotate(-0 482.072621 290.926533)">684</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="480.487419" y="322.904326" transform="rotate(-0 480.487419 322.904326)">676</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="478.902216" y="354.882119" transform="rotate(-0 478.902216 354.882119)">668</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="478.109615" y="386.859912" transform="rotate(-0 478.109615 386.859912)">664</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="475.533661" y="418.837705" transform="rotate(-0 475.533661 418.837705)">651</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="471.372504" y="450.815499" transform="rotate(-0 471.372504 450.815499)">630</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="469.391001" y="482.793292" transform="rotate(-0 469.391001 482.793292)">620</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="460.474237" y="514.771085" transform="rotate(-0 460.474237 514.771085)">575</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="433.327643" y="546.748878" transform="rotate(-0 433.327643 546.748878)">438</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="430.157238" y="578.726671" transform="rotate(-0 430.157238 578.726671)">422</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="420.844173" y="610.704465" transform="rotate(-0 420.844173 610.704465)">375</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="417.673768" y="642.682258" transform="rotate(-0 417.673768 642.682258)">359</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start" x="415.692265" y="674.660051" transform="rotate(-0 415.692265 674.660051)">349</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="542.88" y="16.7925" transform="rotate(-0 542.88 16.7925)">WoS学科分布：前20个原始WC类别</text>
+   </g>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #63758a" x="7.2" y="770.1525" transform="rotate(-0 7.2 770.1525)">核心样本9,992篇；WC有效9,986篇，缺失6篇；161个类别共21,652次归属，类别可重叠。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2c532e40f9">
+   <rect x="344.16" y="22.7925" width="397.44" height="691.2"/>
+  </clipPath>
+ </defs>
 </svg>

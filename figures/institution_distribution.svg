@@ -1,71 +1,450 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="940" viewBox="0 0 1420 940" role="img" aria-labelledby="title desc">
-<title id="title">AI4S机构署名分布</title><desc id="desc">9363篇样本；前10个C3机构条目；同篇同一机构一次，层级可重叠。</desc>
-<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}</style>
-<rect width="1420" height="940" fill="white"/>
-<text x="60.00" y="49.00" font-size="30" fill="#243448" text-anchor="start" font-weight="700">AI4S机构署名分布</text>
-<text x="60.00" y="85.00" font-size="17" fill="#63758A" text-anchor="start" font-weight="400">前10个WoS机构条目｜核心样本 9,363 篇；其中9,125篇有C3标注</text>
-<line x1="630.00" y1="150.00" x2="630.00" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="630.00" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">0</text>
-<line x1="706.67" y1="150.00" x2="706.67" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="706.67" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">50</text>
-<line x1="783.33" y1="150.00" x2="783.33" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="783.33" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">100</text>
-<line x1="860.00" y1="150.00" x2="860.00" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="860.00" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">150</text>
-<line x1="936.67" y1="150.00" x2="936.67" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="936.67" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">200</text>
-<line x1="1013.33" y1="150.00" x2="1013.33" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1013.33" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">250</text>
-<line x1="1090.00" y1="150.00" x2="1090.00" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1090.00" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">300</text>
-<line x1="1166.67" y1="150.00" x2="1166.67" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1166.67" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">350</text>
-<line x1="1243.33" y1="150.00" x2="1243.33" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1243.33" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">400</text>
-<line x1="1320.00" y1="150.00" x2="1320.00" y2="760.00" stroke="#E6EDF3" stroke-width="1"/>
-<text x="1320.00" y="788.00" font-size="15" fill="#63758A" text-anchor="middle" font-weight="400">450</text>
-<line x1="630.00" y1="760.00" x2="1320.00" y2="760.00" stroke="#B9C4CF" stroke-width="1"/>
-<rect x="630.00" y="168.00" width="610.27" height="28.00" fill="#2F6E94" rx="0" data-count="398"/>
-<text x="613.00" y="179.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Chinese Academy of Sciences</text>
-<text x="613.00" y="201.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（中国科学院）</text>
-<text x="1251.27" y="188.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">398</text>
-<rect x="630.00" y="227.00" width="364.93" height="28.00" fill="#2F6E94" rx="0" data-count="238"/>
-<text x="613.00" y="238.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">United States Department of Energy (DOE)</text>
-<text x="613.00" y="260.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（美国能源部）</text>
-<text x="1005.93" y="247.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">238</text>
-<rect x="630.00" y="286.00" width="309.73" height="28.00" fill="#2F6E94" rx="0" data-count="202"/>
-<text x="613.00" y="297.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">University of California System</text>
-<text x="613.00" y="319.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（加利福尼亚大学系统）</text>
-<text x="950.73" y="306.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">202</text>
-<rect x="630.00" y="345.00" width="279.07" height="28.00" fill="#2F6E94" rx="0" data-count="182"/>
-<text x="613.00" y="356.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Zhejiang University</text>
-<text x="613.00" y="378.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（浙江大学）</text>
-<text x="920.07" y="365.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">182</text>
-<rect x="630.00" y="404.00" width="257.60" height="28.00" fill="#2F6E94" rx="0" data-count="168"/>
-<text x="613.00" y="415.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Indian Institute of Technology System (IIT System)</text>
-<text x="613.00" y="437.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（印度理工学院系统）</text>
-<text x="898.60" y="424.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">168</text>
-<rect x="630.00" y="463.00" width="249.93" height="28.00" fill="#2F6E94" rx="0" data-count="163"/>
-<text x="613.00" y="474.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Shanghai Jiao Tong University</text>
-<text x="613.00" y="496.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（上海交通大学）</text>
-<text x="890.93" y="483.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">163</text>
-<rect x="630.00" y="522.00" width="242.27" height="28.00" fill="#2F6E94" rx="0" data-count="158"/>
-<text x="613.00" y="533.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Tsinghua University</text>
-<text x="613.00" y="555.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（清华大学）</text>
-<text x="883.27" y="542.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">158</text>
-<rect x="630.00" y="581.00" width="230.00" height="28.00" fill="#2F6E94" rx="0" data-count="150"/>
-<text x="613.00" y="592.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">University of Chinese Academy of Sciences, CAS</text>
-<text x="613.00" y="614.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（中国科学院大学）</text>
-<text x="871.00" y="601.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">150</text>
-<rect x="630.00" y="640.00" width="200.87" height="28.00" fill="#2F6E94" rx="0" data-count="131"/>
-<text x="613.00" y="651.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Massachusetts Institute of Technology (MIT)</text>
-<text x="613.00" y="673.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（麻省理工学院）</text>
-<text x="841.87" y="660.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">131</text>
-<rect x="630.00" y="699.00" width="182.47" height="28.00" fill="#2F6E94" rx="0" data-count="119"/>
-<text x="613.00" y="710.00" font-size="16" fill="#3C5367" text-anchor="end" font-weight="400">Central South University</text>
-<text x="613.00" y="732.00" font-size="15" fill="#63758A" text-anchor="end" font-weight="400">（中南大学）</text>
-<text x="823.47" y="719.00" font-size="18" fill="#2F6E94" text-anchor="start" font-weight="400">119</text>
-<text x="980.00" y="826.00" font-size="19" fill="#243448" text-anchor="middle" font-weight="400">署名文献数（篇）</text>
-<text x="60.00" y="874.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">注：同篇同一机构条目计1次；机构体系与下属单位可能重叠，其数量不相加。</text>
-<text x="60.00" y="907.00" font-size="16" fill="#63758A" text-anchor="start" font-weight="400">英文沿用WoS原C3条目，中文仅作对照，未追加机构别名归并；238篇缺少C3字段。</text>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="766.236094pt" height="524.709844pt" viewBox="0 0 766.236094 524.709844" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-02T18:14:09.091178</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 524.709844 
+L 766.236094 524.709844 
+L 766.236094 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 396 460.5525 
+L 750.24 460.5525 
+L 750.24 22.7925 
+L 396 22.7925 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 396 42.690682 
+L 725.0496 42.690682 
+L 725.0496 67.563409 
+L 396 67.563409 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 396 84.145227 
+L 592.8 84.145227 
+L 592.8 109.017955 
+L 396 109.017955 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 396 125.599773 
+L 569.184 125.599773 
+L 569.184 150.4725 
+L 396 150.4725 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 396 167.054318 
+L 548.7168 167.054318 
+L 548.7168 191.927045 
+L 396 191.927045 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 396 208.508864 
+L 533.76 208.508864 
+L 533.76 233.381591 
+L 396 233.381591 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 396 249.963409 
+L 530.6112 249.963409 
+L 530.6112 274.836136 
+L 396 274.836136 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 396 291.417955 
+L 528.2496 291.417955 
+L 528.2496 316.290682 
+L 396 316.290682 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 396 332.8725 
+L 518.8032 332.8725 
+L 518.8032 357.745227 
+L 396 357.745227 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 396 374.327045 
+L 507.7824 374.327045 
+L 507.7824 399.199773 
+L 396 399.199773 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 396 415.781591 
+L 494.4 415.781591 
+L 494.4 440.654318 
+L 396 440.654318 
+z
+" clip-path="url(#p15d1240db6)" style="fill: #2f6e94"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 396 460.5525 
+L 396 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m5955a8573f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5955a8573f" x="396" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="396" y="475.54625" transform="rotate(-0 396 475.54625)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 435.36 460.5525 
+L 435.36 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m5955a8573f" x="435.36" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="435.36" y="475.54625" transform="rotate(-0 435.36 475.54625)">50</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 474.72 460.5525 
+L 474.72 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5955a8573f" x="474.72" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="474.72" y="475.54625" transform="rotate(-0 474.72 475.54625)">100</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 514.08 460.5525 
+L 514.08 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5955a8573f" x="514.08" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="514.08" y="475.54625" transform="rotate(-0 514.08 475.54625)">150</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 553.44 460.5525 
+L 553.44 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m5955a8573f" x="553.44" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="553.44" y="475.54625" transform="rotate(-0 553.44 475.54625)">200</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 592.8 460.5525 
+L 592.8 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m5955a8573f" x="592.8" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="592.8" y="475.54625" transform="rotate(-0 592.8 475.54625)">250</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 632.16 460.5525 
+L 632.16 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m5955a8573f" x="632.16" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="632.16" y="475.54625" transform="rotate(-0 632.16 475.54625)">300</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 671.52 460.5525 
+L 671.52 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m5955a8573f" x="671.52" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="671.52" y="475.54625" transform="rotate(-0 671.52 475.54625)">350</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 710.88 460.5525 
+L 710.88 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m5955a8573f" x="710.88" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="710.88" y="475.54625" transform="rotate(-0 710.88 475.54625)">400</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 750.24 460.5525 
+L 750.24 22.7925 
+" clip-path="url(#p15d1240db6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m5955a8573f" x="750.24" y="460.5525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="750.24" y="475.54625" transform="rotate(-0 750.24 475.54625)">450</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="573.12" y="490.025937" transform="rotate(-0 573.12 490.025937)">署名文献数</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_21">
+      <defs>
+       <path id="m08a59ad706" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="55.127045" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(344 53.955639)">中国科学院</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(262.04375 64.952795)">Chinese Academy of Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="96.581591" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(344 95.410185)">美国能源部</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(205.810625 106.407341)">United States Department of Energy (DOE)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="138.036136" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(308 136.86473)">加利福尼亚大学系统</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(258.058437 147.861886)">University of California System</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="179.490682" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(353 178.37201)">浙江大学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(306.41375 189.242604)">Zhejiang University</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="220.945227" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(335 219.826555)">上海交通大学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(260.62625 230.697149)">Shanghai Jiao Tong University</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="262.399773" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(317 261.228366)">印度理工学院系统</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(174.99125 272.225523)">Indian Institute of Technology System (IIT System)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="303.854318" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(353 302.735646)">清华大学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(305.363281 313.60624)">Tsinghua University</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="345.308864" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(326 344.137457)">中国科学院大学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(183.060313 355.134614)">University of Chinese Academy of Sciences, CAS</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="386.763409" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(335 385.592003)">麻省理工学院</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(199.64 396.589159)">Massachusetts Institute of Technology (MIT)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m08a59ad706" x="396" y="428.217955" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(353 427.099283)">中南大学</text>
+      <text style="font-size: 9px; font-family: 'Microsoft YaHei'" transform="translate(284.867188 437.969876)">Central South University</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_13">
+    <path d="M 396 460.5525 
+L 396 22.7925 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 396 460.5525 
+L 750.24 460.5525 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="728.9856" y="57.880952" transform="rotate(-0 728.9856 57.880952)">418</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="596.736" y="99.335497" transform="rotate(-0 596.736 99.335497)">250</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="573.12" y="140.790043" transform="rotate(-0 573.12 140.790043)">220</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="552.6528" y="182.244588" transform="rotate(-0 552.6528 182.244588)">194</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="537.696" y="223.699134" transform="rotate(-0 537.696 223.699134)">175</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="534.5472" y="265.153679" transform="rotate(-0 534.5472 265.153679)">171</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="532.1856" y="306.608224" transform="rotate(-0 532.1856 306.608224)">168</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="522.7392" y="348.06277" transform="rotate(-0 522.7392 348.06277)">156</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="511.7184" y="389.517315" transform="rotate(-0 511.7184 389.517315)">142</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'Microsoft YaHei'; text-anchor: start" x="498.336" y="430.971861" transform="rotate(-0 498.336 430.971861)">125</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="573.12" y="16.7925" transform="rotate(-0 573.12 16.7925)">机构署名分布：前10个WoS原始C3条目</text>
+   </g>
+  </g>
+  <g id="text_33">
+   <text style="font-size: 9px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #63758a" x="7.2" y="515.2725" transform="rotate(-0 7.2 515.2725)">C3有效9,736篇、缺失256篇；同篇同一条目计1次。机构体系与下属单位可重叠，未追加别名归并。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p15d1240db6">
+   <rect x="396" y="22.7925" width="354.24" height="437.76"/>
+  </clipPath>
+ </defs>
 </svg>

@@ -1,154 +1,162 @@
-﻿WC类别,中文对照,文献数,占9363篇核心样本比例
-"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,1683,0.1797500801
-"Chemistry, Multidisciplinary",化学：综合,1314,0.1403396347
-Mechanics,力学,963,0.1028516501
-"Materials Science, Multidisciplinary",材料科学：综合,962,0.1027448467
-"Computer Science, Artificial Intelligence",计算机科学：人工智能,701,0.0748691659
-Biochemistry & Molecular Biology,生物化学与分子生物学,692,0.0739079355
-Multidisciplinary Sciences,综合性科学,685,0.0731603119
-"Chemistry, Physical",物理化学,646,0.0689949802
-"Engineering, Multidisciplinary",工程：综合,639,0.0682473566
-"Computer Science, Information Systems",计算机科学：信息系统,634,0.0677133397
-"Chemistry, Medicinal",药物化学,619,0.0661112891
-"Mathematics, Interdisciplinary Applications",数学：跨学科应用,613,0.0654704689
-Mathematical & Computational Biology,数理与计算生物学,610,0.0651500587
-Biochemical Research Methods,生物化学研究方法,591,0.0631207946
-"Engineering, Electrical & Electronic",电气与电子工程,545,0.0582078394
-"Physics, Mathematical",数学物理,429,0.0458186479
-"Engineering, Mechanical",机械工程,410,0.0437893837
-"Mathematics, Applied",应用数学,370,0.0395172487
-"Engineering, Chemical",化学工程,338,0.0360995407
-"Physics, Applied",应用物理,329,0.0351383104
-Nanoscience & Nanotechnology,,327,0.0349247036
-Energy & Fuels,,320,0.0341770800
-Biotechnology & Applied Microbiology,,292,0.0311865855
-"Physics, Fluids & Plasmas",,289,0.0308661754
-Pharmacology & Pharmacy,,279,0.0297981416
-Automation & Control Systems,,242,0.0258464167
-Thermodynamics,,242,0.0258464167
-"Physics, Multidisciplinary",,239,0.0255260066
-Statistics & Probability,,210,0.0224287087
-"Engineering, Civil",,209,0.0223219054
-Biophysics,,187,0.0199722311
-"Physics, Condensed Matter",,158,0.0168749332
-"Physics, Atomic, Molecular & Chemical",,151,0.0161273096
-Biology,,148,0.0158068995
-"Computer Science, Theory & Methods",,128,0.0136708320
-Environmental Sciences,,127,0.0135640286
-Telecommunications,,122,0.0130300117
-"Engineering, Environmental",,121,0.0129232084
-Mathematics,,121,0.0129232084
-Water Resources,,111,0.0118551746
-"Chemistry, Applied",,109,0.0116415679
-"Chemistry, Analytical",,108,0.0115347645
-"Geosciences, Multidisciplinary",,100,0.0106803375
-Metallurgy & Metallurgical Engineering,,97,0.0103599274
-Instruments & Instrumentation,,95,0.0101463206
-"Engineering, Biomedical",,92,0.0098259105
-Medical Informatics,,90,0.0096123037
-Operations Research & Management Science,,89,0.0095055004
-Neurosciences,,81,0.0086510734
-Optics,,73,0.0077966464
-"Medicine, Research & Experimental",,72,0.0076898430
-Construction & Building Technology,,62,0.0066218092
-"Engineering, Manufacturing",,57,0.0060877924
-"Computer Science, Software Engineering",,55,0.0058741856
-"Computer Science, Hardware & Architecture",,53,0.0056605789
-Crystallography,,53,0.0056605789
-"Engineering, Geological",,53,0.0056605789
-"Engineering, Aerospace",,52,0.0055537755
-Oceanography,,51,0.0054469721
-Electrochemistry,,49,0.0052333654
-Toxicology,,47,0.0050197586
-"Engineering, Industrial",,46,0.0049129552
-Genetics & Heredity,,46,0.0049129552
-Geochemistry & Geophysics,,46,0.0049129552
-"Engineering, Ocean",,45,0.0048061519
-Polymer Science,,44,0.0046993485
-Green & Sustainable Science & Technology,,43,0.0045925451
-"Engineering, Marine",,39,0.0041653316
-Acoustics,,36,0.0038449215
-Imaging Science & Photographic Technology,,36,0.0038449215
-Remote Sensing,,35,0.0037381181
-Astronomy & Astrophysics,,34,0.0036313147
-Nuclear Science & Technology,,33,0.0035245114
-"Materials Science, Composites",,31,0.0033109046
-Cell Biology,,29,0.0030972979
-"Chemistry, Organic",,26,0.0027768877
-Robotics,,24,0.0025632810
-Food Science & Technology,,23,0.0024564776
-"Materials Science, Characterization & Testing",,23,0.0024564776
-Limnology,,21,0.0022428709
-Transportation Science & Technology,,20,0.0021360675
-"Engineering, Petroleum",,18,0.0019224607
-Microbiology,,18,0.0019224607
-"Radiology, Nuclear Medicine & Medical Imaging",,18,0.0019224607
-Oncology,,17,0.0018156574
-"Materials Science, Coatings & Films",,16,0.0017088540
-Meteorology & Atmospheric Sciences,,14,0.0014952472
-Plant Sciences,,14,0.0014952472
-"Chemistry, Inorganic & Nuclear",,13,0.0013884439
-"Physics, Particles & Fields",,12,0.0012816405
-Immunology,,11,0.0011748371
-"Materials Science, Biomaterials",,11,0.0011748371
-Quantum Science & Technology,,11,0.0011748371
-Audiology & Speech-Language Pathology,,8,0.0008544270
-"Geography, Physical",,8,0.0008544270
-Infectious Diseases,,8,0.0008544270
-Integrative & Complementary Medicine,,8,0.0008544270
-"Materials Science, Ceramics",,8,0.0008544270
-"Physics, Nuclear",,8,0.0008544270
-Spectroscopy,,8,0.0008544270
-"Computer Science, Cybernetics",,7,0.0007476236
-Agricultural Engineering,,6,0.0006408202
-"Agriculture, Multidisciplinary",,6,0.0006408202
-Clinical Neurology,,6,0.0006408202
-Marine & Freshwater Biology,,6,0.0006408202
-"Medicine, General & Internal",,6,0.0006408202
-Mining & Mineral Processing,,6,0.0006408202
-"Public, Environmental & Occupational Health",,6,0.0006408202
-Ecology,,5,0.0005340169
-Health Care Sciences & Services,,5,0.0005340169
-Mineralogy,,5,0.0005340169
-Developmental Biology,,4,0.0004272135
-Evolutionary Biology,,4,0.0004272135
-Geriatrics & Gerontology,,4,0.0004272135
-Virology,,4,0.0004272135
-Environmental Studies,,3,0.0003204101
-Parasitology,,3,0.0003204101
-Respiratory System,,3,0.0003204101
-Surgery,,3,0.0003204101
-Cell & Tissue Engineering,,2,0.0002136067
-"Education, Scientific Disciplines",,2,0.0002136067
-Fisheries,,2,0.0002136067
-Hematology,,2,0.0002136067
-Management,,2,0.0002136067
-Nutrition & Dietetics,,2,0.0002136067
-Ophthalmology,,2,0.0002136067
-Peripheral Vascular Disease,,2,0.0002136067
-Psychiatry,,2,0.0002136067
-"Social Sciences, Mathematical Methods",,2,0.0002136067
-Soil Science,,2,0.0002136067
-Tropical Medicine,,2,0.0002136067
-Zoology,,2,0.0002136067
-"Agriculture, Dairy & Animal Science",,1,0.0001068034
-Behavioral Sciences,,1,0.0001068034
-Biodiversity Conservation,,1,0.0001068034
-"Business, Finance",,1,0.0001068034
-Cardiac & Cardiovascular Systems,,1,0.0001068034
-Critical Care Medicine,,1,0.0001068034
-Dermatology,,1,0.0001068034
-Endocrinology & Metabolism,,1,0.0001068034
-Ergonomics,,1,0.0001068034
-History & Philosophy Of Science,,1,0.0001068034
-Logic,,1,0.0001068034
-"Materials Science, Textiles",,1,0.0001068034
-Microscopy,,1,0.0001068034
-Orthopedics,,1,0.0001068034
-Pathology,,1,0.0001068034
-Philosophy,,1,0.0001068034
-Physiology,,1,0.0001068034
-Reproductive Biology,,1,0.0001068034
-Sport Sciences,,1,0.0001068034
-Transportation,,1,0.0001068034
-Veterinary Sciences,,1,0.0001068034
+﻿WC类别,中文对照,文献数,占9992篇核心样本比例
+"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,1775,0.1776421137
+"Chemistry, Multidisciplinary",化学：综合,1412,0.1413130504
+"Materials Science, Multidisciplinary",材料科学：综合,1029,0.1029823859
+Mechanics,力学,991,0.0991793435
+Biochemistry & Molecular Biology,生物化学与分子生物学,764,0.0764611689
+"Computer Science, Artificial Intelligence",计算机科学：人工智能,739,0.0739591673
+Multidisciplinary Sciences,综合性科学,736,0.0736589271
+"Chemistry, Physical",物理化学,684,0.0684547638
+"Computer Science, Information Systems",计算机科学：信息系统,676,0.0676541233
+"Chemistry, Medicinal",药物化学,668,0.0668534828
+"Engineering, Multidisciplinary",工程：综合,664,0.0664531625
+Mathematical & Computational Biology,数理与计算生物学,651,0.0651521217
+"Mathematics, Interdisciplinary Applications",数学：跨学科应用,630,0.0630504404
+Biochemical Research Methods,生物化学研究方法,620,0.0620496397
+"Engineering, Electrical & Electronic",电气与电子工程,575,0.0575460368
+"Physics, Mathematical",数学物理,438,0.0438350681
+"Engineering, Mechanical",机械工程,422,0.0422337870
+"Mathematics, Applied",应用数学,375,0.0375300240
+"Engineering, Chemical",化学工程,359,0.0359287430
+Nanoscience & Nanotechnology,,349,0.0349279424
+"Physics, Applied",应用物理,347,0.0347277822
+Energy & Fuels,,333,0.0333266613
+Pharmacology & Pharmacy,,314,0.0314251401
+Biotechnology & Applied Microbiology,,311,0.0311248999
+"Physics, Fluids & Plasmas",,293,0.0293234588
+Automation & Control Systems,,256,0.0256204964
+Thermodynamics,,249,0.0249199359
+"Physics, Multidisciplinary",,248,0.0248198559
+"Engineering, Civil",,219,0.0219175340
+Statistics & Probability,,218,0.0218174540
+Biophysics,,207,0.0207165733
+"Physics, Condensed Matter",,163,0.0163130504
+"Physics, Atomic, Molecular & Chemical",,162,0.0162129704
+Biology,,159,0.0159127302
+"Computer Science, Theory & Methods",,140,0.0140112090
+Environmental Sciences,,133,0.0133106485
+Telecommunications,,128,0.0128102482
+Mathematics,,126,0.0126100881
+"Engineering, Environmental",,125,0.0125100080
+"Chemistry, Applied",,122,0.0122097678
+Water Resources,,115,0.0115092074
+"Chemistry, Analytical",,113,0.0113090472
+"Engineering, Biomedical",,111,0.0111088871
+"Geosciences, Multidisciplinary",,108,0.0108086469
+Metallurgy & Metallurgical Engineering,,103,0.0103082466
+Instruments & Instrumentation,,102,0.0102081665
+Medical Informatics,,98,0.0098078463
+Operations Research & Management Science,,94,0.0094075260
+Neurosciences,,83,0.0083066453
+"Medicine, Research & Experimental",,82,0.0082065653
+Optics,,80,0.0080064051
+Construction & Building Technology,,66,0.0066052842
+"Computer Science, Software Engineering",,62,0.0062049640
+"Engineering, Manufacturing",,61,0.0061048839
+"Engineering, Geological",,56,0.0056044836
+"Engineering, Aerospace",,55,0.0055044035
+"Computer Science, Hardware & Architecture",,54,0.0054043235
+Crystallography,,54,0.0054043235
+Electrochemistry,,53,0.0053042434
+Oceanography,,52,0.0052041633
+Genetics & Heredity,,49,0.0049039231
+Toxicology,,49,0.0049039231
+Geochemistry & Geophysics,,48,0.0048038431
+"Engineering, Ocean",,46,0.0046036829
+Polymer Science,,46,0.0046036829
+"Engineering, Industrial",,45,0.0045036029
+Green & Sustainable Science & Technology,,45,0.0045036029
+Cell Biology,,42,0.0042033627
+Imaging Science & Photographic Technology,,42,0.0042033627
+Acoustics,,40,0.0040032026
+"Engineering, Marine",,39,0.0039031225
+Astronomy & Astrophysics,,38,0.0038030424
+Remote Sensing,,36,0.0036028823
+"Materials Science, Composites",,35,0.0035028022
+Nuclear Science & Technology,,35,0.0035028022
+Transportation Science & Technology,,32,0.0032025620
+"Chemistry, Organic",,29,0.0029023219
+"Materials Science, Characterization & Testing",,27,0.0027021617
+Oncology,,27,0.0027021617
+Robotics,,26,0.0026020817
+Food Science & Technology,,25,0.0025020016
+"Radiology, Nuclear Medicine & Medical Imaging",,25,0.0025020016
+Limnology,,22,0.0022017614
+"Engineering, Petroleum",,18,0.0018014412
+Microbiology,,18,0.0018014412
+Plant Sciences,,18,0.0018014412
+"Materials Science, Coatings & Films",,16,0.0016012810
+Meteorology & Atmospheric Sciences,,15,0.0015012010
+"Physics, Particles & Fields",,15,0.0015012010
+"Chemistry, Inorganic & Nuclear",,14,0.0014011209
+Quantum Science & Technology,,12,0.0012009608
+Immunology,,11,0.0011008807
+"Materials Science, Biomaterials",,11,0.0011008807
+Infectious Diseases,,10,0.0010008006
+Integrative & Complementary Medicine,,10,0.0010008006
+Spectroscopy,,10,0.0010008006
+Audiology & Speech-Language Pathology,,9,0.0009007206
+"Materials Science, Ceramics",,9,0.0009007206
+"Agriculture, Multidisciplinary",,8,0.0008006405
+Clinical Neurology,,8,0.0008006405
+"Computer Science, Cybernetics",,8,0.0008006405
+"Geography, Physical",,8,0.0008006405
+"Medicine, General & Internal",,8,0.0008006405
+"Physics, Nuclear",,8,0.0008006405
+Agricultural Engineering,,7,0.0007005604
+Health Care Sciences & Services,,7,0.0007005604
+"Public, Environmental & Occupational Health",,7,0.0007005604
+Ecology,,6,0.0006004804
+Geriatrics & Gerontology,,6,0.0006004804
+Marine & Freshwater Biology,,6,0.0006004804
+Mining & Mineral Processing,,6,0.0006004804
+Developmental Biology,,5,0.0005004003
+Evolutionary Biology,,5,0.0005004003
+Mineralogy,,5,0.0005004003
+Transportation,,4,0.0004003203
+Virology,,4,0.0004003203
+Endocrinology & Metabolism,,3,0.0003002402
+Environmental Studies,,3,0.0003002402
+Information Science & Library Science,信息科学与图书馆学,3,0.0003002402
+Management,,3,0.0003002402
+Ophthalmology,,3,0.0003002402
+Parasitology,,3,0.0003002402
+Psychiatry,,3,0.0003002402
+Respiratory System,,3,0.0003002402
+"Social Sciences, Mathematical Methods",,3,0.0003002402
+Soil Science,,3,0.0003002402
+Surgery,,3,0.0003002402
+Cell & Tissue Engineering,,2,0.0002001601
+"Education, Scientific Disciplines",,2,0.0002001601
+Fisheries,,2,0.0002001601
+Gastroenterology & Hepatology,胃肠病学与肝病学,2,0.0002001601
+Hematology,,2,0.0002001601
+Nutrition & Dietetics,,2,0.0002001601
+Orthopedics,,2,0.0002001601
+Pathology,,2,0.0002001601
+Peripheral Vascular Disease,,2,0.0002001601
+Rheumatology,风湿病学,2,0.0002001601
+Tropical Medicine,,2,0.0002001601
+Veterinary Sciences,,2,0.0002001601
+Zoology,,2,0.0002001601
+"Agriculture, Dairy & Animal Science",,1,0.0001000801
+Behavioral Sciences,,1,0.0001000801
+Biodiversity Conservation,,1,0.0001000801
+"Business, Finance",,1,0.0001000801
+Cardiac & Cardiovascular Systems,,1,0.0001000801
+Critical Care Medicine,,1,0.0001000801
+Dermatology,,1,0.0001000801
+Economics,经济学,1,0.0001000801
+Ergonomics,,1,0.0001000801
+History & Philosophy Of Science,,1,0.0001000801
+Language & Linguistics,语言与语言学,1,0.0001000801
+Linguistics,语言学,1,0.0001000801
+Logic,,1,0.0001000801
+"Materials Science, Textiles",,1,0.0001000801
+Microscopy,,1,0.0001000801
+Philosophy,,1,0.0001000801
+Physiology,,1,0.0001000801
+"Psychology, Experimental",心理学：实验,1,0.0001000801
+Reproductive Biology,,1,0.0001000801
+Sport Sciences,,1,0.0001000801
+Substance Abuse,物质滥用,1,0.0001000801

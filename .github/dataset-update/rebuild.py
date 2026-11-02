@@ -3,6 +3,9 @@ from pathlib import Path
 import os,sys,json,zipfile,io,hashlib,re,urllib.request
 ROOT=Path(__file__).resolve().parents[2]
 MANIFEST=json.loads((ROOT/'data/current_manifest.json').read_text())
+if MANIFEST.get('version') != 'v5-20261027-PY':
+ print('Historical v5 publisher skipped: current manifest uses a different verified dataset; preserve existing historical assets.')
+ sys.exit(0)
 EXCLUDED={x['UT'] for x in json.loads((ROOT/'reviews/2026-10-27_early/excluded_8.json').read_text())}
 EXPECTED=MANIFEST['source_file_sha256']
 TAG='data-v5-20261027'
@@ -72,4 +75,5 @@ if existing:
 else:asset=request(f'/repos/{repo}/releases/{release["id"]}/assets?name={ASSET}','POST',data,'application/zip','uploads.github.com')
 assert asset['size']==len(data) and asset.get('digest')=='sha256:'+sha(data)
 print(json.dumps({'records':9363,'files':19,'sha256':sha(data),'url':asset['browser_download_url']}))
+
 
