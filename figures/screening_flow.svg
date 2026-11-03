@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1850" viewBox="0 0 1900 1850"><rect width="100%" height="100%" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1400" viewBox="0 0 1900 1400"><rect width="100%" height="100%" fill="white"/>
 <text x="950" y="65.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="42" font-weight="bold">AI4S文献数据处理与筛选流程</text>
 <rect x="300" y="135.0" width="620" height="110" fill="white" stroke="black" stroke-width="3"/>
 <text x="610.0" y="165.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="33" font-weight="normal">原始检索记录</text>
@@ -18,48 +18,28 @@
 <rect x="300" y="505.0" width="620" height="110" fill="white" stroke="black" stroke-width="3"/>
 <text x="610.0" y="536.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">基础清理后进入内容筛选</text>
 <text x="610.0" y="584.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">n = 11,513</text>
-<rect x="40" y="590.0" width="180" height="490" fill="#F2F2F2" stroke="black" stroke-width="3"/>
-<text x="130.0" y="816.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">内容筛查</text>
-<text x="130.0" y="853.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">Screening</text>
+<rect x="40" y="590.0" width="180" height="600" fill="#F2F2F2" stroke="black" stroke-width="3"/>
+<text x="130.0" y="871.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">内容筛查</text>
+<text x="130.0" y="908.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">Screening</text>
 <line x1="610" y1="615" x2="610" y2="805" stroke="black" stroke-width="3"/><polygon points="610,805 601,788 619,788" fill="black"/>
 <line x1="610" y1="700" x2="1120" y2="700" stroke="black" stroke-width="3"/><polygon points="1120,700 1103,691 1103,709" fill="black"/>
 <rect x="1120" y="620.0" width="700" height="160" fill="white" stroke="black" stroke-width="3"/>
-<text x="1470.0" y="659.5" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">文献性质筛查：题名＋摘要</text>
-<text x="1470.0" y="700.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">纯回顾／综述或仅讨论AI，</text>
-<text x="1470.0" y="740.5" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">未开展具体科学任务的AI应用：350篇</text>
+<text x="1470.0" y="679.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">文献性质筛查后剔除 520 篇</text>
+<text x="1470.0" y="720.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">仅回顾、综合或评论既有研究的文献</text>
 <rect x="300" y="805.0" width="620" height="110" fill="white" stroke="black" stroke-width="3"/>
 <text x="610.0" y="836.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">文献性质筛查后</text>
-<text x="610.0" y="884.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">n = 11,163</text>
-<line x1="610" y1="915" x2="610" y2="1105" stroke="black" stroke-width="3"/><polygon points="610,1105 601,1088 619,1088" fill="black"/>
-<line x1="610" y1="1000" x2="1120" y2="1000" stroke="black" stroke-width="3"/><polygon points="1120,1000 1103,991 1103,1009" fill="black"/>
-<rect x="1120" y="925.0" width="700" height="150" fill="white" stroke="black" stroke-width="3"/>
-<text x="1470.0" y="961.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="normal">研究范围筛查：题名＋摘要</text>
-<text x="1470.0" y="1000.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="normal">明显不符合AI4S范围：859篇</text>
-<text x="1470.0" y="1039.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="normal">社会经济／一般科研辅助／无实际AI求解等</text>
-<rect x="300" y="1105.0" width="620" height="110" fill="white" stroke="black" stroke-width="3"/>
-<text x="610.0" y="1136.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">研究范围筛查后</text>
-<text x="610.0" y="1184.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">n = 10,304</text>
-<rect x="40" y="1230.0" width="180" height="220" fill="#F2F2F2" stroke="black" stroke-width="3"/>
-<text x="130.0" y="1319.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">争议复核</text>
-<text x="130.0" y="1360.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="normal">人工复核</text>
-<line x1="920" y1="1160" x2="1100" y2="1160" stroke="black" stroke-width="3" stroke-dasharray="12 12"/>
-<line x1="1100" y1="1160" x2="1120" y2="1160" stroke="black" stroke-width="3"/><polygon points="1120,1160 1103,1151 1103,1169" fill="black"/>
-<rect x="1120" y="1115.0" width="700" height="350" fill="white" stroke="black" stroke-width="3"/>
-<text x="1470.0" y="1196.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">其中：双方判定有分歧的复核子集</text>
-<text x="1470.0" y="1233.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">337篇／10,304篇＝3.3%</text>
-<text x="1470.0" y="1271.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">双人复核摘要，必要时补查全文方法</text>
-<text x="1470.0" y="1308.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">保留25篇（仍计入最终9,992篇）</text>
-<text x="1470.0" y="1346.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">未纳入312篇：剔除311、范围排除1</text>
-<text x="1470.0" y="1383.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">人工复核中归为纯回顾等类别：170篇</text>
-<line x1="610" y1="1215" x2="610" y2="1515" stroke="black" stroke-width="3"/><polygon points="610,1515 601,1498 619,1498" fill="black"/>
-<text x="825" y="1380.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="normal">仅移除未纳入的312篇</text>
-<rect x="40" y="1500.0" width="180" height="170" fill="#F2F2F2" stroke="black" stroke-width="3"/>
-<text x="130.0" y="1566.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">最终纳入</text>
-<text x="130.0" y="1603.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">Included</text>
-<rect x="300" y="1515.0" width="620" height="140" fill="white" stroke="black" stroke-width="3"/>
-<text x="610.0" y="1558.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="bold">最终纳入分析</text>
-<text x="610.0" y="1611.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="bold">n = 9,992</text>
-<text x="610" y="1691.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">9,992＝10,304－312</text>
-<text x="610" y="1728.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">构成：其余保留9,967篇＋争议复核保留25篇</text>
-<text x="950" y="1800.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="normal">注：按最终记录归并展示；3.3%为争议子集占比，不是双人一致性系数。</text>
+<text x="610.0" y="884.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="normal">n = 10,993</text>
+<line x1="610" y1="915" x2="610" y2="1220" stroke="black" stroke-width="3"/><polygon points="610,1220 601,1203 619,1203" fill="black"/>
+<line x1="610" y1="1040" x2="1120" y2="1040" stroke="black" stroke-width="3"/><polygon points="1120,1040 1103,1031 1103,1049" fill="black"/>
+<rect x="1120" y="930.0" width="700" height="220" fill="white" stroke="black" stroke-width="3"/>
+<text x="1470.0" y="983.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">研究范围及AI参与筛查后剔除 976 篇</text>
+<text x="1470.0" y="1021.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">经济金融、教育教学、临床诊疗等范围外应用，</text>
+<text x="1470.0" y="1058.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">或未实际使用机器学习、深度学习、</text>
+<text x="1470.0" y="1096.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">大语言模型等AI方法参与研究</text>
+<rect x="40" y="1220.0" width="180" height="120" fill="#F2F2F2" stroke="black" stroke-width="3"/>
+<text x="130.0" y="1261.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">最终纳入</text>
+<text x="130.0" y="1298.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="normal">Included</text>
+<rect x="300" y="1220.0" width="620" height="120" fill="white" stroke="black" stroke-width="3"/>
+<text x="610.0" y="1253.75" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="bold">最终纳入分析</text>
+<text x="610.0" y="1306.25" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="bold">n = 10,017</text>
 </svg>

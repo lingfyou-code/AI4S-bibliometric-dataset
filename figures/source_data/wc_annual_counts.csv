@@ -30,8 +30,8 @@
 2010,"Engineering, Civil",,0
 2010,Statistics & Probability,,1
 2010,Biophysics,,2
-2010,"Physics, Condensed Matter",,0
 2010,"Physics, Atomic, Molecular & Chemical",,0
+2010,"Physics, Condensed Matter",,0
 2010,Biology,,2
 2010,"Computer Science, Theory & Methods",,0
 2010,Environmental Sciences,,0
@@ -43,9 +43,9 @@
 2010,"Chemistry, Analytical",,0
 2010,"Engineering, Biomedical",,0
 2010,"Geosciences, Multidisciplinary",,0
+2010,Medical Informatics,,0
 2010,Metallurgy & Metallurgical Engineering,,0
 2010,Instruments & Instrumentation,,0
-2010,Medical Informatics,,0
 2010,Operations Research & Management Science,,2
 2010,Neurosciences,,0
 2010,"Medicine, Research & Experimental",,0
@@ -53,9 +53,9 @@
 2010,Construction & Building Technology,,0
 2010,"Computer Science, Software Engineering",,0
 2010,"Engineering, Manufacturing",,0
+2010,"Computer Science, Hardware & Architecture",,0
 2010,"Engineering, Geological",,0
 2010,"Engineering, Aerospace",,0
-2010,"Computer Science, Hardware & Architecture",,0
 2010,Crystallography,,2
 2010,Electrochemistry,,0
 2010,Oceanography,,0
@@ -101,10 +101,10 @@
 2010,Clinical Neurology,,0
 2010,"Computer Science, Cybernetics",,0
 2010,"Geography, Physical",,0
+2010,Health Care Sciences & Services,,0
 2010,"Medicine, General & Internal",,0
 2010,"Physics, Nuclear",,0
 2010,Agricultural Engineering,,0
-2010,Health Care Sciences & Services,,0
 2010,"Public, Environmental & Occupational Health",,0
 2010,Ecology,,0
 2010,Geriatrics & Gerontology,,0
@@ -112,12 +112,12 @@
 2010,Mining & Mineral Processing,,0
 2010,Developmental Biology,,0
 2010,Evolutionary Biology,,0
+2010,Information Science & Library Science,信息科学与图书馆学,0
 2010,Mineralogy,,0
 2010,Transportation,,0
 2010,Virology,,0
 2010,Endocrinology & Metabolism,,0
 2010,Environmental Studies,,0
-2010,Information Science & Library Science,信息科学与图书馆学,0
 2010,Management,,1
 2010,Ophthalmology,,0
 2010,Parasitology,,0
@@ -191,8 +191,8 @@
 2011,"Engineering, Civil",,0
 2011,Statistics & Probability,,2
 2011,Biophysics,,0
-2011,"Physics, Condensed Matter",,0
 2011,"Physics, Atomic, Molecular & Chemical",,0
+2011,"Physics, Condensed Matter",,0
 2011,Biology,,0
 2011,"Computer Science, Theory & Methods",,1
 2011,Environmental Sciences,,0
@@ -204,9 +204,9 @@
 2011,"Chemistry, Analytical",,1
 2011,"Engineering, Biomedical",,0
 2011,"Geosciences, Multidisciplinary",,0
+2011,Medical Informatics,,0
 2011,Metallurgy & Metallurgical Engineering,,0
 2011,Instruments & Instrumentation,,1
-2011,Medical Informatics,,0
 2011,Operations Research & Management Science,,1
 2011,Neurosciences,,1
 2011,"Medicine, Research & Experimental",,1
@@ -214,9 +214,9 @@
 2011,Construction & Building Technology,,0
 2011,"Computer Science, Software Engineering",,0
 2011,"Engineering, Manufacturing",,0
+2011,"Computer Science, Hardware & Architecture",,0
 2011,"Engineering, Geological",,0
 2011,"Engineering, Aerospace",,1
-2011,"Computer Science, Hardware & Architecture",,0
 2011,Crystallography,,1
 2011,Electrochemistry,,1
 2011,Oceanography,,0
@@ -262,10 +262,10 @@
 2011,Clinical Neurology,,0
 2011,"Computer Science, Cybernetics",,0
 2011,"Geography, Physical",,0
+2011,Health Care Sciences & Services,,0
 2011,"Medicine, General & Internal",,0
 2011,"Physics, Nuclear",,0
 2011,Agricultural Engineering,,0
-2011,Health Care Sciences & Services,,0
 2011,"Public, Environmental & Occupational Health",,0
 2011,Ecology,,0
 2011,Geriatrics & Gerontology,,0
@@ -273,12 +273,12 @@
 2011,Mining & Mineral Processing,,0
 2011,Developmental Biology,,0
 2011,Evolutionary Biology,,0
+2011,Information Science & Library Science,信息科学与图书馆学,0
 2011,Mineralogy,,0
 2011,Transportation,,0
 2011,Virology,,0
 2011,Endocrinology & Metabolism,,0
 2011,Environmental Studies,,0
-2011,Information Science & Library Science,信息科学与图书馆学,0
 2011,Management,,0
 2011,Ophthalmology,,0
 2011,Parasitology,,0
@@ -352,8 +352,8 @@
 2012,"Engineering, Civil",,0
 2012,Statistics & Probability,,1
 2012,Biophysics,,0
-2012,"Physics, Condensed Matter",,0
 2012,"Physics, Atomic, Molecular & Chemical",,0
+2012,"Physics, Condensed Matter",,0
 2012,Biology,,0
 2012,"Computer Science, Theory & Methods",,0
 2012,Environmental Sciences,,1
@@ -365,9 +365,9 @@
 2012,"Chemistry, Analytical",,1
 2012,"Engineering, Biomedical",,0
 2012,"Geosciences, Multidisciplinary",,0
+2012,Medical Informatics,,0
 2012,Metallurgy & Metallurgical Engineering,,0
 2012,Instruments & Instrumentation,,0
-2012,Medical Informatics,,0
 2012,Operations Research & Management Science,,1
 2012,Neurosciences,,0
 2012,"Medicine, Research & Experimental",,2
@@ -375,9 +375,9 @@
 2012,Construction & Building Technology,,0
 2012,"Computer Science, Software Engineering",,0
 2012,"Engineering, Manufacturing",,0
+2012,"Computer Science, Hardware & Architecture",,0
 2012,"Engineering, Geological",,0
 2012,"Engineering, Aerospace",,0
-2012,"Computer Science, Hardware & Architecture",,0
 2012,Crystallography,,0
 2012,Electrochemistry,,0
 2012,Oceanography,,0
@@ -423,10 +423,10 @@
 2012,Clinical Neurology,,0
 2012,"Computer Science, Cybernetics",,0
 2012,"Geography, Physical",,0
+2012,Health Care Sciences & Services,,0
 2012,"Medicine, General & Internal",,0
 2012,"Physics, Nuclear",,0
 2012,Agricultural Engineering,,0
-2012,Health Care Sciences & Services,,0
 2012,"Public, Environmental & Occupational Health",,0
 2012,Ecology,,0
 2012,Geriatrics & Gerontology,,0
@@ -434,12 +434,12 @@
 2012,Mining & Mineral Processing,,0
 2012,Developmental Biology,,0
 2012,Evolutionary Biology,,0
+2012,Information Science & Library Science,信息科学与图书馆学,0
 2012,Mineralogy,,0
 2012,Transportation,,0
 2012,Virology,,0
 2012,Endocrinology & Metabolism,,0
 2012,Environmental Studies,,0
-2012,Information Science & Library Science,信息科学与图书馆学,0
 2012,Management,,0
 2012,Ophthalmology,,0
 2012,Parasitology,,0
@@ -513,8 +513,8 @@
 2013,"Engineering, Civil",,0
 2013,Statistics & Probability,,2
 2013,Biophysics,,1
-2013,"Physics, Condensed Matter",,0
 2013,"Physics, Atomic, Molecular & Chemical",,0
+2013,"Physics, Condensed Matter",,0
 2013,Biology,,1
 2013,"Computer Science, Theory & Methods",,0
 2013,Environmental Sciences,,0
@@ -526,9 +526,9 @@
 2013,"Chemistry, Analytical",,2
 2013,"Engineering, Biomedical",,0
 2013,"Geosciences, Multidisciplinary",,0
+2013,Medical Informatics,,0
 2013,Metallurgy & Metallurgical Engineering,,0
 2013,Instruments & Instrumentation,,1
-2013,Medical Informatics,,0
 2013,Operations Research & Management Science,,0
 2013,Neurosciences,,0
 2013,"Medicine, Research & Experimental",,0
@@ -536,9 +536,9 @@
 2013,Construction & Building Technology,,0
 2013,"Computer Science, Software Engineering",,0
 2013,"Engineering, Manufacturing",,0
+2013,"Computer Science, Hardware & Architecture",,0
 2013,"Engineering, Geological",,0
 2013,"Engineering, Aerospace",,0
-2013,"Computer Science, Hardware & Architecture",,0
 2013,Crystallography,,0
 2013,Electrochemistry,,0
 2013,Oceanography,,0
@@ -584,10 +584,10 @@
 2013,Clinical Neurology,,0
 2013,"Computer Science, Cybernetics",,0
 2013,"Geography, Physical",,0
+2013,Health Care Sciences & Services,,0
 2013,"Medicine, General & Internal",,0
 2013,"Physics, Nuclear",,0
 2013,Agricultural Engineering,,0
-2013,Health Care Sciences & Services,,0
 2013,"Public, Environmental & Occupational Health",,0
 2013,Ecology,,0
 2013,Geriatrics & Gerontology,,0
@@ -595,12 +595,12 @@
 2013,Mining & Mineral Processing,,0
 2013,Developmental Biology,,0
 2013,Evolutionary Biology,,0
+2013,Information Science & Library Science,信息科学与图书馆学,0
 2013,Mineralogy,,0
 2013,Transportation,,0
 2013,Virology,,0
 2013,Endocrinology & Metabolism,,0
 2013,Environmental Studies,,0
-2013,Information Science & Library Science,信息科学与图书馆学,0
 2013,Management,,0
 2013,Ophthalmology,,0
 2013,Parasitology,,0
@@ -643,15 +643,15 @@
 2013,Reproductive Biology,,0
 2013,Sport Sciences,,0
 2013,Substance Abuse,物质滥用,0
-2014,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,6
-2014,"Chemistry, Multidisciplinary",化学：综合,3
+2014,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,7
+2014,"Chemistry, Multidisciplinary",化学：综合,4
 2014,"Materials Science, Multidisciplinary",材料科学：综合,1
 2014,Mechanics,力学,0
 2014,Biochemistry & Molecular Biology,生物化学与分子生物学,3
 2014,"Computer Science, Artificial Intelligence",计算机科学：人工智能,5
 2014,Multidisciplinary Sciences,综合性科学,2
 2014,"Chemistry, Physical",物理化学,1
-2014,"Computer Science, Information Systems",计算机科学：信息系统,2
+2014,"Computer Science, Information Systems",计算机科学：信息系统,3
 2014,"Chemistry, Medicinal",药物化学,2
 2014,"Engineering, Multidisciplinary",工程：综合,0
 2014,Mathematical & Computational Biology,数理与计算生物学,5
@@ -674,8 +674,8 @@
 2014,"Engineering, Civil",,0
 2014,Statistics & Probability,,2
 2014,Biophysics,,3
-2014,"Physics, Condensed Matter",,1
 2014,"Physics, Atomic, Molecular & Chemical",,0
+2014,"Physics, Condensed Matter",,1
 2014,Biology,,1
 2014,"Computer Science, Theory & Methods",,1
 2014,Environmental Sciences,,0
@@ -687,9 +687,9 @@
 2014,"Chemistry, Analytical",,4
 2014,"Engineering, Biomedical",,2
 2014,"Geosciences, Multidisciplinary",,0
+2014,Medical Informatics,,1
 2014,Metallurgy & Metallurgical Engineering,,0
 2014,Instruments & Instrumentation,,2
-2014,Medical Informatics,,1
 2014,Operations Research & Management Science,,0
 2014,Neurosciences,,0
 2014,"Medicine, Research & Experimental",,0
@@ -697,9 +697,9 @@
 2014,Construction & Building Technology,,1
 2014,"Computer Science, Software Engineering",,0
 2014,"Engineering, Manufacturing",,1
+2014,"Computer Science, Hardware & Architecture",,0
 2014,"Engineering, Geological",,0
 2014,"Engineering, Aerospace",,0
-2014,"Computer Science, Hardware & Architecture",,0
 2014,Crystallography,,0
 2014,Electrochemistry,,0
 2014,Oceanography,,0
@@ -745,10 +745,10 @@
 2014,Clinical Neurology,,0
 2014,"Computer Science, Cybernetics",,0
 2014,"Geography, Physical",,0
+2014,Health Care Sciences & Services,,0
 2014,"Medicine, General & Internal",,0
 2014,"Physics, Nuclear",,0
 2014,Agricultural Engineering,,0
-2014,Health Care Sciences & Services,,0
 2014,"Public, Environmental & Occupational Health",,1
 2014,Ecology,,0
 2014,Geriatrics & Gerontology,,0
@@ -756,12 +756,12 @@
 2014,Mining & Mineral Processing,,0
 2014,Developmental Biology,,0
 2014,Evolutionary Biology,,0
+2014,Information Science & Library Science,信息科学与图书馆学,0
 2014,Mineralogy,,0
 2014,Transportation,,0
 2014,Virology,,0
 2014,Endocrinology & Metabolism,,0
 2014,Environmental Studies,,0
-2014,Information Science & Library Science,信息科学与图书馆学,0
 2014,Management,,0
 2014,Ophthalmology,,0
 2014,Parasitology,,0
@@ -835,8 +835,8 @@
 2015,"Engineering, Civil",,1
 2015,Statistics & Probability,,1
 2015,Biophysics,,3
-2015,"Physics, Condensed Matter",,0
 2015,"Physics, Atomic, Molecular & Chemical",,0
+2015,"Physics, Condensed Matter",,0
 2015,Biology,,2
 2015,"Computer Science, Theory & Methods",,0
 2015,Environmental Sciences,,0
@@ -848,9 +848,9 @@
 2015,"Chemistry, Analytical",,0
 2015,"Engineering, Biomedical",,2
 2015,"Geosciences, Multidisciplinary",,0
+2015,Medical Informatics,,1
 2015,Metallurgy & Metallurgical Engineering,,0
 2015,Instruments & Instrumentation,,0
-2015,Medical Informatics,,1
 2015,Operations Research & Management Science,,0
 2015,Neurosciences,,0
 2015,"Medicine, Research & Experimental",,0
@@ -858,9 +858,9 @@
 2015,Construction & Building Technology,,0
 2015,"Computer Science, Software Engineering",,0
 2015,"Engineering, Manufacturing",,0
+2015,"Computer Science, Hardware & Architecture",,0
 2015,"Engineering, Geological",,0
 2015,"Engineering, Aerospace",,1
-2015,"Computer Science, Hardware & Architecture",,0
 2015,Crystallography,,0
 2015,Electrochemistry,,0
 2015,Oceanography,,0
@@ -906,10 +906,10 @@
 2015,Clinical Neurology,,0
 2015,"Computer Science, Cybernetics",,0
 2015,"Geography, Physical",,0
+2015,Health Care Sciences & Services,,0
 2015,"Medicine, General & Internal",,0
 2015,"Physics, Nuclear",,0
 2015,Agricultural Engineering,,0
-2015,Health Care Sciences & Services,,0
 2015,"Public, Environmental & Occupational Health",,0
 2015,Ecology,,0
 2015,Geriatrics & Gerontology,,0
@@ -917,12 +917,12 @@
 2015,Mining & Mineral Processing,,0
 2015,Developmental Biology,,0
 2015,Evolutionary Biology,,1
+2015,Information Science & Library Science,信息科学与图书馆学,0
 2015,Mineralogy,,0
 2015,Transportation,,0
 2015,Virology,,0
 2015,Endocrinology & Metabolism,,0
 2015,Environmental Studies,,0
-2015,Information Science & Library Science,信息科学与图书馆学,0
 2015,Management,,0
 2015,Ophthalmology,,0
 2015,Parasitology,,1
@@ -965,15 +965,15 @@
 2015,Reproductive Biology,,0
 2015,Sport Sciences,,0
 2015,Substance Abuse,物质滥用,0
-2016,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,13
-2016,"Chemistry, Multidisciplinary",化学：综合,9
+2016,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,14
+2016,"Chemistry, Multidisciplinary",化学：综合,10
 2016,"Materials Science, Multidisciplinary",材料科学：综合,1
 2016,Mechanics,力学,0
 2016,Biochemistry & Molecular Biology,生物化学与分子生物学,9
 2016,"Computer Science, Artificial Intelligence",计算机科学：人工智能,1
 2016,Multidisciplinary Sciences,综合性科学,3
 2016,"Chemistry, Physical",物理化学,0
-2016,"Computer Science, Information Systems",计算机科学：信息系统,3
+2016,"Computer Science, Information Systems",计算机科学：信息系统,4
 2016,"Chemistry, Medicinal",药物化学,7
 2016,"Engineering, Multidisciplinary",工程：综合,2
 2016,Mathematical & Computational Biology,数理与计算生物学,8
@@ -996,8 +996,8 @@
 2016,"Engineering, Civil",,0
 2016,Statistics & Probability,,0
 2016,Biophysics,,6
-2016,"Physics, Condensed Matter",,0
 2016,"Physics, Atomic, Molecular & Chemical",,0
+2016,"Physics, Condensed Matter",,0
 2016,Biology,,1
 2016,"Computer Science, Theory & Methods",,0
 2016,Environmental Sciences,,1
@@ -1009,9 +1009,9 @@
 2016,"Chemistry, Analytical",,0
 2016,"Engineering, Biomedical",,0
 2016,"Geosciences, Multidisciplinary",,0
+2016,Medical Informatics,,0
 2016,Metallurgy & Metallurgical Engineering,,0
 2016,Instruments & Instrumentation,,1
-2016,Medical Informatics,,0
 2016,Operations Research & Management Science,,0
 2016,Neurosciences,,0
 2016,"Medicine, Research & Experimental",,2
@@ -1019,9 +1019,9 @@
 2016,Construction & Building Technology,,0
 2016,"Computer Science, Software Engineering",,0
 2016,"Engineering, Manufacturing",,0
+2016,"Computer Science, Hardware & Architecture",,0
 2016,"Engineering, Geological",,0
 2016,"Engineering, Aerospace",,0
-2016,"Computer Science, Hardware & Architecture",,0
 2016,Crystallography,,0
 2016,Electrochemistry,,0
 2016,Oceanography,,0
@@ -1067,10 +1067,10 @@
 2016,Clinical Neurology,,0
 2016,"Computer Science, Cybernetics",,0
 2016,"Geography, Physical",,0
+2016,Health Care Sciences & Services,,0
 2016,"Medicine, General & Internal",,0
 2016,"Physics, Nuclear",,0
 2016,Agricultural Engineering,,0
-2016,Health Care Sciences & Services,,0
 2016,"Public, Environmental & Occupational Health",,0
 2016,Ecology,,0
 2016,Geriatrics & Gerontology,,0
@@ -1078,12 +1078,12 @@
 2016,Mining & Mineral Processing,,0
 2016,Developmental Biology,,0
 2016,Evolutionary Biology,,1
+2016,Information Science & Library Science,信息科学与图书馆学,0
 2016,Mineralogy,,0
 2016,Transportation,,0
 2016,Virology,,0
 2016,Endocrinology & Metabolism,,0
 2016,Environmental Studies,,0
-2016,Information Science & Library Science,信息科学与图书馆学,0
 2016,Management,,0
 2016,Ophthalmology,,1
 2016,Parasitology,,0
@@ -1126,7 +1126,7 @@
 2016,Reproductive Biology,,0
 2016,Sport Sciences,,0
 2016,Substance Abuse,物质滥用,0
-2017,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,17
+2017,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,18
 2017,"Chemistry, Multidisciplinary",化学：综合,18
 2017,"Materials Science, Multidisciplinary",材料科学：综合,4
 2017,Mechanics,力学,2
@@ -1157,8 +1157,8 @@
 2017,"Engineering, Civil",,0
 2017,Statistics & Probability,,5
 2017,Biophysics,,2
-2017,"Physics, Condensed Matter",,0
 2017,"Physics, Atomic, Molecular & Chemical",,1
+2017,"Physics, Condensed Matter",,0
 2017,Biology,,2
 2017,"Computer Science, Theory & Methods",,2
 2017,Environmental Sciences,,2
@@ -1170,9 +1170,9 @@
 2017,"Chemistry, Analytical",,2
 2017,"Engineering, Biomedical",,1
 2017,"Geosciences, Multidisciplinary",,0
+2017,Medical Informatics,,1
 2017,Metallurgy & Metallurgical Engineering,,0
 2017,Instruments & Instrumentation,,2
-2017,Medical Informatics,,1
 2017,Operations Research & Management Science,,0
 2017,Neurosciences,,3
 2017,"Medicine, Research & Experimental",,3
@@ -1180,9 +1180,9 @@
 2017,Construction & Building Technology,,0
 2017,"Computer Science, Software Engineering",,1
 2017,"Engineering, Manufacturing",,1
+2017,"Computer Science, Hardware & Architecture",,0
 2017,"Engineering, Geological",,0
 2017,"Engineering, Aerospace",,0
-2017,"Computer Science, Hardware & Architecture",,0
 2017,Crystallography,,0
 2017,Electrochemistry,,0
 2017,Oceanography,,0
@@ -1228,10 +1228,10 @@
 2017,Clinical Neurology,,0
 2017,"Computer Science, Cybernetics",,0
 2017,"Geography, Physical",,0
+2017,Health Care Sciences & Services,,0
 2017,"Medicine, General & Internal",,0
 2017,"Physics, Nuclear",,0
 2017,Agricultural Engineering,,0
-2017,Health Care Sciences & Services,,0
 2017,"Public, Environmental & Occupational Health",,0
 2017,Ecology,,0
 2017,Geriatrics & Gerontology,,0
@@ -1239,12 +1239,12 @@
 2017,Mining & Mineral Processing,,0
 2017,Developmental Biology,,0
 2017,Evolutionary Biology,,0
+2017,Information Science & Library Science,信息科学与图书馆学,1
 2017,Mineralogy,,0
 2017,Transportation,,0
 2017,Virology,,0
 2017,Endocrinology & Metabolism,,0
 2017,Environmental Studies,,0
-2017,Information Science & Library Science,信息科学与图书馆学,0
 2017,Management,,0
 2017,Ophthalmology,,0
 2017,Parasitology,,0
@@ -1318,8 +1318,8 @@
 2018,"Engineering, Civil",,0
 2018,Statistics & Probability,,7
 2018,Biophysics,,5
-2018,"Physics, Condensed Matter",,1
 2018,"Physics, Atomic, Molecular & Chemical",,5
+2018,"Physics, Condensed Matter",,1
 2018,Biology,,0
 2018,"Computer Science, Theory & Methods",,2
 2018,Environmental Sciences,,1
@@ -1331,9 +1331,9 @@
 2018,"Chemistry, Analytical",,2
 2018,"Engineering, Biomedical",,2
 2018,"Geosciences, Multidisciplinary",,0
+2018,Medical Informatics,,1
 2018,Metallurgy & Metallurgical Engineering,,0
 2018,Instruments & Instrumentation,,2
-2018,Medical Informatics,,1
 2018,Operations Research & Management Science,,0
 2018,Neurosciences,,0
 2018,"Medicine, Research & Experimental",,5
@@ -1341,9 +1341,9 @@
 2018,Construction & Building Technology,,0
 2018,"Computer Science, Software Engineering",,0
 2018,"Engineering, Manufacturing",,1
+2018,"Computer Science, Hardware & Architecture",,1
 2018,"Engineering, Geological",,0
 2018,"Engineering, Aerospace",,0
-2018,"Computer Science, Hardware & Architecture",,1
 2018,Crystallography,,1
 2018,Electrochemistry,,0
 2018,Oceanography,,0
@@ -1389,10 +1389,10 @@
 2018,Clinical Neurology,,0
 2018,"Computer Science, Cybernetics",,0
 2018,"Geography, Physical",,0
+2018,Health Care Sciences & Services,,0
 2018,"Medicine, General & Internal",,0
 2018,"Physics, Nuclear",,0
 2018,Agricultural Engineering,,0
-2018,Health Care Sciences & Services,,0
 2018,"Public, Environmental & Occupational Health",,0
 2018,Ecology,,0
 2018,Geriatrics & Gerontology,,0
@@ -1400,12 +1400,12 @@
 2018,Mining & Mineral Processing,,0
 2018,Developmental Biology,,0
 2018,Evolutionary Biology,,1
+2018,Information Science & Library Science,信息科学与图书馆学,0
 2018,Mineralogy,,0
 2018,Transportation,,0
 2018,Virology,,0
 2018,Endocrinology & Metabolism,,0
 2018,Environmental Studies,,0
-2018,Information Science & Library Science,信息科学与图书馆学,0
 2018,Management,,0
 2018,Ophthalmology,,0
 2018,Parasitology,,0
@@ -1452,7 +1452,7 @@
 2019,"Chemistry, Multidisciplinary",化学：综合,50
 2019,"Materials Science, Multidisciplinary",材料科学：综合,29
 2019,Mechanics,力学,5
-2019,Biochemistry & Molecular Biology,生物化学与分子生物学,24
+2019,Biochemistry & Molecular Biology,生物化学与分子生物学,25
 2019,"Computer Science, Artificial Intelligence",计算机科学：人工智能,6
 2019,Multidisciplinary Sciences,综合性科学,18
 2019,"Chemistry, Physical",物理化学,19
@@ -1461,7 +1461,7 @@
 2019,"Engineering, Multidisciplinary",工程：综合,2
 2019,Mathematical & Computational Biology,数理与计算生物学,30
 2019,"Mathematics, Interdisciplinary Applications",数学：跨学科应用,9
-2019,Biochemical Research Methods,生物化学研究方法,28
+2019,Biochemical Research Methods,生物化学研究方法,29
 2019,"Engineering, Electrical & Electronic",电气与电子工程,3
 2019,"Physics, Mathematical",数学物理,6
 2019,"Engineering, Mechanical",机械工程,3
@@ -1479,8 +1479,8 @@
 2019,"Engineering, Civil",,0
 2019,Statistics & Probability,,12
 2019,Biophysics,,6
-2019,"Physics, Condensed Matter",,3
 2019,"Physics, Atomic, Molecular & Chemical",,6
+2019,"Physics, Condensed Matter",,3
 2019,Biology,,6
 2019,"Computer Science, Theory & Methods",,2
 2019,Environmental Sciences,,1
@@ -1492,9 +1492,9 @@
 2019,"Chemistry, Analytical",,4
 2019,"Engineering, Biomedical",,3
 2019,"Geosciences, Multidisciplinary",,1
+2019,Medical Informatics,,4
 2019,Metallurgy & Metallurgical Engineering,,4
 2019,Instruments & Instrumentation,,3
-2019,Medical Informatics,,3
 2019,Operations Research & Management Science,,1
 2019,Neurosciences,,1
 2019,"Medicine, Research & Experimental",,8
@@ -1502,9 +1502,9 @@
 2019,Construction & Building Technology,,0
 2019,"Computer Science, Software Engineering",,0
 2019,"Engineering, Manufacturing",,1
+2019,"Computer Science, Hardware & Architecture",,0
 2019,"Engineering, Geological",,0
 2019,"Engineering, Aerospace",,1
-2019,"Computer Science, Hardware & Architecture",,0
 2019,Crystallography,,3
 2019,Electrochemistry,,0
 2019,Oceanography,,0
@@ -1550,10 +1550,10 @@
 2019,Clinical Neurology,,0
 2019,"Computer Science, Cybernetics",,0
 2019,"Geography, Physical",,0
+2019,Health Care Sciences & Services,,0
 2019,"Medicine, General & Internal",,0
 2019,"Physics, Nuclear",,0
 2019,Agricultural Engineering,,0
-2019,Health Care Sciences & Services,,0
 2019,"Public, Environmental & Occupational Health",,0
 2019,Ecology,,0
 2019,Geriatrics & Gerontology,,0
@@ -1561,12 +1561,12 @@
 2019,Mining & Mineral Processing,,0
 2019,Developmental Biology,,1
 2019,Evolutionary Biology,,0
+2019,Information Science & Library Science,信息科学与图书馆学,0
 2019,Mineralogy,,0
 2019,Transportation,,0
 2019,Virology,,0
 2019,Endocrinology & Metabolism,,0
 2019,Environmental Studies,,0
-2019,Information Science & Library Science,信息科学与图书馆学,0
 2019,Management,,0
 2019,Ophthalmology,,0
 2019,Parasitology,,1
@@ -1640,8 +1640,8 @@
 2020,"Engineering, Civil",,2
 2020,Statistics & Probability,,13
 2020,Biophysics,,17
-2020,"Physics, Condensed Matter",,3
 2020,"Physics, Atomic, Molecular & Chemical",,10
+2020,"Physics, Condensed Matter",,3
 2020,Biology,,3
 2020,"Computer Science, Theory & Methods",,2
 2020,Environmental Sciences,,4
@@ -1653,9 +1653,9 @@
 2020,"Chemistry, Analytical",,8
 2020,"Engineering, Biomedical",,0
 2020,"Geosciences, Multidisciplinary",,2
+2020,Medical Informatics,,5
 2020,Metallurgy & Metallurgical Engineering,,1
 2020,Instruments & Instrumentation,,4
-2020,Medical Informatics,,5
 2020,Operations Research & Management Science,,1
 2020,Neurosciences,,3
 2020,"Medicine, Research & Experimental",,8
@@ -1663,9 +1663,9 @@
 2020,Construction & Building Technology,,2
 2020,"Computer Science, Software Engineering",,2
 2020,"Engineering, Manufacturing",,4
+2020,"Computer Science, Hardware & Architecture",,0
 2020,"Engineering, Geological",,0
 2020,"Engineering, Aerospace",,1
-2020,"Computer Science, Hardware & Architecture",,0
 2020,Crystallography,,1
 2020,Electrochemistry,,0
 2020,Oceanography,,0
@@ -1711,10 +1711,10 @@
 2020,Clinical Neurology,,0
 2020,"Computer Science, Cybernetics",,0
 2020,"Geography, Physical",,0
+2020,Health Care Sciences & Services,,1
 2020,"Medicine, General & Internal",,0
 2020,"Physics, Nuclear",,0
 2020,Agricultural Engineering,,0
-2020,Health Care Sciences & Services,,1
 2020,"Public, Environmental & Occupational Health",,0
 2020,Ecology,,0
 2020,Geriatrics & Gerontology,,0
@@ -1722,12 +1722,12 @@
 2020,Mining & Mineral Processing,,0
 2020,Developmental Biology,,0
 2020,Evolutionary Biology,,0
+2020,Information Science & Library Science,信息科学与图书馆学,0
 2020,Mineralogy,,0
 2020,Transportation,,0
 2020,Virology,,0
 2020,Endocrinology & Metabolism,,0
 2020,Environmental Studies,,0
-2020,Information Science & Library Science,信息科学与图书馆学,0
 2020,Management,,0
 2020,Ophthalmology,,0
 2020,Parasitology,,0
@@ -1770,15 +1770,15 @@
 2020,Reproductive Biology,,0
 2020,Sport Sciences,,0
 2020,Substance Abuse,物质滥用,0
-2021,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,119
-2021,"Chemistry, Multidisciplinary",化学：综合,107
+2021,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,120
+2021,"Chemistry, Multidisciplinary",化学：综合,108
 2021,"Materials Science, Multidisciplinary",材料科学：综合,58
 2021,Mechanics,力学,23
 2021,Biochemistry & Molecular Biology,生物化学与分子生物学,73
 2021,"Computer Science, Artificial Intelligence",计算机科学：人工智能,30
 2021,Multidisciplinary Sciences,综合性科学,54
 2021,"Chemistry, Physical",物理化学,39
-2021,"Computer Science, Information Systems",计算机科学：信息系统,42
+2021,"Computer Science, Information Systems",计算机科学：信息系统,43
 2021,"Chemistry, Medicinal",药物化学,48
 2021,"Engineering, Multidisciplinary",工程：综合,14
 2021,Mathematical & Computational Biology,数理与计算生物学,57
@@ -1801,8 +1801,8 @@
 2021,"Engineering, Civil",,3
 2021,Statistics & Probability,,23
 2021,Biophysics,,18
-2021,"Physics, Condensed Matter",,3
 2021,"Physics, Atomic, Molecular & Chemical",,14
+2021,"Physics, Condensed Matter",,3
 2021,Biology,,10
 2021,"Computer Science, Theory & Methods",,4
 2021,Environmental Sciences,,5
@@ -1814,9 +1814,9 @@
 2021,"Chemistry, Analytical",,8
 2021,"Engineering, Biomedical",,3
 2021,"Geosciences, Multidisciplinary",,2
+2021,Medical Informatics,,3
 2021,Metallurgy & Metallurgical Engineering,,3
 2021,Instruments & Instrumentation,,2
-2021,Medical Informatics,,3
 2021,Operations Research & Management Science,,1
 2021,Neurosciences,,6
 2021,"Medicine, Research & Experimental",,4
@@ -1824,9 +1824,9 @@
 2021,Construction & Building Technology,,1
 2021,"Computer Science, Software Engineering",,3
 2021,"Engineering, Manufacturing",,1
+2021,"Computer Science, Hardware & Architecture",,2
 2021,"Engineering, Geological",,1
 2021,"Engineering, Aerospace",,1
-2021,"Computer Science, Hardware & Architecture",,2
 2021,Crystallography,,2
 2021,Electrochemistry,,3
 2021,Oceanography,,0
@@ -1872,10 +1872,10 @@
 2021,Clinical Neurology,,1
 2021,"Computer Science, Cybernetics",,0
 2021,"Geography, Physical",,0
+2021,Health Care Sciences & Services,,1
 2021,"Medicine, General & Internal",,0
 2021,"Physics, Nuclear",,0
 2021,Agricultural Engineering,,0
-2021,Health Care Sciences & Services,,1
 2021,"Public, Environmental & Occupational Health",,1
 2021,Ecology,,0
 2021,Geriatrics & Gerontology,,0
@@ -1883,12 +1883,12 @@
 2021,Mining & Mineral Processing,,0
 2021,Developmental Biology,,1
 2021,Evolutionary Biology,,0
+2021,Information Science & Library Science,信息科学与图书馆学,0
 2021,Mineralogy,,0
 2021,Transportation,,0
 2021,Virology,,0
 2021,Endocrinology & Metabolism,,0
 2021,Environmental Studies,,0
-2021,Information Science & Library Science,信息科学与图书馆学,0
 2021,Management,,0
 2021,Ophthalmology,,0
 2021,Parasitology,,0
@@ -1962,8 +1962,8 @@
 2022,"Engineering, Civil",,5
 2022,Statistics & Probability,,35
 2022,Biophysics,,19
-2022,"Physics, Condensed Matter",,6
 2022,"Physics, Atomic, Molecular & Chemical",,14
+2022,"Physics, Condensed Matter",,6
 2022,Biology,,16
 2022,"Computer Science, Theory & Methods",,9
 2022,Environmental Sciences,,10
@@ -1975,9 +1975,9 @@
 2022,"Chemistry, Analytical",,6
 2022,"Engineering, Biomedical",,12
 2022,"Geosciences, Multidisciplinary",,4
+2022,Medical Informatics,,6
 2022,Metallurgy & Metallurgical Engineering,,9
 2022,Instruments & Instrumentation,,5
-2022,Medical Informatics,,5
 2022,Operations Research & Management Science,,3
 2022,Neurosciences,,7
 2022,"Medicine, Research & Experimental",,8
@@ -1985,9 +1985,9 @@
 2022,Construction & Building Technology,,2
 2022,"Computer Science, Software Engineering",,4
 2022,"Engineering, Manufacturing",,5
+2022,"Computer Science, Hardware & Architecture",,6
 2022,"Engineering, Geological",,1
 2022,"Engineering, Aerospace",,3
-2022,"Computer Science, Hardware & Architecture",,6
 2022,Crystallography,,5
 2022,Electrochemistry,,7
 2022,Oceanography,,3
@@ -2033,10 +2033,10 @@
 2022,Clinical Neurology,,3
 2022,"Computer Science, Cybernetics",,1
 2022,"Geography, Physical",,1
+2022,Health Care Sciences & Services,,1
 2022,"Medicine, General & Internal",,3
 2022,"Physics, Nuclear",,0
 2022,Agricultural Engineering,,0
-2022,Health Care Sciences & Services,,1
 2022,"Public, Environmental & Occupational Health",,1
 2022,Ecology,,0
 2022,Geriatrics & Gerontology,,2
@@ -2044,12 +2044,12 @@
 2022,Mining & Mineral Processing,,1
 2022,Developmental Biology,,1
 2022,Evolutionary Biology,,0
+2022,Information Science & Library Science,信息科学与图书馆学,0
 2022,Mineralogy,,1
 2022,Transportation,,0
 2022,Virology,,0
 2022,Endocrinology & Metabolism,,0
 2022,Environmental Studies,,0
-2022,Information Science & Library Science,信息科学与图书馆学,0
 2022,Management,,0
 2022,Ophthalmology,,0
 2022,Parasitology,,0
@@ -2098,7 +2098,7 @@
 2023,Mechanics,力学,85
 2023,Biochemistry & Molecular Biology,生物化学与分子生物学,97
 2023,"Computer Science, Artificial Intelligence",计算机科学：人工智能,76
-2023,Multidisciplinary Sciences,综合性科学,76
+2023,Multidisciplinary Sciences,综合性科学,77
 2023,"Chemistry, Physical",物理化学,64
 2023,"Computer Science, Information Systems",计算机科学：信息系统,73
 2023,"Chemistry, Medicinal",药物化学,67
@@ -2123,8 +2123,8 @@
 2023,"Engineering, Civil",,21
 2023,Statistics & Probability,,29
 2023,Biophysics,,27
-2023,"Physics, Condensed Matter",,17
 2023,"Physics, Atomic, Molecular & Chemical",,16
+2023,"Physics, Condensed Matter",,17
 2023,Biology,,25
 2023,"Computer Science, Theory & Methods",,11
 2023,Environmental Sciences,,14
@@ -2136,9 +2136,9 @@
 2023,"Chemistry, Analytical",,9
 2023,"Engineering, Biomedical",,20
 2023,"Geosciences, Multidisciplinary",,14
+2023,Medical Informatics,,9
 2023,Metallurgy & Metallurgical Engineering,,11
 2023,Instruments & Instrumentation,,10
-2023,Medical Informatics,,9
 2023,Operations Research & Management Science,,10
 2023,Neurosciences,,4
 2023,"Medicine, Research & Experimental",,10
@@ -2146,9 +2146,9 @@
 2023,Construction & Building Technology,,8
 2023,"Computer Science, Software Engineering",,7
 2023,"Engineering, Manufacturing",,5
+2023,"Computer Science, Hardware & Architecture",,3
 2023,"Engineering, Geological",,2
 2023,"Engineering, Aerospace",,2
-2023,"Computer Science, Hardware & Architecture",,3
 2023,Crystallography,,5
 2023,Electrochemistry,,5
 2023,Oceanography,,2
@@ -2194,10 +2194,10 @@
 2023,Clinical Neurology,,0
 2023,"Computer Science, Cybernetics",,0
 2023,"Geography, Physical",,0
+2023,Health Care Sciences & Services,,0
 2023,"Medicine, General & Internal",,1
 2023,"Physics, Nuclear",,0
 2023,Agricultural Engineering,,1
-2023,Health Care Sciences & Services,,0
 2023,"Public, Environmental & Occupational Health",,0
 2023,Ecology,,0
 2023,Geriatrics & Gerontology,,2
@@ -2205,12 +2205,12 @@
 2023,Mining & Mineral Processing,,0
 2023,Developmental Biology,,1
 2023,Evolutionary Biology,,1
+2023,Information Science & Library Science,信息科学与图书馆学,1
 2023,Mineralogy,,0
 2023,Transportation,,0
 2023,Virology,,1
 2023,Endocrinology & Metabolism,,2
 2023,Environmental Studies,,0
-2023,Information Science & Library Science,信息科学与图书馆学,1
 2023,Management,,1
 2023,Ophthalmology,,1
 2023,Parasitology,,1
@@ -2253,15 +2253,15 @@
 2023,Reproductive Biology,,0
 2023,Sport Sciences,,0
 2023,Substance Abuse,物质滥用,0
-2024,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,275
-2024,"Chemistry, Multidisciplinary",化学：综合,211
+2024,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,277
+2024,"Chemistry, Multidisciplinary",化学：综合,212
 2024,"Materials Science, Multidisciplinary",材料科学：综合,159
 2024,Mechanics,力学,173
-2024,Biochemistry & Molecular Biology,生物化学与分子生物学,101
+2024,Biochemistry & Molecular Biology,生物化学与分子生物学,102
 2024,"Computer Science, Artificial Intelligence",计算机科学：人工智能,125
 2024,Multidisciplinary Sciences,综合性科学,124
 2024,"Chemistry, Physical",物理化学,103
-2024,"Computer Science, Information Systems",计算机科学：信息系统,112
+2024,"Computer Science, Information Systems",计算机科学：信息系统,114
 2024,"Chemistry, Medicinal",药物化学,100
 2024,"Engineering, Multidisciplinary",工程：综合,109
 2024,Mathematical & Computational Biology,数理与计算生物学,82
@@ -2276,7 +2276,7 @@
 2024,"Physics, Applied",应用物理,54
 2024,Energy & Fuels,,48
 2024,Pharmacology & Pharmacy,,39
-2024,Biotechnology & Applied Microbiology,,37
+2024,Biotechnology & Applied Microbiology,,38
 2024,"Physics, Fluids & Plasmas",,65
 2024,Automation & Control Systems,,25
 2024,Thermodynamics,,26
@@ -2284,8 +2284,8 @@
 2024,"Engineering, Civil",,25
 2024,Statistics & Probability,,19
 2024,Biophysics,,20
-2024,"Physics, Condensed Matter",,29
 2024,"Physics, Atomic, Molecular & Chemical",,25
+2024,"Physics, Condensed Matter",,29
 2024,Biology,,24
 2024,"Computer Science, Theory & Methods",,33
 2024,Environmental Sciences,,20
@@ -2297,9 +2297,9 @@
 2024,"Chemistry, Analytical",,11
 2024,"Engineering, Biomedical",,23
 2024,"Geosciences, Multidisciplinary",,17
+2024,Medical Informatics,,18
 2024,Metallurgy & Metallurgical Engineering,,12
 2024,Instruments & Instrumentation,,10
-2024,Medical Informatics,,15
 2024,Operations Research & Management Science,,15
 2024,Neurosciences,,18
 2024,"Medicine, Research & Experimental",,13
@@ -2307,9 +2307,9 @@
 2024,Construction & Building Technology,,11
 2024,"Computer Science, Software Engineering",,11
 2024,"Engineering, Manufacturing",,10
+2024,"Computer Science, Hardware & Architecture",,11
 2024,"Engineering, Geological",,11
 2024,"Engineering, Aerospace",,10
-2024,"Computer Science, Hardware & Architecture",,11
 2024,Crystallography,,7
 2024,Electrochemistry,,4
 2024,Oceanography,,6
@@ -2355,10 +2355,10 @@
 2024,Clinical Neurology,,0
 2024,"Computer Science, Cybernetics",,1
 2024,"Geography, Physical",,0
+2024,Health Care Sciences & Services,,2
 2024,"Medicine, General & Internal",,2
 2024,"Physics, Nuclear",,0
 2024,Agricultural Engineering,,0
-2024,Health Care Sciences & Services,,1
 2024,"Public, Environmental & Occupational Health",,0
 2024,Ecology,,0
 2024,Geriatrics & Gerontology,,0
@@ -2366,12 +2366,12 @@
 2024,Mining & Mineral Processing,,0
 2024,Developmental Biology,,0
 2024,Evolutionary Biology,,0
+2024,Information Science & Library Science,信息科学与图书馆学,0
 2024,Mineralogy,,0
 2024,Transportation,,2
 2024,Virology,,1
 2024,Endocrinology & Metabolism,,0
 2024,Environmental Studies,,0
-2024,Information Science & Library Science,信息科学与图书馆学,0
 2024,Management,,0
 2024,Ophthalmology,,0
 2024,Parasitology,,0
@@ -2414,7 +2414,7 @@
 2024,Reproductive Biology,,0
 2024,Sport Sciences,,0
 2024,Substance Abuse,物质滥用,0
-2025,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,351
+2025,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,352
 2025,"Chemistry, Multidisciplinary",化学：综合,299
 2025,"Materials Science, Multidisciplinary",材料科学：综合,224
 2025,Mechanics,力学,298
@@ -2428,7 +2428,7 @@
 2025,Mathematical & Computational Biology,数理与计算生物学,94
 2025,"Mathematics, Interdisciplinary Applications",数学：跨学科应用,140
 2025,Biochemical Research Methods,生物化学研究方法,91
-2025,"Engineering, Electrical & Electronic",电气与电子工程,159
+2025,"Engineering, Electrical & Electronic",电气与电子工程,160
 2025,"Physics, Mathematical",数学物理,104
 2025,"Engineering, Mechanical",机械工程,109
 2025,"Mathematics, Applied",应用数学,93
@@ -2445,10 +2445,10 @@
 2025,"Engineering, Civil",,53
 2025,Statistics & Probability,,40
 2025,Biophysics,,29
-2025,"Physics, Condensed Matter",,40
 2025,"Physics, Atomic, Molecular & Chemical",,33
+2025,"Physics, Condensed Matter",,40
 2025,Biology,,25
-2025,"Computer Science, Theory & Methods",,40
+2025,"Computer Science, Theory & Methods",,41
 2025,Environmental Sciences,,28
 2025,Telecommunications,,31
 2025,Mathematics,,28
@@ -2458,9 +2458,9 @@
 2025,"Chemistry, Analytical",,25
 2025,"Engineering, Biomedical",,14
 2025,"Geosciences, Multidisciplinary",,16
+2025,Medical Informatics,,28
 2025,Metallurgy & Metallurgical Engineering,,28
 2025,Instruments & Instrumentation,,21
-2025,Medical Informatics,,28
 2025,Operations Research & Management Science,,15
 2025,Neurosciences,,20
 2025,"Medicine, Research & Experimental",,10
@@ -2468,9 +2468,9 @@
 2025,Construction & Building Technology,,13
 2025,"Computer Science, Software Engineering",,10
 2025,"Engineering, Manufacturing",,12
+2025,"Computer Science, Hardware & Architecture",,17
 2025,"Engineering, Geological",,10
 2025,"Engineering, Aerospace",,8
-2025,"Computer Science, Hardware & Architecture",,16
 2025,Crystallography,,6
 2025,Electrochemistry,,10
 2025,Oceanography,,13
@@ -2481,7 +2481,7 @@
 2025,Polymer Science,,17
 2025,"Engineering, Industrial",,6
 2025,Green & Sustainable Science & Technology,,9
-2025,Cell Biology,,5
+2025,Cell Biology,,6
 2025,Imaging Science & Photographic Technology,,6
 2025,Acoustics,,8
 2025,"Engineering, Marine",,7
@@ -2516,10 +2516,10 @@
 2025,Clinical Neurology,,2
 2025,"Computer Science, Cybernetics",,0
 2025,"Geography, Physical",,2
+2025,Health Care Sciences & Services,,2
 2025,"Medicine, General & Internal",,1
 2025,"Physics, Nuclear",,2
 2025,Agricultural Engineering,,1
-2025,Health Care Sciences & Services,,2
 2025,"Public, Environmental & Occupational Health",,1
 2025,Ecology,,3
 2025,Geriatrics & Gerontology,,2
@@ -2527,12 +2527,12 @@
 2025,Mining & Mineral Processing,,2
 2025,Developmental Biology,,0
 2025,Evolutionary Biology,,1
+2025,Information Science & Library Science,信息科学与图书馆学,2
 2025,Mineralogy,,2
 2025,Transportation,,1
 2025,Virology,,0
 2025,Endocrinology & Metabolism,,0
 2025,Environmental Studies,,0
-2025,Information Science & Library Science,信息科学与图书馆学,1
 2025,Management,,0
 2025,Ophthalmology,,0
 2025,Parasitology,,0
@@ -2575,26 +2575,26 @@
 2025,Reproductive Biology,,0
 2025,Sport Sciences,,1
 2025,Substance Abuse,物质滥用,1
-2026,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,431
+2026,"Computer Science, Interdisciplinary Applications",计算机科学：跨学科应用,433
 2026,"Chemistry, Multidisciplinary",化学：综合,320
-2026,"Materials Science, Multidisciplinary",材料科学：综合,322
+2026,"Materials Science, Multidisciplinary",材料科学：综合,324
 2026,Mechanics,力学,346
 2026,Biochemistry & Molecular Biology,生物化学与分子生物学,171
-2026,"Computer Science, Artificial Intelligence",计算机科学：人工智能,241
-2026,Multidisciplinary Sciences,综合性科学,170
-2026,"Chemistry, Physical",物理化学,203
+2026,"Computer Science, Artificial Intelligence",计算机科学：人工智能,242
+2026,Multidisciplinary Sciences,综合性科学,172
+2026,"Chemistry, Physical",物理化学,204
 2026,"Computer Science, Information Systems",计算机科学：信息系统,130
 2026,"Chemistry, Medicinal",药物化学,142
 2026,"Engineering, Multidisciplinary",工程：综合,258
 2026,Mathematical & Computational Biology,数理与计算生物学,105
 2026,"Mathematics, Interdisciplinary Applications",数学：跨学科应用,212
-2026,Biochemical Research Methods,生物化学研究方法,88
-2026,"Engineering, Electrical & Electronic",电气与电子工程,216
+2026,Biochemical Research Methods,生物化学研究方法,89
+2026,"Engineering, Electrical & Electronic",电气与电子工程,218
 2026,"Physics, Mathematical",数学物理,136
 2026,"Engineering, Mechanical",机械工程,180
 2026,"Mathematics, Applied",应用数学,134
 2026,"Engineering, Chemical",化学工程,120
-2026,Nanoscience & Nanotechnology,,104
+2026,Nanoscience & Nanotechnology,,105
 2026,"Physics, Applied",应用物理,120
 2026,Energy & Fuels,,125
 2026,Pharmacology & Pharmacy,,67
@@ -2606,22 +2606,22 @@
 2026,"Engineering, Civil",,109
 2026,Statistics & Probability,,26
 2026,Biophysics,,49
+2026,"Physics, Atomic, Molecular & Chemical",,39
 2026,"Physics, Condensed Matter",,60
-2026,"Physics, Atomic, Molecular & Chemical",,38
 2026,Biology,,41
-2026,"Computer Science, Theory & Methods",,33
+2026,"Computer Science, Theory & Methods",,36
 2026,Environmental Sciences,,46
 2026,Telecommunications,,41
 2026,Mathematics,,48
 2026,"Engineering, Environmental",,55
 2026,"Chemistry, Applied",,53
 2026,Water Resources,,40
-2026,"Chemistry, Analytical",,30
+2026,"Chemistry, Analytical",,31
 2026,"Engineering, Biomedical",,29
 2026,"Geosciences, Multidisciplinary",,52
+2026,Medical Informatics,,26
 2026,Metallurgy & Metallurgical Engineering,,35
 2026,Instruments & Instrumentation,,38
-2026,Medical Informatics,,26
 2026,Operations Research & Management Science,,44
 2026,Neurosciences,,20
 2026,"Medicine, Research & Experimental",,8
@@ -2629,9 +2629,9 @@
 2026,Construction & Building Technology,,28
 2026,"Computer Science, Software Engineering",,24
 2026,"Engineering, Manufacturing",,20
+2026,"Computer Science, Hardware & Architecture",,16
 2026,"Engineering, Geological",,31
 2026,"Engineering, Aerospace",,27
-2026,"Computer Science, Hardware & Architecture",,15
 2026,Crystallography,,21
 2026,Electrochemistry,,23
 2026,Oceanography,,28
@@ -2677,10 +2677,10 @@
 2026,Clinical Neurology,,2
 2026,"Computer Science, Cybernetics",,6
 2026,"Geography, Physical",,5
+2026,Health Care Sciences & Services,,1
 2026,"Medicine, General & Internal",,1
 2026,"Physics, Nuclear",,6
 2026,Agricultural Engineering,,5
-2026,Health Care Sciences & Services,,1
 2026,"Public, Environmental & Occupational Health",,3
 2026,Ecology,,3
 2026,Geriatrics & Gerontology,,0
@@ -2688,12 +2688,12 @@
 2026,Mining & Mineral Processing,,3
 2026,Developmental Biology,,1
 2026,Evolutionary Biology,,0
+2026,Information Science & Library Science,信息科学与图书馆学,1
 2026,Mineralogy,,2
 2026,Transportation,,1
 2026,Virology,,2
 2026,Endocrinology & Metabolism,,1
 2026,Environmental Studies,,3
-2026,Information Science & Library Science,信息科学与图书馆学,1
 2026,Management,,1
 2026,Ophthalmology,,1
 2026,Parasitology,,0

@@ -1,77 +1,57 @@
 {
-  "version": "v6-20261102-9992-PY",
-  "current_records": 9992,
+  "version": "v7-20261103-10017-PY",
+  "current_records": 10017,
   "year_field": "PY",
-  "year_min": 2010,
-  "year_max": 2026,
   "annual_counts": {
     "2010": 25,
     "2011": 16,
     "2012": 18,
     "2013": 24,
-    "2014": 28,
+    "2014": 29,
     "2015": 42,
-    "2016": 37,
-    "2017": 66,
+    "2016": 38,
+    "2017": 67,
     "2018": 108,
-    "2019": 209,
+    "2019": 211,
     "2020": 345,
-    "2021": 523,
-    "2022": 782,
-    "2023": 1041,
-    "2024": 1521,
-    "2025": 2286,
-    "2026": 2921
+    "2021": 524,
+    "2022": 783,
+    "2023": 1042,
+    "2024": 1526,
+    "2025": 2289,
+    "2026": 2930
   },
   "screening_counts": [
     11637,
     11513,
-    11163,
-    10304,
-    9992
+    10993,
+    10017
   ],
   "screening_removals": [
     124,
-    350,
-    859,
-    312
+    520,
+    976
   ],
-  "basic_screening": {
-    "PY_outside_2010_2026": 116,
-    "retracted": 4,
-    "duplicates": 4
-  },
-  "final_disputed_review": {
-    "reviewed": 337,
-    "retained": 25,
-    "excluded": 312,
-    "pending": 0,
-    "excluded_label_count": 311,
-    "out_of_scope_label_count": 1
-  },
-  "wc_valid": 9986,
+  "wc_valid": 10011,
   "wc_missing": 6,
   "wc_categories": 161,
-  "wc_memberships": 21652,
-  "C3_valid": 9736,
-  "C3_missing": 256,
-  "retained_ut_file": "data/retained_9992_ut.csv",
-  "retained_ut_file_sha256": "aaee56dd7a5cc4c9bc865091e98e7431953974cda0ed621592516f9480e18cd4",
-  "full_wos_release_status": "9992篇WoS数据包尚未发布至本仓库Release；v5的9363篇包仅为历史版本",
-  "source_wos_sha256": "0bc825f3ab9d754378716f0a96e1a0535238d46e3e2b3cd99b66dbb78c6a72bc",
-  "local_source_ut_count": 9992,
-  "evidence_pending_retained": 57,
-  "figures_status": "redrawn_from_actual_9992_records",
-  "sample_records": 9992,
-  "unique_ut": 9992,
+  "wc_memberships": 21703,
+  "C3_valid": 9759,
+  "C3_missing": 258,
+  "retained_ut_file": "data/retained_10017_ut.csv",
+  "full_wos_file": "data/AI4S_10017_WoS.zip",
+  "restored_research_assistance": 25,
+  "source_validation": "10017 unique retained UT matched to original WoS fields",
+  "sample_records": 10017,
+  "unique_ut": 10017,
   "top10_institutions": [
     [
       "Chinese Academy of Sciences",
-      418
+      420
     ],
     [
       "United States Department of Energy (DOE)",
-      250
+      253
     ],
     [
       "University of California System",
@@ -87,7 +67,7 @@
     ],
     [
       "Indian Institute of Technology System (IIT System)",
-      171
+      172
     ],
     [
       "Tsinghua University",
@@ -95,40 +75,15 @@
     ],
     [
       "University of Chinese Academy of Sciences, CAS",
-      156
+      157
     ],
     [
       "Massachusetts Institute of Technology (MIT)",
-      142
+      143
     ],
     [
       "Central South University",
-      125
+      126
     ]
-  ],
-  "source_validation": "从9992篇实际保留记录及原始WoS字段重新统计，与UT清单和保留WoS文件逐项对照；并非将9363篇汇总数字按比例改写。",
-  "files_sha256": {
-    "figures/annual_publications.svg": "d164c4da7028f30559d7d0c2b3faaec0d8a879d6ac69a63b9c67a9c3ee0bb7c1",
-    "figures/fig01_screening_flow.png": "546815e51c5f179aaef1f2833f0cbdce10066828bb4d30ed886d647852993a62",
-    "figures/fig02_annual_publications.png": "00d971cfaeab72882522a46325a1fc334a9a186a86842e9e812610e5977493ff",
-    "figures/fig02_annual_publications.svg": "d164c4da7028f30559d7d0c2b3faaec0d8a879d6ac69a63b9c67a9c3ee0bb7c1",
-    "figures/fig03_wc_top20.png": "502328bf2e6d6acc590e676a4123e9f4d92094990d2f5daa3c1c1e49fa693ee4",
-    "figures/fig03_wc_top20.svg": "fde6d6ea33a06fbb6ae1c3f1c48004d59514f120403103ab36cee128f64ce933",
-    "figures/fig04_wc_year_heatmap.png": "7c0bae0ba5e048eb2e1a6c7bcaeee955d7f1080d6d454530e1b2612161a67c70",
-    "figures/fig04_wc_year_heatmap.svg": "68ffda549cd6e8316505145b608b036bc85252545910afa3b9a567857c551ddf",
-    "figures/fig05_institutions_top10.png": "9a73f2c907905a72fcd40b2cb5ac73bd6522954b7cb596a3cb2cd23f1fea4cdb",
-    "figures/fig05_institutions_top10.svg": "43fb7ad5030608f12cf95bcb482c3979c2193058db66664ffc0eee2d86909385",
-    "figures/institution_distribution.svg": "43fb7ad5030608f12cf95bcb482c3979c2193058db66664ffc0eee2d86909385",
-    "figures/screening_flow.svg": "738ea2729947fb10220f68458dc63b71580fd3ee62caa41244985e2f6f76b8b6",
-    "figures/source_data/annual_publications.csv": "aeb4175be4904f1c705a40276826beefeba5beb88402eb8130ae90eb8d3b6cb2",
-    "figures/source_data/institution_top10.csv": "a3329487b5c805cebc418e932245f7fe9a61e606b53356aa33a1a9a771bee1f6",
-    "figures/source_data/screening_flow_counts.csv": "b181cc4f72a66141a22e94839631e931db1549c88dc96177a2e2167b07c1a337",
-    "figures/source_data/wc_annual_counts.csv": "f21542140002a11557ad31c4d2857d21980b80e1712aec70d7aad846e1a6ca48",
-    "figures/source_data/wc_category_counts.csv": "c18be9fcbbd3bdedf22e9c887f3c987750e7ebf1aa660d821f5349b2b4ae509f",
-    "figures/wc_distribution_top20.svg": "fde6d6ea33a06fbb6ae1c3f1c48004d59514f120403103ab36cee128f64ce933",
-    "figures/wc_year_heatmap.svg": "68ffda549cd6e8316505145b608b036bc85252545910afa3b9a567857c551ddf",
-    "figures/wc_annual_stacked.svg": "e87b8a1c48cc4f6a6de40674de4f657cb7e49a101758210b1342b44223d116ab"
-  },
-  "plotted_marks_match_csv": true,
-  "visual_qa": "全部当前图表已从9992篇实际记录重算并检查；流程图直接沿用用户确认版本。"
+  ]
 }

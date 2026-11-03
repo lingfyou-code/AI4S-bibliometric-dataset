@@ -1,65 +1,45 @@
 {
-  "version": "v6-20261102-9992-PY",
-  "current_records": 9992,
+  "version": "v7-20261103-10017-PY",
+  "current_records": 10017,
   "year_field": "PY",
-  "year_min": 2010,
-  "year_max": 2026,
   "annual_counts": {
     "2010": 25,
     "2011": 16,
     "2012": 18,
     "2013": 24,
-    "2014": 28,
+    "2014": 29,
     "2015": 42,
-    "2016": 37,
-    "2017": 66,
+    "2016": 38,
+    "2017": 67,
     "2018": 108,
-    "2019": 209,
+    "2019": 211,
     "2020": 345,
-    "2021": 523,
-    "2022": 782,
-    "2023": 1041,
-    "2024": 1521,
-    "2025": 2286,
-    "2026": 2921
+    "2021": 524,
+    "2022": 783,
+    "2023": 1042,
+    "2024": 1526,
+    "2025": 2289,
+    "2026": 2930
   },
   "screening_counts": [
     11637,
     11513,
-    11163,
-    10304,
-    9992
+    10993,
+    10017
   ],
   "screening_removals": [
     124,
-    350,
-    859,
-    312
+    520,
+    976
   ],
-  "basic_screening": {
-    "PY_outside_2010_2026": 116,
-    "retracted": 4,
-    "duplicates": 4
-  },
-  "final_disputed_review": {
-    "reviewed": 337,
-    "retained": 25,
-    "excluded": 312,
-    "pending": 0,
-    "excluded_label_count": 311,
-    "out_of_scope_label_count": 1
-  },
-  "wc_valid": 9986,
+  "wc_valid": 10011,
   "wc_missing": 6,
   "wc_categories": 161,
-  "wc_memberships": 21652,
-  "C3_valid": 9736,
-  "C3_missing": 256,
-  "retained_ut_file": "data/retained_9992_ut.csv",
-  "retained_ut_file_sha256": "aaee56dd7a5cc4c9bc865091e98e7431953974cda0ed621592516f9480e18cd4",
-  "full_wos_release_status": "9992篇WoS数据包尚未发布至本仓库Release；v5的9363篇包仅为历史版本",
-  "source_wos_sha256": "0bc825f3ab9d754378716f0a96e1a0535238d46e3e2b3cd99b66dbb78c6a72bc",
-  "local_source_ut_count": 9992,
-  "evidence_pending_retained": 57,
-  "figures_status": "redrawn_from_actual_9992_records"
+  "wc_memberships": 21703,
+  "C3_valid": 9759,
+  "C3_missing": 258,
+  "retained_ut_file": "data/retained_10017_ut.csv",
+  "full_wos_file": "data/AI4S_10017_WoS.zip",
+  "restored_research_assistance": 25,
+  "source_validation": "10017 unique retained UT matched to original WoS fields"
 }
